@@ -16,11 +16,19 @@ export const AuthMenu = () => {
       <Menu as="div" className="relative ml-4 flex-shrink-0">
         <div>
           <Menu.Button
-            className="flex rounded-full bg-white text-sm ring-2 ring-white ring-opacity-20 focus:outline-none focus:ring-opacity-100">
+            className="group flex items-center gap-2 rounded-full bg-white text-sm ring-4 ring-white ring-opacity-20 hover:ring-0 focus:outline-none hover:p-1 hover:rounded-md mr-1 my-1 hover:m-0"
+          >
             <span className="sr-only">Open user menu</span>
-            {/* eslint-disable-next-line @typescript-eslint/no-unsafe-assignment */}
-            <Image priority className="h-8 w-8 rounded-full" src={user?.profileImageUrl} width={32} height={32}
-                   alt="" />
+            <span className="hidden group-hover:block ml-3">
+              {user?.username || user?.emailAddresses?.[0]?.emailAddress || ""}
+            </span>
+            <Image
+              priority
+              className="h-8 w-8 rounded-full"
+              src={user?.profileImageUrl}
+              width={32} height={32}
+              alt=""
+            />
           </Menu.Button>
         </div>
         <Transition
