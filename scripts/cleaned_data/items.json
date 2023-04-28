@@ -2,6 +2,9 @@
   "desc-ironplate-c": {
     "id": "desc-ironplate-c",
     "name": "Iron Plate",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedironplates-c",
       "recipe-ironplate-c"
@@ -182,6 +185,9 @@
   "desc-ironrod-c": {
     "id": "desc-ironrod-c",
     "name": "Iron Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedironrods-c",
       "recipe-ironrod-c"
@@ -278,6 +284,9 @@
   "res-stritaritore-c": {
     "id": "res-stritaritore-c",
     "name": "Stiratite Ore",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-alternative-mixc-rubyte-c",
@@ -292,6 +301,9 @@
   "desc-crushedstritarit-c": {
     "id": "desc-crushedstritarit-c",
     "name": "Crushed Stiratite",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-mixc-stritarite-c",
       "recipe-crusher-stritarit-c",
@@ -308,6 +320,9 @@
   "desc-ironingot-c": {
     "id": "desc-ironingot-c",
     "name": "Iron Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundery-sulfurfreeiron-c",
       "recipe-sac-ingots-iron-c",
@@ -324,6 +339,9 @@
   "desc-hubparts-c": {
     "id": "desc-hubparts-c",
     "name": "HUB Parts",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-tradingpost-c"
@@ -332,6 +350,9 @@
   "desc-tradingpost-c": {
     "id": "desc-tradingpost-c",
     "name": "The HUB",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-tradingpost-c"
     ],
@@ -340,6 +361,9 @@
   "desc-ironscrew-c": {
     "id": "desc-ironscrew-c",
     "name": "Screw",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedironscrew-c",
       "recipe-constructor-ironscrew-c",
@@ -765,6 +789,9 @@
   "desc-cable-c": {
     "id": "desc-cable-c",
     "name": "Cable",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-cuttedflatcoppercable-c",
       "recipe-constructor-coppercable-c"
@@ -842,6 +869,9 @@
   "desc-alienprotein-c": {
     "id": "desc-alienprotein-c",
     "name": "Alien Protein",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-protein-crab-c",
       "recipe-protein-hog-c",
@@ -893,6 +923,9 @@
   "desc-nut-c": {
     "id": "desc-nut-c",
     "name": "Beryl Nut",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-manu-medic-c",
@@ -902,6 +935,9 @@
   "desc-medkit-c": {
     "id": "desc-medkit-c",
     "name": "Medicinal Inhaler",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-medic-c",
       "recipe-medicinalinhaler-c",
@@ -924,6 +960,9 @@
   "desc-spikedrebar-c": {
     "id": "desc-spikedrebar-c",
     "name": "Iron Rebar",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-spikedrebar-c"
     ],
@@ -936,6 +975,9 @@
   "desc-ironplatereinforced-c": {
     "id": "desc-ironplatereinforced-c",
     "name": "Reinforced Iron Plate",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-rezincplates-c",
       "recipe-assamble-rironplates-c"
@@ -974,6 +1016,9 @@
   "res-cryolit-c": {
     "id": "res-cryolit-c",
     "name": "Cryolite",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-chemreactor-natriumhot-c",
@@ -988,6 +1033,9 @@
   "desc-quartzcrystal-c": {
     "id": "desc-quartzcrystal-c",
     "name": "Quartz Crystal",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t1-cryolit-2-c",
       "recipe-sorter-t1-cryolit-c",
@@ -1016,6 +1064,9 @@
   "desc-salt-c": {
     "id": "desc-salt-c",
     "name": "Salt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-natriumhot-c",
       "recipe-crusher-salt-c",
@@ -1032,6 +1083,9 @@
   "desc-crushedlimestone-c": {
     "id": "desc-crushedlimestone-c",
     "name": "Crushed Stone",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-crushedslag-c",
       "recipe-alternative-mixc-rubyte-c",
@@ -1062,6 +1116,9 @@
   "desc-motor-c": {
     "id": "desc-motor-c",
     "name": "Motor",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-motor-c"
     ],
@@ -1083,6 +1140,9 @@
   "desc-brassplates-c": {
     "id": "desc-brassplates-c",
     "name": "Brass Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-brassplates-c"
     ],
@@ -1107,6 +1167,9 @@
   "desc-steelpipe-c": {
     "id": "desc-steelpipe-c",
     "name": "Steel Pipe",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-steelpipe-c"
     ],
@@ -1121,6 +1184,9 @@
   "desc-steelrod-c": {
     "id": "desc-steelrod-c",
     "name": "Steel Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-parts-steelrods-c"
     ],
@@ -1161,6 +1227,9 @@
   "desc-limedust-c": {
     "id": "desc-limedust-c",
     "name": "Lime Dust",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-crushedlimedust-c",
       "recipe-crusher-limedust-cryolite-c",
@@ -1242,6 +1311,9 @@
   "desc-cement-c": {
     "id": "desc-cement-c",
     "name": "Concrete",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-limedustconcrete-c",
       "recipe-assamble-slagcement-c",
@@ -1543,6 +1615,9 @@
   "desc-crushedcopper-c": {
     "id": "desc-crushedcopper-c",
     "name": "Crushed Copper",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-puresortedcopper-c",
       "recipe-sorter-t1-sapherit-c",
@@ -1563,6 +1638,9 @@
   "desc-copperingot-c": {
     "id": "desc-copperingot-c",
     "name": "Copper Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundery-saltedcopper-c",
       "recipe-sac-ingots-copper-c",
@@ -1580,6 +1658,9 @@
   "desc-crushedtin-c": {
     "id": "desc-crushedtin-c",
     "name": "Crushed Tin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-puresortedtin-c",
       "recipe-sorter-t1-rubyte-c",
@@ -1598,6 +1679,9 @@
   "desc-tiningot-c": {
     "id": "desc-tiningot-c",
     "name": "Tin Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-tinnediron-c",
       "recipe-foundery-saltedtin-c",
@@ -1615,6 +1699,9 @@
   "desc-water-c": {
     "id": "desc-water-c",
     "name": "Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-bata-c",
       "recipe-fbfs-liquidalum-c",
@@ -1720,6 +1807,9 @@
   "desc-diamond-c": {
     "id": "desc-diamond-c",
     "name": "Diamond",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t2-diamond-c"
     ],
@@ -1733,6 +1823,9 @@
   "desc-zincplates-c": {
     "id": "desc-zincplates-c",
     "name": "Zinc Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-zincplates-c"
     ],
@@ -1751,6 +1844,9 @@
   "desc-crystaloscillator-c": {
     "id": "desc-crystaloscillator-c",
     "name": "Crystal Oscillator",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-crystaloscillator-c"
     ],
@@ -1762,6 +1858,9 @@
   "desc-bronzeframe-c": {
     "id": "desc-bronzeframe-c",
     "name": "Bronze Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-bronzeframe-c"
     ],
@@ -1790,6 +1889,9 @@
   "bp-itemdescriptorportableminer-c": {
     "id": "bp-itemdescriptorportableminer-c",
     "name": "Portable Miner",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-automaticminer-c",
       "recipe-portableminer-c"
@@ -1815,6 +1917,9 @@
   "desc-steelscrew-c": {
     "id": "desc-steelscrew-c",
     "name": "Steel Screw",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-steelscrew-c"
     ],
@@ -1879,6 +1984,9 @@
   "desc-ironsheet-c": {
     "id": "desc-ironsheet-c",
     "name": "Iron Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-galvanizedsheet-c",
       "recipe-constructor-ironsheet-c"
@@ -2092,6 +2200,9 @@
   "desc-nobeliskexplosive-c": {
     "id": "desc-nobeliskexplosive-c",
     "name": "Nobelisk",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-nobelisk-c"
     ],
@@ -2105,6 +2216,9 @@
   "desc-magnesiumgranules-c": {
     "id": "desc-magnesiumgranules-c",
     "name": "Magnesium Granules",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-magnesiumgranulat-c"
     ],
@@ -2138,6 +2252,9 @@
   "desc-fabric-c": {
     "id": "desc-fabric-c",
     "name": "Fabric",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-weavingmachine-fabric-c",
       "recipe-weavingmachine-fabric-cotten-c",
@@ -2168,6 +2285,9 @@
   "desc-mycelia-c": {
     "id": "desc-mycelia-c",
     "name": "Mycelia",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-mycelia-c",
       "recipe-sf+-alt-crop-mycelia2-c",
@@ -2186,6 +2306,9 @@
   "desc-ff-crop-cotton-c": {
     "id": "desc-ff-crop-cotton-c",
     "name": "Cotton",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-cotton-c",
       "recipe-sf+-alt-crop-cotton2-c",
@@ -2199,6 +2322,9 @@
   "desc-modularframe-c": {
     "id": "desc-modularframe-c",
     "name": "Modular Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-metalframe-c"
     ],
@@ -2227,6 +2353,9 @@
   "desc-leadplates-c": {
     "id": "desc-leadplates-c",
     "name": "Lead Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-leadplates-c"
     ],
@@ -2245,6 +2374,9 @@
   "builddesc-weavingmachine-c": {
     "id": "builddesc-weavingmachine-c",
     "name": "Weaver",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-weavingmachine-c"
     ],
@@ -2253,6 +2385,9 @@
   "desc-coal-c": {
     "id": "desc-coal-c",
     "name": "Coal",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-air-c"
     ],
@@ -2266,6 +2401,9 @@
   "desc-rubber-c": {
     "id": "desc-rubber-c",
     "name": "Rubber",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-ahp-c",
       "recipe-sac-oilplasticrubber-c"
@@ -2299,6 +2437,9 @@
   "desc-berry-c": {
     "id": "desc-berry-c",
     "name": "Paleberry",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-manu-medic-c",
@@ -2308,6 +2449,9 @@
   "desc-shroom-c": {
     "id": "desc-shroom-c",
     "name": "Bacon Agaric",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-manu-medic-c",
@@ -2317,6 +2461,9 @@
   "desc-genericbiomass-c": {
     "id": "desc-genericbiomass-c",
     "name": "Biomass",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-biomass-leaves-c",
       "recipe-constructor-woodbio-c"
@@ -2334,6 +2481,9 @@
   "desc-plastic-c": {
     "id": "desc-plastic-c",
     "name": "Plastic",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-ahp-c",
       "recipe-sac-oilplasticrubber-c"
@@ -2410,6 +2560,9 @@
   "desc-emtpycartridge-c": {
     "id": "desc-emtpycartridge-c",
     "name": "Empty Cartridge",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-emptycolor-c"
     ],
@@ -2421,6 +2574,9 @@
   "desc-paint-c": {
     "id": "desc-paint-c",
     "name": "Paint",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-paint-c",
       "recipe-unpackaged-paint-c"
@@ -2433,6 +2589,9 @@
   "desc-colorcartridge-c": {
     "id": "desc-colorcartridge-c",
     "name": "Color Cartridge",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-colorcartridge-c",
       "recipe-packager-color-c"
@@ -2447,6 +2606,9 @@
   "desc-gunpowdermk2-c": {
     "id": "desc-gunpowdermk2-c",
     "name": "Smokeless Powder",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-gunpowdermk2-c"
     ],
@@ -2473,6 +2635,9 @@
   "desc-leadsheet-c": {
     "id": "desc-leadsheet-c",
     "name": "Lead Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-leadsheet-c"
     ],
@@ -2506,6 +2671,9 @@
   "desc-ff-bananaseed-c": {
     "id": "desc-ff-bananaseed-c",
     "name": "Banana Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-banana-c",
@@ -2516,6 +2684,9 @@
   "desc-ff-crop-banana-c": {
     "id": "desc-ff-crop-banana-c",
     "name": "Banana",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-banana-c",
       "recipe-sf+-alt-crop-banana2-c",
@@ -2532,6 +2703,9 @@
   "desc-ff-biomasscapsule-c": {
     "id": "desc-ff-biomasscapsule-c",
     "name": "Biomass Capsule",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-apple-c",
       "recipe-sf+-alt-crop-apple2-c",
@@ -2574,6 +2748,9 @@
   "desc-ff-pumpkinseed-c": {
     "id": "desc-ff-pumpkinseed-c",
     "name": "Pumpkin Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-pumpkin-c",
@@ -2584,6 +2761,9 @@
   "desc-ff-crop-pumpkin-c": {
     "id": "desc-ff-crop-pumpkin-c",
     "name": "Pumpkin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-pumpkin-c",
       "recipe-sf+-alt-crop-pumpkin2-c",
@@ -2598,6 +2778,9 @@
   "desc-ff-dirt-c": {
     "id": "desc-ff-dirt-c",
     "name": "Jar Of Dirt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-ff-cropplot-c",
@@ -2610,6 +2793,9 @@
   "desc-ff-treeplot-c": {
     "id": "desc-ff-treeplot-c",
     "name": "Tree Plot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-ff-treeplot-c"
     ],
@@ -2618,6 +2804,9 @@
   "desc-ff-yosseseed-c": {
     "id": "desc-ff-yosseseed-c",
     "name": "Yosse Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-yosseberry-c",
@@ -2628,6 +2817,9 @@
   "desc-ff-crop-yosseberry-c": {
     "id": "desc-ff-crop-yosseberry-c",
     "name": "Yosse Berry",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-yosseberry-c",
       "recipe-sf+-alt-crop-yosseberry2-c",
@@ -2644,6 +2836,9 @@
   "desc-copperrod-c": {
     "id": "desc-copperrod-c",
     "name": "Copper Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-copperrod-c"
     ],
@@ -2670,6 +2865,9 @@
   "desc-leadframe-c": {
     "id": "desc-leadframe-c",
     "name": "Lead Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-leadframe-c"
     ],
@@ -2691,6 +2889,9 @@
   "desc-glass-c": {
     "id": "desc-glass-c",
     "name": "Glass",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-smelter-dirty-glass-c"
     ],
@@ -2776,6 +2977,9 @@
   "desc-copperpipe-c": {
     "id": "desc-copperpipe-c",
     "name": "Copper Pipes",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedcopperpipes-c",
       "recipe-constructor-copperpipe-c"
@@ -2825,6 +3029,9 @@
   "desc-biofuel-c": {
     "id": "desc-biofuel-c",
     "name": "Solid Biofuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-biofuel-c",
       "recipe-constructor-solidbiomasscapsuse-c"
@@ -2838,6 +3045,9 @@
   "desc-ff-appleseed-c": {
     "id": "desc-ff-appleseed-c",
     "name": "Apple Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-apple-c",
@@ -2848,6 +3058,9 @@
   "desc-ff-crop-apple-c": {
     "id": "desc-ff-crop-apple-c",
     "name": "Apple",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-apple-c",
       "recipe-sf+-alt-crop-apple2-c",
@@ -2863,6 +3076,9 @@
   "desc-ff-cottonseed-c": {
     "id": "desc-ff-cottonseed-c",
     "name": "Cotton Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-cotton-c",
@@ -2884,6 +3100,9 @@
   "desc-ff-myceliaseed-c": {
     "id": "desc-ff-myceliaseed-c",
     "name": "Mycelia Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-mycelia-c",
@@ -2905,6 +3124,9 @@
   "desc-ff-flowerseed-c": {
     "id": "desc-ff-flowerseed-c",
     "name": "Flower Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-flowers3-c",
@@ -2915,6 +3137,9 @@
   "desc-flowerpetals-c": {
     "id": "desc-flowerpetals-c",
     "name": "Flower Petals",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-flowers3-c",
       "recipe-sf+-flowers-c",
@@ -2950,6 +3175,9 @@
   "desc-brasspipe-c": {
     "id": "desc-brasspipe-c",
     "name": "Brass Pipes",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-brasspipe-c"
     ],
@@ -2973,6 +3201,9 @@
   "desc-rotor-c": {
     "id": "desc-rotor-c",
     "name": "Rotor",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-rotor-c"
     ],
@@ -3017,6 +3248,9 @@
   "desc-ff-carrotseed-c": {
     "id": "desc-ff-carrotseed-c",
     "name": "Carrot Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-carrot-c",
@@ -3027,6 +3261,9 @@
   "desc-ff-crop-carrot-c": {
     "id": "desc-ff-crop-carrot-c",
     "name": "Carrot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-carrot-c",
       "recipe-sf+-alt-crop-carrot2-c",
@@ -3042,6 +3279,9 @@
   "desc-ff-cornseed-c": {
     "id": "desc-ff-cornseed-c",
     "name": "Corn Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-corn-c",
@@ -3052,6 +3292,9 @@
   "desc-ff-crop-corn-c": {
     "id": "desc-ff-crop-corn-c",
     "name": "Corn",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-corn-c",
       "recipe-sf+-alt-crop-corn2-c",
@@ -3066,6 +3309,9 @@
   "desc-ff-crop-wheat-c": {
     "id": "desc-ff-crop-wheat-c",
     "name": "Wheat",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-wheat-c",
       "recipe-sf+-alt-crop-wheat2-c",
@@ -3100,6 +3346,9 @@
   "desc-ff-potatoseed-c": {
     "id": "desc-ff-potatoseed-c",
     "name": "Potato Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-potato-c",
@@ -3110,6 +3359,9 @@
   "desc-ff-crop-potato-c": {
     "id": "desc-ff-crop-potato-c",
     "name": "Potato",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sf+-alt-crop-potato-c",
       "recipe-sf+-alt-crop-potato2-c",
@@ -3123,6 +3375,9 @@
   "desc-ff-wheatseed-c": {
     "id": "desc-ff-wheatseed-c",
     "name": "Wheat Seed",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-sf+-alt-crop-wheat-c",
@@ -3331,6 +3586,9 @@
   "desc-liquiddirtywater-c": {
     "id": "desc-liquiddirtywater-c",
     "name": "Dirty Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-liquiddirtywater-c",
       "recipe-wasching-caterium-c",
@@ -3375,6 +3633,9 @@
   "desc-timec-case-c": {
     "id": "desc-timec-case-c",
     "name": "Stabilization Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-time-case-c"
     ],
@@ -3396,6 +3657,9 @@
   "desc-timec-stabilizedtimecrystal-c": {
     "id": "desc-timec-stabilizedtimecrystal-c",
     "name": "Stabilized Quantum Crystal",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-time-stabilizer-c"
     ],
@@ -3417,6 +3681,9 @@
   "desc-timec-cable-c": {
     "id": "desc-timec-cable-c",
     "name": "Quantum Cable",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-time-cable-c"
     ],
@@ -3517,6 +3784,9 @@
   "slugdesc-blueslug-c": {
     "id": "slugdesc-blueslug-c",
     "name": "Blue Slug",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-low-blueslug-c",
@@ -3548,6 +3818,9 @@
   "desc-beltitemmk2-c": {
     "id": "desc-beltitemmk2-c",
     "name": "Conveyor Belt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-beltitemmk2-c"
     ],
@@ -3574,6 +3847,9 @@
   "desc-spaceelevatorpart-1-c": {
     "id": "desc-spaceelevatorpart-1-c",
     "name": "Smart Plating",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-lift-1-c"
     ],
@@ -3586,6 +3862,9 @@
   "drive-solid-mk1-c": {
     "id": "drive-solid-mk1-c",
     "name": "Item Drive Mk.1",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-1-c"
     ],
@@ -3618,6 +3897,9 @@
   "desc-timec-adapter-c": {
     "id": "desc-timec-adapter-c",
     "name": "Quantum Cable Adapter",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-time-adapter-c"
     ],
@@ -3643,6 +3925,9 @@
   "desc-highspeedwire-c": {
     "id": "desc-highspeedwire-c",
     "name": "Quickwire",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-quickwire-c"
     ],
@@ -3669,6 +3954,9 @@
   "desc-bronzepipe-c": {
     "id": "desc-bronzepipe-c",
     "name": "Bronze Pipes",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-bronzepipe-c"
     ],
@@ -3691,6 +3979,9 @@
   "drive-fluid-mk1-c": {
     "id": "drive-fluid-mk1-c",
     "name": "Fluid Drive Mk.1",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-1-c"
     ],
@@ -3723,6 +4014,9 @@
   "drive-solid-mk2-c": {
     "id": "drive-solid-mk2-c",
     "name": "Item Drive Mk.2",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-2-c"
     ],
@@ -3733,6 +4027,9 @@
   "desc-spaceelevatorpart-3-c": {
     "id": "desc-spaceelevatorpart-3-c",
     "name": "Automated Wiring",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-lift-3-c"
     ],
@@ -3746,6 +4043,9 @@
   "drive-solid-mk3-c": {
     "id": "drive-solid-mk3-c",
     "name": "Item Drive Mk.3",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-3-c"
     ],
@@ -3800,6 +4100,9 @@
   "drive-fluid-mk2-c": {
     "id": "drive-fluid-mk2-c",
     "name": "Fluid Drive Mk.2",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-2-c"
     ],
@@ -3810,6 +4113,9 @@
   "drive-fluid-mk3-c": {
     "id": "drive-fluid-mk3-c",
     "name": "Fluid Drive Mk.3",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-3-c"
     ],
@@ -3820,6 +4126,9 @@
   "desc-powershardcrystal-c": {
     "id": "desc-powershardcrystal-c",
     "name": "Power Shard Crystal",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-assamble-shardframe-c",
@@ -3832,6 +4141,9 @@
   "drive-solid-mk4-c": {
     "id": "drive-solid-mk4-c",
     "name": "Item Drive Mk.4",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-4-c"
     ],
@@ -3842,6 +4154,9 @@
   "drive-fluid-mk4-c": {
     "id": "drive-fluid-mk4-c",
     "name": "Fluid Drive Mk.4",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-4-c"
     ],
@@ -3852,6 +4167,9 @@
   "desc-circuitboard-c": {
     "id": "desc-circuitboard-c",
     "name": "Circuit Board",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-cicuitboard-c"
     ],
@@ -3867,6 +4185,9 @@
   "drive-solid-mk5-c": {
     "id": "drive-solid-mk5-c",
     "name": "Item Drive Mk.5",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-5-c"
     ],
@@ -3877,6 +4198,9 @@
   "desc-spaceelevatorpart-5-c": {
     "id": "desc-spaceelevatorpart-5-c",
     "name": "Adaptive Control Unit",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-lift-5-c"
     ],
@@ -3902,6 +4226,9 @@
   "drive-fluid-mk5-c": {
     "id": "drive-fluid-mk5-c",
     "name": "Fluid Drive Mk.5",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-5-c"
     ],
@@ -3912,6 +4239,9 @@
   "desc-cobaltplates-c": {
     "id": "desc-cobaltplates-c",
     "name": "Cobalt Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-cobaltplates-c"
     ],
@@ -3932,6 +4262,9 @@
   "drive-solid-mk6-c": {
     "id": "drive-solid-mk6-c",
     "name": "Item Drive Mk.6",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-6-c"
     ],
@@ -3942,6 +4275,9 @@
   "slugdesc-lime-c": {
     "id": "slugdesc-lime-c",
     "name": "Unknown Slug ID#3606",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-mid-lime-c",
@@ -3951,6 +4287,9 @@
   "desc-timec-quantumprocessor-c": {
     "id": "desc-timec-quantumprocessor-c",
     "name": "Quantum Processor",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-time-cpu-c"
     ],
@@ -3965,6 +4304,9 @@
   "desc-spaceelevatorpart-7-c": {
     "id": "desc-spaceelevatorpart-7-c",
     "name": "Assembly Director System",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-lift-7-c"
     ],
@@ -3976,6 +4318,9 @@
   "desc-aluminumplate-c": {
     "id": "desc-aluminumplate-c",
     "name": "Alclad Aluminum Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-alcu-c"
     ],
@@ -3989,6 +4334,9 @@
   "drive-solid-mk7-c": {
     "id": "drive-solid-mk7-c",
     "name": "Item Drive Mk.7",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-soliddrive-mk-7-c"
     ],
@@ -3999,6 +4347,9 @@
   "drive-fluid-mk6-c": {
     "id": "drive-fluid-mk6-c",
     "name": "Fluid Drive Mk.6",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-6-c"
     ],
@@ -4009,6 +4360,9 @@
   "drive-fluid-mk7-c": {
     "id": "drive-fluid-mk7-c",
     "name": "Fluid Drive Mk.7",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fluiddrive-mk-7-c"
     ],
@@ -4019,6 +4373,9 @@
   "desc-spaceelevatorpart-9-c": {
     "id": "desc-spaceelevatorpart-9-c",
     "name": "Nuclear Pasta",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-colider-pasta-c"
     ],
@@ -4030,6 +4387,9 @@
   "desc-titanplates-c": {
     "id": "desc-titanplates-c",
     "name": "Titanium Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-titanium-c"
     ],
@@ -4152,6 +4512,9 @@
   "desc-coppersheet-c": {
     "id": "desc-coppersheet-c",
     "name": "Copper Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-coppersheet-c"
     ],
@@ -4223,6 +4586,9 @@
   "desc-slugslime-low-c": {
     "id": "desc-slugslime-low-c",
     "name": "Low Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-colider-pasta-c",
       "recipe-low-blueslug-c",
@@ -4298,6 +4664,9 @@
   "desc-slugslime-high-c": {
     "id": "desc-slugslime-high-c",
     "name": "High Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-high-darkblue-c",
       "recipe-high-darkgreen-c",
@@ -4357,6 +4726,9 @@
   "desc-slugslime-mid-c": {
     "id": "desc-slugslime-mid-c",
     "name": "Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-mid-lime-c",
       "recipe-mid-violett-c",
@@ -4371,6 +4743,9 @@
   "desc-powershardframe-c": {
     "id": "desc-powershardframe-c",
     "name": "Power Shard Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-shardframe-c"
     ],
@@ -4381,6 +4756,9 @@
   "desc-crystalshard-c": {
     "id": "desc-crystalshard-c",
     "name": "Power Shard",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-powershard-c"
     ],
@@ -4391,6 +4769,9 @@
   "desc-invarpipe-c": {
     "id": "desc-invarpipe-c",
     "name": "Invar Pipes",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-invarpipes-c"
     ],
@@ -4408,6 +4789,9 @@
   "desc-computer-c": {
     "id": "desc-computer-c",
     "name": "Computer",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-computer-c"
     ],
@@ -4430,6 +4814,9 @@
   "desc-stator-c": {
     "id": "desc-stator-c",
     "name": "Stator",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-stator-c"
     ],
@@ -4465,6 +4852,9 @@
   "desc-slugslime-mineral-c": {
     "id": "desc-slugslime-mineral-c",
     "name": "Mineral Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-mineral-bloodred-c",
       "recipe-mineral-copper-c",
@@ -4530,6 +4920,9 @@
   "res-satmoniumore-c": {
     "id": "res-satmoniumore-c",
     "name": "Satmonium Ore",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-alternative-mixc-satmonium-c",
@@ -4540,6 +4933,9 @@
   "desc-crushedsatmonium-c": {
     "id": "desc-crushedsatmonium-c",
     "name": "Crushed Satmonium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-mixc-satmonium-c",
       "recipe-crusher-satmonium-c",
@@ -4556,6 +4952,9 @@
   "desc-goldingot-c": {
     "id": "desc-goldingot-c",
     "name": "Caterium Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-gold-c",
       "recipe-smelter-dirty-cateriumingots-c",
@@ -4581,6 +4980,9 @@
   "desc-cateriumrod-c": {
     "id": "desc-cateriumrod-c",
     "name": "Caterium Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-cateriumrod-c"
     ],
@@ -4608,6 +5010,9 @@
   "desc-tinrod-c": {
     "id": "desc-tinrod-c",
     "name": "Tin Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedtinrods-c",
       "recipe-constructor-tinrod-c"
@@ -4620,6 +5025,9 @@
   "desc-ironwire-c": {
     "id": "desc-ironwire-c",
     "name": "Iron Wire",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-ironwire-c",
       "recipe-instandwire-iron-c"
@@ -4779,6 +5187,9 @@
   "desc-cateriumsheet-c": {
     "id": "desc-cateriumsheet-c",
     "name": "Caterium Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-cateriumsheet-c"
     ],
@@ -4789,6 +5200,9 @@
   "desc-tinwire-c": {
     "id": "desc-tinwire-c",
     "name": "Tin Wire",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedtinwire-c",
       "recipe-constructor-tinwire-c",
@@ -4803,6 +5217,9 @@
   "desc-circuitboardhighspeed-c": {
     "id": "desc-circuitboardhighspeed-c",
     "name": "AI Limiter",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-ailimiter-c"
     ],
@@ -4814,6 +5231,9 @@
   "desc-cateriumplates-c": {
     "id": "desc-cateriumplates-c",
     "name": "Caterium Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-cateriumplate-c"
     ],
@@ -4824,6 +5244,9 @@
   "desc-beltitemmk1-c": {
     "id": "desc-beltitemmk1-c",
     "name": "Simple Conveyor Belt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-beltitemmk1-c"
     ],
@@ -4860,6 +5283,9 @@
   "desc-crushedcaterium-c": {
     "id": "desc-crushedcaterium-c",
     "name": "Crushed Caterium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-puresortedcaterium-c",
       "recipe-sorter-t1-satmonium-c",
@@ -4885,6 +5311,9 @@
   "desc-cartridgestandard-c": {
     "id": "desc-cartridgestandard-c",
     "name": "Rifle Ammo",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-cartridge-c"
     ],
@@ -4896,6 +5325,9 @@
   "desc-highspeedconnector-c": {
     "id": "desc-highspeedconnector-c",
     "name": "High-Speed Connector",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-highspeedconnector-c"
     ],
@@ -4924,6 +5356,9 @@
   "desc-solderwire-c": {
     "id": "desc-solderwire-c",
     "name": "Solder Wire",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-parts-solder-c"
     ],
@@ -4950,6 +5385,9 @@
   "desc-computersuper-c": {
     "id": "desc-computersuper-c",
     "name": "Supercomputer",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-computer-super-c",
       "recipe-manu-computersuper-c"
@@ -4965,6 +5403,9 @@
   "desc-modularframeheavy-c": {
     "id": "desc-modularframeheavy-c",
     "name": "Heavy Modular Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-heavyframe-c"
     ],
@@ -5029,6 +5470,9 @@
   "desc-carbondust-c": {
     "id": "desc-carbondust-c",
     "name": "Carbon Dust",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-carbondust-c"
     ],
@@ -5040,6 +5484,9 @@
   "desc-sulfurpowder-c": {
     "id": "desc-sulfurpowder-c",
     "name": "Sulfur Powder",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-sulfurpowder-c"
     ],
@@ -5051,6 +5498,9 @@
   "desc-gunpowder-c": {
     "id": "desc-gunpowder-c",
     "name": "Black Powder",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-gunpowder-c"
     ],
@@ -5063,6 +5513,9 @@
   "desc-sulfur-c": {
     "id": "desc-sulfur-c",
     "name": "Sulfur",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-desulfurization-c"
     ],
@@ -5073,6 +5526,9 @@
   "desc-wire-c": {
     "id": "desc-wire-c",
     "name": "Wire",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedcopperscrew-c",
       "recipe-alternative-cuttedcopperwire-c",
@@ -5099,6 +5555,9 @@
   "bp-equipmentdescriptorobjectscanner-c": {
     "id": "bp-equipmentdescriptorobjectscanner-c",
     "name": "Object Scanner",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-objectscanner-c"
     ],
@@ -5109,6 +5568,9 @@
   "desc-steelplate-c": {
     "id": "desc-steelplate-c",
     "name": "Steel Beam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-steelbeam-c"
     ],
@@ -5220,6 +5682,9 @@
   "desc-heavyoilresidue-c": {
     "id": "desc-heavyoilresidue-c",
     "name": "Heavy Oil Residue",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-destila-2-c",
       "recipe-chemreactor-oil-destila-c",
@@ -5235,6 +5700,9 @@
   "desc-liquidfuel-c": {
     "id": "desc-liquidfuel-c",
     "name": "Fuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-desulfurization-c",
       "recipe-unpackagefuel-c"
@@ -5248,6 +5716,9 @@
   "desc-gas-hydrogen-c": {
     "id": "desc-gas-hydrogen-c",
     "name": "Hydrogen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-gunpowdermk2-c",
       "recipe-chemreactor-toxicair-c",
@@ -5294,6 +5765,9 @@
   "desc-turbofuel-c": {
     "id": "desc-turbofuel-c",
     "name": "Packaged Turbofuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedturbofuel-c"
     ],
@@ -5305,6 +5779,9 @@
   "desc-aluminumcasing-c": {
     "id": "desc-aluminumcasing-c",
     "name": "Aluminum Casing",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alucasing-c"
     ],
@@ -5353,6 +5830,9 @@
   "desc-ff-fertilizer-c": {
     "id": "desc-ff-fertilizer-c",
     "name": "Fertilizer",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-compost-apple-sf+-c",
       "recipe-compost-banana-sf+-c",
@@ -5386,6 +5866,9 @@
   "desc-leaves-c": {
     "id": "desc-leaves-c",
     "name": "Leaves",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-biomass-leaves-c",
@@ -5439,6 +5922,9 @@
   "desc-tinsheet-c": {
     "id": "desc-tinsheet-c",
     "name": "Tin Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-tinsheet-c"
     ],
@@ -5498,6 +5984,9 @@
   "desc-wall-8x4-02-c": {
     "id": "desc-wall-8x4-02-c",
     "name": "Basic Wall 4m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wall-8x4-02-c"
     ],
@@ -5506,6 +5995,9 @@
   "desc-wall-8x4-01-c": {
     "id": "desc-wall-8x4-01-c",
     "name": "Basic Wall 4m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wall-8x4-01-c"
     ],
@@ -5514,6 +6006,9 @@
   "desc-foundation-8x1-01-c": {
     "id": "desc-foundation-8x1-01-c",
     "name": "Foundation 1m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundation-8x1-01-c"
     ],
@@ -5522,6 +6017,9 @@
   "desc-foundation-8x2-01-c": {
     "id": "desc-foundation-8x2-01-c",
     "name": "Foundation 2m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundation-8x2-01-c"
     ],
@@ -5530,6 +6028,9 @@
   "desc-foundation-8x4-01-c": {
     "id": "desc-foundation-8x4-01-c",
     "name": "Foundation 4m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundation-8x4-01-c"
     ],
@@ -5538,6 +6039,9 @@
   "desc-lookouttower-c": {
     "id": "desc-lookouttower-c",
     "name": "Lookout Tower",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-lookouttower-c"
     ],
@@ -5546,6 +6050,9 @@
   "desc-ramp-8x1-01-c": {
     "id": "desc-ramp-8x1-01-c",
     "name": "Ramp 1m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-ramp-8x1-01-c"
     ],
@@ -5554,6 +6061,9 @@
   "desc-ramp-8x2-01-c": {
     "id": "desc-ramp-8x2-01-c",
     "name": "Ramp 2m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-ramp-8x2-01-c"
     ],
@@ -5562,6 +6072,9 @@
   "desc-ramp-8x4-01-c": {
     "id": "desc-ramp-8x4-01-c",
     "name": "Ramp 4m",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-ramp-8x4-01-c"
     ],
@@ -5581,6 +6094,9 @@
   "desc-tinplates-c": {
     "id": "desc-tinplates-c",
     "name": "Tin Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedtinplates-c",
       "recipe-constructor-tinplates-c"
@@ -5622,6 +6138,9 @@
   "desc-crushedlead-c": {
     "id": "desc-crushedlead-c",
     "name": "Crushed Lead",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t1-rubyte-c",
       "recipe-sorter-t2-rubyte-c",
@@ -5638,6 +6157,9 @@
   "desc-leadingot-c": {
     "id": "desc-leadingot-c",
     "name": "Lead Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-lead-c",
       "recipe-smelter-sorted-leadingots-c"
@@ -5660,6 +6182,9 @@
   "desc-crushedrubyte-c": {
     "id": "desc-crushedrubyte-c",
     "name": "Crushed Rubyte",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-mixc-rubyte-c",
       "recipe-crusher-rubyte-c",
@@ -5687,6 +6212,9 @@
   "desc-copperplates-c": {
     "id": "desc-copperplates-c",
     "name": "Copper Busbars",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedcoppperplates-c",
       "recipe-constructor-copperplate-c"
@@ -5734,6 +6262,9 @@
   "desc-sand-c": {
     "id": "desc-sand-c",
     "name": "Sand",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-sand-c"
     ],
@@ -5761,6 +6292,9 @@
   "desc-bronzeingot-c": {
     "id": "desc-bronzeingot-c",
     "name": "Bronze Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-foundery-bronze-c",
       "recipe-foundery-whitebronze-c",
@@ -5774,6 +6308,9 @@
   "desc-bronzerod-c": {
     "id": "desc-bronzerod-c",
     "name": "Bronze Beam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-bronzerrod-c"
     ],
@@ -5784,6 +6321,9 @@
   "desc-bronzeplates-c": {
     "id": "desc-bronzeplates-c",
     "name": "Bronze Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-bronzeplate-c"
     ],
@@ -5806,6 +6346,9 @@
   "desc-crushedmagnesium-c": {
     "id": "desc-crushedmagnesium-c",
     "name": "Crushed Magnesium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t1-stritarit-c",
       "recipe-sorter-t2-stritarit-c",
@@ -5820,6 +6363,9 @@
   "desc-mixture-zinctin-c": {
     "id": "desc-mixture-zinctin-c",
     "name": "Zinc & Tin Mixture",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-mixture-zinctin-c"
     ],
@@ -5830,6 +6376,9 @@
   "desc-crushedzinc-c": {
     "id": "desc-crushedzinc-c",
     "name": "Crushed Zinc",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t1-sapherit-c",
       "recipe-sorter-t2-sapherit-c"
@@ -5844,6 +6393,9 @@
   "desc-zincingot-c": {
     "id": "desc-zincingot-c",
     "name": "Zinc Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-zinc-c",
       "recipe-smelter-sorted-zincingots-c"
@@ -5858,6 +6410,9 @@
   "desc-crushediron-c": {
     "id": "desc-crushediron-c",
     "name": "Crushed Iron",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-puresortediron-c",
       "recipe-sorter-t1-stritarit-c",
@@ -5877,6 +6432,9 @@
   "desc-crushedsapherit-c": {
     "id": "desc-crushedsapherit-c",
     "name": "Crushed Saphirite",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-mixc-saperite-c",
       "recipe-crusher-sapherit-c",
@@ -5893,6 +6451,9 @@
   "desc-resourcesinkshop-c": {
     "id": "desc-resourcesinkshop-c",
     "name": "AWESOME Shop",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-resourcesinkshop-c"
     ],
@@ -5901,6 +6462,9 @@
   "desc-resourcesink-c": {
     "id": "desc-resourcesink-c",
     "name": "AWESOME Sink",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-resourcesink-c"
     ],
@@ -5920,6 +6484,9 @@
   "desc-coldslag-c": {
     "id": "desc-coldslag-c",
     "name": "Cold Slag",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-alternative-crushedslag-c",
@@ -5984,6 +6551,9 @@
   "builddesc-boilermk1-c": {
     "id": "builddesc-boilermk1-c",
     "name": "Boiler Mk1",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-rp-mp-boilermk1-c"
     ],
@@ -6014,6 +6584,9 @@
   "desc-pipeline-c": {
     "id": "desc-pipeline-c",
     "name": "Pipeline Mk.1",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-pipeline-c"
     ],
@@ -6066,6 +6639,9 @@
   "builddesc-coolerco2-c": {
     "id": "builddesc-coolerco2-c",
     "name": "Co2 Chimney",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-rp-mp-co2cooler-c"
     ],
@@ -6151,6 +6727,9 @@
   "builddesc-coolersteam-c": {
     "id": "builddesc-coolersteam-c",
     "name": "Steam Cooling Tower",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-rp-mp-steamcooler-c"
     ],
@@ -6170,6 +6749,9 @@
   "desc-liquidcopper-c": {
     "id": "desc-liquidcopper-c",
     "name": "Molten Copper",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-conductivecopper-c",
       "recipe-alternative-heavycopper-c",
@@ -6191,6 +6773,9 @@
   "desc-liquidtin-c": {
     "id": "desc-liquidtin-c",
     "name": "Molten Tin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-tin-c",
       "recipe-fbfs-simple-tin-c",
@@ -6210,6 +6795,9 @@
   "desc-liquidbronze-c": {
     "id": "desc-liquidbronze-c",
     "name": "Molten Bronze",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-alloy-bronze-c",
       "recipe-unpackaged-liquidbronze-c"
@@ -6222,6 +6810,9 @@
   "desc-liquidslag-c": {
     "id": "desc-liquidslag-c",
     "name": "Molten Slag",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-conductivecopper-c",
       "recipe-alternative-conductiveiron-c",
@@ -6257,6 +6848,9 @@
   "desc-liquidgold-c": {
     "id": "desc-liquidgold-c",
     "name": "Molten Caterium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-caterium-c",
       "recipe-fbfs-simple-gold-c",
@@ -6270,6 +6864,9 @@
   "desc-liquidiron-c": {
     "id": "desc-liquidiron-c",
     "name": "Molten Iron",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-conductiveiron-c",
       "recipe-chemreactor-titantetrachlorid-c",
@@ -6291,6 +6888,9 @@
   "desc-liquidlead-c": {
     "id": "desc-liquidlead-c",
     "name": "Molten Lead",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-lead-c",
       "recipe-fbfs-simple-lead-c",
@@ -6304,6 +6904,9 @@
   "desc-liquidmagnesium-c": {
     "id": "desc-liquidmagnesium-c",
     "name": "Molten Magnesium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-magnesium-c",
       "recipe-fbfs-simple-magnesium-c",
@@ -6318,6 +6921,9 @@
   "desc-liquidzinc-c": {
     "id": "desc-liquidzinc-c",
     "name": "Molten Zinc",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-zinc-c",
       "recipe-fbfs-simple-zinc-c",
@@ -6332,6 +6938,9 @@
   "desc-gas-steam-c": {
     "id": "desc-gas-steam-c",
     "name": "Steam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-castedcopperpipes-c",
       "recipe-alternative-castedcopperscrew-c",
@@ -6379,6 +6988,9 @@
   "desc-liquidbrass-c": {
     "id": "desc-liquidbrass-c",
     "name": "Molten Brass",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-alloy-brass-c",
       "recipe-packaged-liquidbrass-c",
@@ -6393,6 +7005,9 @@
   "desc-brassingot-c": {
     "id": "desc-brassingot-c",
     "name": "Brass Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-dirtybrass-c",
       "recipe-sac-ingots-brass-c"
@@ -6416,6 +7031,9 @@
   "desc-air-c": {
     "id": "desc-air-c",
     "name": "Air",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-air-c"
     ],
@@ -6430,6 +7048,9 @@
   "desc-liquidsteel-c": {
     "id": "desc-liquidsteel-c",
     "name": "Molten Steel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-limesteel-c",
       "recipe-fbfs-alloy-steel-c",
@@ -6444,6 +7065,9 @@
   "desc-steelingot-c": {
     "id": "desc-steelingot-c",
     "name": "Steel Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-steel-c"
     ],
@@ -6488,6 +7112,9 @@
   "desc-waterblade-c": {
     "id": "desc-waterblade-c",
     "name": "Rotor Blades",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-blades-c"
     ],
@@ -6544,6 +7171,9 @@
   "desc-steelplatereinforced-c": {
     "id": "desc-steelplatereinforced-c",
     "name": "Encased Industrial Beam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-encasedbeam-c"
     ],
@@ -6588,6 +7218,9 @@
   "desc-hypertubewallhole-c": {
     "id": "desc-hypertubewallhole-c",
     "name": "Hypertube Wall Hole",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-hypertubewallhole-c"
     ],
@@ -6596,6 +7229,9 @@
   "desc-hypertubewallsupport-c": {
     "id": "desc-hypertubewallsupport-c",
     "name": "Hypertube Wall Support",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-hypertubewallsupport-c"
     ],
@@ -6659,6 +7295,9 @@
   "desc-carbonmesh-c": {
     "id": "desc-carbonmesh-c",
     "name": "Carbon Mesh",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-weavingmachine-carbonmesh-c"
     ],
@@ -6670,6 +7309,9 @@
   "desc-silica-c": {
     "id": "desc-silica-c",
     "name": "Silica",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-silicasand-c",
       "recipe-sorter-t1-cryolit-2-c",
@@ -6694,6 +7336,9 @@
   "desc-photovoltaiccell-c": {
     "id": "desc-photovoltaiccell-c",
     "name": "Simple Photovoltaic Cell",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-phcell-c"
     ],
@@ -6782,6 +7427,9 @@
   "desc-liquidoil-c": {
     "id": "desc-liquidoil-c",
     "name": "Crude Oil",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackageoil-c"
     ],
@@ -6793,6 +7441,9 @@
   "desc-purifiedcrudeoil-c": {
     "id": "desc-purifiedcrudeoil-c",
     "name": "Purified Crude Oil",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-oil-purification-c",
       "recipe-unpackaged-purifiedcrudeoil-c"
@@ -6806,6 +7457,9 @@
   "desc-liquidrawsludge-c": {
     "id": "desc-liquidrawsludge-c",
     "name": "Raw Sludge",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-oil-purification-c",
       "recipe-unpackaged-liquidrawsludge-c"
@@ -6817,6 +7471,9 @@
   "desc-liquidhydrocarbons-c": {
     "id": "desc-liquidhydrocarbons-c",
     "name": "Hydrocarbons",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-destila-2-c",
       "recipe-chemreactor-oil-destila-c",
@@ -6830,6 +7487,9 @@
   "desc-liquidrefinedhydrocarbons-c": {
     "id": "desc-liquidrefinedhydrocarbons-c",
     "name": "Refined Hydrocarbons",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-desulfurization-c",
       "recipe-unpackaged-liquidrefinedhydrocarbons-c"
@@ -6844,6 +7504,9 @@
   "desc-polymerresin-c": {
     "id": "desc-polymerresin-c",
     "name": "Polymer Resin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-desulfurization-c"
     ],
@@ -6854,6 +7517,9 @@
   "desc-asphalt-c": {
     "id": "desc-asphalt-c",
     "name": "Asphalt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-destila-c"
     ],
@@ -6923,6 +7589,9 @@
   "desc-petroleumcoke-c": {
     "id": "desc-petroleumcoke-c",
     "name": "Petroleum Coke",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-petroleum-c"
     ],
@@ -6935,6 +7604,9 @@
   "desc-dieseloil-c": {
     "id": "desc-dieseloil-c",
     "name": "Diesel Fuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-diesel-c",
       "recipe-unpackaged-dieseloil-c"
@@ -6946,6 +7618,9 @@
   "desc-methane-c": {
     "id": "desc-methane-c",
     "name": "Methane",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-air-c",
       "recipe-chemreactor-naturalgas-c",
@@ -6969,6 +7644,9 @@
   "desc-liquidbiofuel-c": {
     "id": "desc-liquidbiofuel-c",
     "name": "Liquid Biofuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-liquidbiofuel-c",
       "recipe-unpackagebiofuel-c"
@@ -6980,6 +7658,9 @@
   "desc-klib-naturalgas-c": {
     "id": "desc-klib-naturalgas-c",
     "name": "Natural Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-naturalgas-c"
     ],
@@ -6991,6 +7672,9 @@
   "desc-gas-carbondioxide-c": {
     "id": "desc-gas-carbondioxide-c",
     "name": "Carbon Dioxide",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chem-lift-8-c",
       "recipe-chemreactor-naturalgas-c",
@@ -7005,6 +7689,9 @@
   "desc-gastank-c": {
     "id": "desc-gastank-c",
     "name": "Empty Fluid Tank",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-gastank-c",
       "recipe-chemreactor-rocketfuel-c",
@@ -7045,6 +7732,9 @@
   "desc-packagednaturalgas-c": {
     "id": "desc-packagednaturalgas-c",
     "name": "Packaged Natural Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oil-destila-2-c",
       "recipe-packaged-naturalgas-c"
@@ -7111,6 +7801,9 @@
   "desc-liquidsolder-c": {
     "id": "desc-liquidsolder-c",
     "name": "Molten Solder",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-alloy-solder-c",
       "recipe-unpackaged-liquidsolder-c"
@@ -7123,6 +7816,9 @@
   "desc-solderrod-c": {
     "id": "desc-solderrod-c",
     "name": "Solder Rod",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-parts-solder-c"
     ],
@@ -7144,6 +7840,9 @@
   "desc-nc-barrel-c": {
     "id": "desc-nc-barrel-c",
     "name": "Empty Barrel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-barrel-c",
       "recipe-unpackaged-dieseloil-c",
@@ -7165,6 +7864,9 @@
   "desc-fluidcanister-c": {
     "id": "desc-fluidcanister-c",
     "name": "Empty Canister",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-canister-c",
       "recipe-unpackagealumina-c",
@@ -7196,6 +7898,9 @@
   "desc-nc-cryotankempty-c": {
     "id": "desc-nc-cryotankempty-c",
     "name": "Empty Cryo Tank",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-cold-c",
       "recipe-unpackaged-coolingwater-c",
@@ -7215,6 +7920,9 @@
   "desc-nc-hotfluid-c": {
     "id": "desc-nc-hotfluid-c",
     "name": "Empty Heat Tank",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-assamble-hot-c",
       "recipe-unpackaged-liquidaluminum-c",
@@ -7269,6 +7977,9 @@
   "desc-packagedair-c": {
     "id": "desc-packagedair-c",
     "name": "Packaged Air",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-air-c"
     ],
@@ -7279,6 +7990,9 @@
   "res-liquidbiowater-c": {
     "id": "res-liquidbiowater-c",
     "name": "Biological Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-liquidbiowater-c"
     ],
@@ -7289,6 +8003,9 @@
   "desc-packagedliquidbiowater-c": {
     "id": "desc-packagedliquidbiowater-c",
     "name": "Packaged Biological Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidbiowater-c"
     ],
@@ -7299,6 +8016,9 @@
   "desc-packagedgas-carbondioxide-c": {
     "id": "desc-packagedgas-carbondioxide-c",
     "name": "Packaged Carbon Dioxide",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-carbondioxide-c"
     ],
@@ -7309,6 +8029,9 @@
   "desc-causticsoda-c": {
     "id": "desc-causticsoda-c",
     "name": "Caustic Soda",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-natriumhot-c",
       "recipe-unpackaged-causticsoda-c"
@@ -7321,6 +8044,9 @@
   "desc-packagedcausticsoda-c": {
     "id": "desc-packagedcausticsoda-c",
     "name": "Packaged Caustic Soda",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-causticsoda-c"
     ],
@@ -7331,6 +8057,9 @@
   "desc-gas-chlor-c": {
     "id": "desc-gas-chlor-c",
     "name": "Chlorine",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-gas-chlor-c"
     ],
@@ -7342,6 +8071,9 @@
   "desc-packagedgas-chlor-c": {
     "id": "desc-packagedgas-chlor-c",
     "name": "Packaged Chlorine",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-chlor-c"
     ],
@@ -7352,6 +8084,9 @@
   "desc-coolingwater-c": {
     "id": "desc-coolingwater-c",
     "name": "Coolant",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-coolingwater-c"
     ],
@@ -7362,6 +8097,9 @@
   "desc-packagedcoolingwater-c": {
     "id": "desc-packagedcoolingwater-c",
     "name": "Packaged Cooling Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-coolingwater-c"
     ],
@@ -7372,6 +8110,9 @@
   "desc-packageddieseloil-c": {
     "id": "desc-packageddieseloil-c",
     "name": "Packaged Diesel Fuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-dieseloil-c"
     ],
@@ -7382,6 +8123,9 @@
   "desc-packagedliquiddirtywater-c": {
     "id": "desc-packagedliquiddirtywater-c",
     "name": "Packaged Dirty Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquiddirtywater-c"
     ],
@@ -7392,6 +8136,9 @@
   "desc-packagedslugslime-mid-c": {
     "id": "desc-packagedslugslime-mid-c",
     "name": "Packaged Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-slugslime-mid-c"
     ],
@@ -7402,6 +8149,9 @@
   "desc-fuel-c": {
     "id": "desc-fuel-c",
     "name": "Packaged Fuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fuel-c"
     ],
@@ -7412,6 +8162,9 @@
   "desc-packagedoilresidue-c": {
     "id": "desc-packagedoilresidue-c",
     "name": "Packaged Heavy Oil Residue",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedoilresidue-c"
     ],
@@ -7422,6 +8175,9 @@
   "desc-packagedslugslime-high-c": {
     "id": "desc-packagedslugslime-high-c",
     "name": "Packaged High Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-slugslime-high-c"
     ],
@@ -7432,6 +8188,9 @@
   "desc-gas-steam-hot-c": {
     "id": "desc-gas-steam-hot-c",
     "name": "Hot Steam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-gas-steam-hot-c"
     ],
@@ -7442,6 +8201,9 @@
   "desc-packagedgas-steam-hot-c": {
     "id": "desc-packagedgas-steam-hot-c",
     "name": "Packaged Hot Steam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-steam-hot-c"
     ],
@@ -7452,6 +8214,9 @@
   "desc-packagedliquidhydrocarbons-c": {
     "id": "desc-packagedliquidhydrocarbons-c",
     "name": "Packaged Hydrocarbons",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidhydrocarbons-c"
     ],
@@ -7462,6 +8227,9 @@
   "desc-liquidhydrochloricacid-c": {
     "id": "desc-liquidhydrochloricacid-c",
     "name": "Hydrochloric Acid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-hydroacid-c",
       "recipe-unpackaged-liquidhydrochloricacid-2-c"
@@ -7480,6 +8248,9 @@
   "desc-packagedliquidhydrochloricacid-c": {
     "id": "desc-packagedliquidhydrochloricacid-c",
     "name": "Packaged Hydrochloric Acid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidhydrochloricacid-2-c"
     ],
@@ -7490,6 +8261,9 @@
   "desc-packagedgas-hydrogen-c": {
     "id": "desc-packagedgas-hydrogen-c",
     "name": "Packaged Hydrogen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-hydrogen-c"
     ],
@@ -7500,6 +8274,9 @@
   "desc-packagedbiofuel-c": {
     "id": "desc-packagedbiofuel-c",
     "name": "Packaged Liquid Biofuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedbiofuel-c"
     ],
@@ -7510,6 +8287,9 @@
   "desc-packagedslugslime-low-c": {
     "id": "desc-packagedslugslime-low-c",
     "name": "Packaged Low Energized Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-slugslime-low-c"
     ],
@@ -7520,6 +8300,9 @@
   "desc-packagedmethane-c": {
     "id": "desc-packagedmethane-c",
     "name": "Packaged Methane",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-methane-c"
     ],
@@ -7530,6 +8313,9 @@
   "desc-packagedslugslime-mineral-c": {
     "id": "desc-packagedslugslime-mineral-c",
     "name": "Packaged Mineral Slug Slime",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-slugslime-mineral-c"
     ],
@@ -7540,6 +8326,9 @@
   "desc-liquidaluminum-c": {
     "id": "desc-liquidaluminum-c",
     "name": "Molten Aluminum",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-liquidalum-c",
       "recipe-unpackaged-liquidaluminum-c"
@@ -7553,6 +8342,9 @@
   "desc-packagedliquidaluminum-c": {
     "id": "desc-packagedliquidaluminum-c",
     "name": "Packaged Molten Aluminum",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidaluminum-c"
     ],
@@ -7563,6 +8355,9 @@
   "desc-packagedliquidbronze-c": {
     "id": "desc-packagedliquidbronze-c",
     "name": "Packaged Molten Bronze",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidbronze-c"
     ],
@@ -7573,6 +8368,9 @@
   "desc-packagedliquidgold-c": {
     "id": "desc-packagedliquidgold-c",
     "name": "Packaged Molten Caterium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidgold-c"
     ],
@@ -7583,6 +8381,9 @@
   "desc-liquidcobalt-c": {
     "id": "desc-liquidcobalt-c",
     "name": "Molten Cobalt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-cobalt-c",
       "recipe-unpackaged-liquidcobalt-c"
@@ -7595,6 +8396,9 @@
   "desc-packagedliquidcobalt-c": {
     "id": "desc-packagedliquidcobalt-c",
     "name": "Packaged Molten Cobalt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidcobalt-c"
     ],
@@ -7605,6 +8409,9 @@
   "desc-packagedliquidcopper-c": {
     "id": "desc-packagedliquidcopper-c",
     "name": "Packaged Molten Copper",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidcopper-c"
     ],
@@ -7615,6 +8422,9 @@
   "desc-liquidinvar-c": {
     "id": "desc-liquidinvar-c",
     "name": "Molten Invar",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-alloy-invar-c",
       "recipe-unpackaged-liquidinvar-c"
@@ -7627,6 +8437,9 @@
   "desc-packagedliquidinvar-c": {
     "id": "desc-packagedliquidinvar-c",
     "name": "Packaged Molten Invar",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidinvar-c"
     ],
@@ -7637,6 +8450,9 @@
   "desc-packagedliquidiron-c": {
     "id": "desc-packagedliquidiron-c",
     "name": "Packaged Molten Iron",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidiron-c"
     ],
@@ -7647,6 +8463,9 @@
   "desc-packagedliquidlead-c": {
     "id": "desc-packagedliquidlead-c",
     "name": "Packaged Molten Lead",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidlead-c"
     ],
@@ -7657,6 +8476,9 @@
   "desc-packagedliquidmagnesium-c": {
     "id": "desc-packagedliquidmagnesium-c",
     "name": "Packaged Molten Magnesium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidmagnesium-c"
     ],
@@ -7667,6 +8489,9 @@
   "desc-liquidnickle-c": {
     "id": "desc-liquidnickle-c",
     "name": "Molten Nickel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-advanced-nickle-c",
       "recipe-unpackaged-liquidnickle-c"
@@ -7679,6 +8504,9 @@
   "desc-packagedliquidnickle-c": {
     "id": "desc-packagedliquidnickle-c",
     "name": "Packaged Molten Nickel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidnickle-c"
     ],
@@ -7689,6 +8517,9 @@
   "desc-packagedliquidslag-c": {
     "id": "desc-packagedliquidslag-c",
     "name": "Packaged Molten Slag",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidslag-c"
     ],
@@ -7699,6 +8530,9 @@
   "desc-packagedliquidsolder-c": {
     "id": "desc-packagedliquidsolder-c",
     "name": "Packaged Molten Solder",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidsolder-c"
     ],
@@ -7709,6 +8543,9 @@
   "desc-packagedliquidsteel-c": {
     "id": "desc-packagedliquidsteel-c",
     "name": "Packaged Molten Steel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidsteel-c"
     ],
@@ -7719,6 +8556,9 @@
   "desc-packagedliquidtin-c": {
     "id": "desc-packagedliquidtin-c",
     "name": "Packaged Molten Tin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidtin-c"
     ],
@@ -7729,6 +8569,9 @@
   "desc-packagedliquidzinc-c": {
     "id": "desc-packagedliquidzinc-c",
     "name": "Packaged Molten Zinc",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidzinc-c"
     ],
@@ -7739,6 +8582,9 @@
   "desc-packagedoil-c": {
     "id": "desc-packagedoil-c",
     "name": "Packaged Oil",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedcrudeoil-c"
     ],
@@ -7749,6 +8595,9 @@
   "res-gasoxygen-c": {
     "id": "res-gasoxygen-c",
     "name": "Oxygen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-air-c",
       "recipe-unpackaged-gasoxygen-c"
@@ -7772,6 +8621,9 @@
   "desc-packagedgasoxygen-c": {
     "id": "desc-packagedgasoxygen-c",
     "name": "Packaged Oxygen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gasoxygen-c"
     ],
@@ -7783,6 +8635,9 @@
   "desc-gas-oxyhydrogen-c": {
     "id": "desc-gas-oxyhydrogen-c",
     "name": "Oxyhydrogen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-oxyhdrogen-c",
       "recipe-unpackaged-gas-oxyhydrogen-c"
@@ -7795,6 +8650,9 @@
   "desc-packagedgas-oxyhydrogen-c": {
     "id": "desc-packagedgas-oxyhydrogen-c",
     "name": "Packaged Oxyhydrogen",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-oxyhydrogen-c"
     ],
@@ -7805,6 +8663,9 @@
   "desc-packagedpaint-c": {
     "id": "desc-packagedpaint-c",
     "name": "Packaged Paint",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-paint-c"
     ],
@@ -7815,6 +8676,9 @@
   "desc-packagedpurifiedcrudeoil-c": {
     "id": "desc-packagedpurifiedcrudeoil-c",
     "name": "Packaged Purified Crude Oil",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-purifiedcrudeoil-c"
     ],
@@ -7825,6 +8689,9 @@
   "desc-packagedliquidrawsludge-c": {
     "id": "desc-packagedliquidrawsludge-c",
     "name": "Packaged Raw Sludge",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidrawsludge-c"
     ],
@@ -7835,6 +8702,9 @@
   "desc-packagedliquidrefinedhydrocarbons-c": {
     "id": "desc-packagedliquidrefinedhydrocarbons-c",
     "name": "Packaged Refined Hydrocarbons",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidrefinedhydrocarbons-c"
     ],
@@ -7845,6 +8715,9 @@
   "desc-packagedgas-steam-c": {
     "id": "desc-packagedgas-steam-c",
     "name": "Packaged Steam",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-steam-c"
     ],
@@ -7855,6 +8728,9 @@
   "desc-sulfurtrixid-c": {
     "id": "desc-sulfurtrixid-c",
     "name": "Sulfurous Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-fbfs-oil-sulfurtri-c",
       "recipe-unpackaged-sulfurtrixid-c"
@@ -7868,6 +8744,9 @@
   "desc-packagedsulfurtrixid-c": {
     "id": "desc-packagedsulfurtrixid-c",
     "name": "Packaged Sulfurous Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-sulfurtrixid-c"
     ],
@@ -7878,6 +8757,9 @@
   "desc-liquidtitan-c": {
     "id": "desc-liquidtitan-c",
     "name": "Titanium Solution",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-titan-c",
       "recipe-unpackaged-liquidtitan-c"
@@ -7891,6 +8773,9 @@
   "desc-packagedliquidtitan-c": {
     "id": "desc-packagedliquidtitan-c",
     "name": "Packaged Titanium Solution",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-liquidtitan-c"
     ],
@@ -7901,6 +8786,9 @@
   "desc-gas-titantetrachlorid-c": {
     "id": "desc-gas-titantetrachlorid-c",
     "name": "Titantetrachlorid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-titantetrachlorid-c",
       "recipe-unpackaged-gas-titantetrachlorid-c"
@@ -7913,6 +8801,9 @@
   "desc-packagedgas-titantetrachlorid-c": {
     "id": "desc-packagedgas-titantetrachlorid-c",
     "name": "Packaged Titantetrachlorid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-gas-titantetrachlorid-c"
     ],
@@ -7923,6 +8814,9 @@
   "desc-toxicair-c": {
     "id": "desc-toxicair-c",
     "name": "Toxic Air",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-unpackaged-toxicair-c"
     ],
@@ -7934,6 +8828,9 @@
   "desc-packagedtoxicair-c": {
     "id": "desc-packagedtoxicair-c",
     "name": "Packaged Toxic Air",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packaged-toxicair-c"
     ],
@@ -7944,6 +8841,9 @@
   "desc-packagedwater-c": {
     "id": "desc-packagedwater-c",
     "name": "Packaged Water",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedwater-c"
     ],
@@ -7954,6 +8854,9 @@
   "desc-beltitemmk3-c": {
     "id": "desc-beltitemmk3-c",
     "name": "Advanced Conveyor Belt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-beltitemmk3-c"
     ],
@@ -8109,6 +9012,9 @@
   "desc-sulfuricacid-c": {
     "id": "desc-sulfuricacid-c",
     "name": "Sulfuric Acid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-sulfuracid-c"
     ],
@@ -8120,6 +9026,9 @@
   "desc-crushednickle-c": {
     "id": "desc-crushednickle-c",
     "name": "Crushed Nickel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t2-rubyte-c",
       "recipe-sorter-t3-crotonium-c"
@@ -8131,6 +9040,9 @@
   "desc-crushedcobalt-c": {
     "id": "desc-crushedcobalt-c",
     "name": "Crushed Cobalt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t2-stritarit-c",
       "recipe-sorter-t3-stritarit-c"
@@ -8153,6 +9065,9 @@
   "desc-purifiedcobalt-c": {
     "id": "desc-purifiedcobalt-c",
     "name": "Purified Cobalt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-cobalt-c"
     ],
@@ -8163,6 +9078,9 @@
   "desc-purifiediron-c": {
     "id": "desc-purifiediron-c",
     "name": "Purified Iron",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-iron-c"
     ],
@@ -8174,6 +9092,9 @@
   "desc-purifiednickle-c": {
     "id": "desc-purifiednickle-c",
     "name": "Purified Nickel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-nickle-c"
     ],
@@ -8184,6 +9105,9 @@
   "desc-purifiedcaterium-c": {
     "id": "desc-purifiedcaterium-c",
     "name": "Purified Caterium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-caterium-c"
     ],
@@ -8194,6 +9118,9 @@
   "desc-purifiedcopper-c": {
     "id": "desc-purifiedcopper-c",
     "name": "Purified Copper",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-copper-c"
     ],
@@ -8204,6 +9131,9 @@
   "desc-purifiedlead-c": {
     "id": "desc-purifiedlead-c",
     "name": "Purified Lead",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-lead-c"
     ],
@@ -8214,6 +9144,9 @@
   "desc-purifiedmagnesium-c": {
     "id": "desc-purifiedmagnesium-c",
     "name": "Purified Magnesium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-magn-c"
     ],
@@ -8224,6 +9157,9 @@
   "desc-purifiedtin-c": {
     "id": "desc-purifiedtin-c",
     "name": "Purified Tin",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-tin-c"
     ],
@@ -8234,6 +9170,9 @@
   "desc-purifiedzinc-c": {
     "id": "desc-purifiedzinc-c",
     "name": "Purified Zinc",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-zinc-c"
     ],
@@ -8244,6 +9183,9 @@
   "desc-cobaltingot-c": {
     "id": "desc-cobaltingot-c",
     "name": "Cobalt Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-cobalt-c"
     ],
@@ -8254,6 +9196,9 @@
   "desc-invaringot-c": {
     "id": "desc-invaringot-c",
     "name": "Invar Ingot",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-ingots-invar-c"
     ],
@@ -8264,6 +9209,9 @@
   "desc-invarplates-c": {
     "id": "desc-invarplates-c",
     "name": "Invar Plates",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-constructor-invarplates-c"
     ],
@@ -8318,6 +9266,9 @@
   "desc-crushedbauxite-c": {
     "id": "desc-crushedbauxite-c",
     "name": "Crushed Bauxite",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t3-crotonium-c"
     ],
@@ -8328,6 +9279,9 @@
   "desc-aluminasolution-c": {
     "id": "desc-aluminasolution-c",
     "name": "Alumina Solution",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-blender-aluminiumoxid-c",
       "recipe-unpackagealumina-c"
@@ -8340,6 +9294,9 @@
   "desc-alumniumsheet-c": {
     "id": "desc-alumniumsheet-c",
     "name": "Aluminum Sheet",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-alumsheets-c"
     ],
@@ -8376,6 +9333,9 @@
   "res-crotiniumore-c": {
     "id": "res-crotiniumore-c",
     "name": "Crotinnium Ore",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-slug-colider-crushedcrono-c"
     ],
@@ -8386,6 +9346,9 @@
   "desc-crushedcrotinium-c": {
     "id": "desc-crushedcrotinium-c",
     "name": "Crushed Crotinnium",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-crusher-crotinium-c"
     ],
@@ -8396,6 +9359,9 @@
   "desc-nitrogengas-c": {
     "id": "desc-nitrogengas-c",
     "name": "Nitrogen Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-titanium-c",
       "recipe-unpackagenitrogen-c"
@@ -8409,6 +9375,9 @@
   "desc-nitricacid-c": {
     "id": "desc-nitricacid-c",
     "name": "Nitric Acid",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-nitricacid-c"
     ],
@@ -8420,6 +9389,9 @@
   "desc-packagedalumina-c": {
     "id": "desc-packagedalumina-c",
     "name": "Packaged Alumina Solution",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagedalumina-c"
     ],
@@ -8430,6 +9402,9 @@
   "desc-beltitemmk4-c": {
     "id": "desc-beltitemmk4-c",
     "name": "Expert Conveyor Belt",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-blender-beltr-mk4-c"
     ],
@@ -8463,6 +9438,9 @@
   "desc-packagednitrogengas-c": {
     "id": "desc-packagednitrogengas-c",
     "name": "Packaged Nitrogen Gas",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-packagednitrogen-c"
     ],
@@ -8473,6 +9451,9 @@
   "desc-modularframefused-c": {
     "id": "desc-modularframefused-c",
     "name": "Fused Modular Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-blender-fusedframe-c"
     ],
@@ -8485,6 +9466,9 @@
   "desc-aluminumplatereinforced-c": {
     "id": "desc-aluminumplatereinforced-c",
     "name": "Heat Sink",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-heatsink-c"
     ],
@@ -8529,6 +9513,9 @@
   "desc-titanpipe-c": {
     "id": "desc-titanpipe-c",
     "name": "Titanium Pipes",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sac-titanium-c"
     ],
@@ -8553,6 +9540,9 @@
   "desc-crushedtitan-c": {
     "id": "desc-crushedtitan-c",
     "name": "Crushed Rutile",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-sorter-t3-stritarit-c"
     ],
@@ -8563,6 +9553,9 @@
   "desc-purifiedtitan-c": {
     "id": "desc-purifiedtitan-c",
     "name": "Purified Rutile",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-wasching-rutile-c"
     ],
@@ -8595,6 +9588,9 @@
   "desc-titanmodularframe-c": {
     "id": "desc-titanmodularframe-c",
     "name": "Titanium Modular Frame",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-manu-titanframe-c"
     ],
@@ -8649,6 +9645,9 @@
   "desc-fluid-rocketfuel-c": {
     "id": "desc-fluid-rocketfuel-c",
     "name": "Rocket Fuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-chemreactor-rocketfuel-c"
     ],
@@ -8967,6 +9966,9 @@
   "desc-pillarbase-c": {
     "id": "desc-pillarbase-c",
     "name": "Big Pillar Support",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-pillarbase-c"
     ],
@@ -8986,6 +9988,9 @@
   "desc-pillarbase-small-c": {
     "id": "desc-pillarbase-small-c",
     "name": "Small Pillar Support",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-pillarbase-small-c"
     ],
@@ -12910,6 +13915,9 @@
   "res-sapheritore-c": {
     "id": "res-sapheritore-c",
     "name": "Saphirite Ore",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-alternative-mixc-saperite-c",
@@ -12998,6 +14006,9 @@
   "res-rubyteore-c": {
     "id": "res-rubyteore-c",
     "name": "Rubyte Ore",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-alternative-mixc-rubyte-c",
@@ -13097,6 +14108,9 @@
   "desc-mixture-coallime-c": {
     "id": "desc-mixture-coallime-c",
     "name": "Coal & Lime Mixture",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-limesteel-2-c"
     ],
@@ -13107,6 +14121,9 @@
   "desc-liquidturbofuel-c": {
     "id": "desc-liquidturbofuel-c",
     "name": "Turbofuel",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [
       "recipe-alternative-turbofuel-c",
       "recipe-unpackageturbofuel-c"
@@ -13140,6 +14157,9 @@
   "desc-xmasbranch-c": {
     "id": "desc-xmasbranch-c",
     "name": "FICSMAS Tree Branch",
+    "categories": {
+      "0": "item"
+    },
     "produced_in": [],
     "consumed_in": [
       "recipe-fireworks-01-c",

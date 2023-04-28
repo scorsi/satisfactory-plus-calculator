@@ -49,6 +49,7 @@ def merge_item(a, b):
     return {
         "id": a["id"],
         "name": a["name"],
+        "categories": a["categories"],
         "produced_in": sorted(list(set(a["produced_in"] + b["produced_in"]))),
         "consumed_in": sorted(list(set(a["consumed_in"] + b["consumed_in"]))),
     }
