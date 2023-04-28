@@ -1,2333 +1,5137 @@
 {
-  "-7541520753912268093": {
+  "schem-gamestart-c": {
+    "id": "schem-gamestart-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7541520753912268093"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-workbench-c",
+      "recipe-handcrafter-stritarit-c",
+      "recipe-ironplate-c",
+      "recipe-ironrod-c",
+      "recipe-smelter-dirty-ironingots-c",
+      "recipe-tradingpost-c",
+      "recipe-tradingpost-c",
+      "recipe-xenozapper-c"
+    ]
   },
-  "5104657222390659846": {
+  "schematic-trees-enemy-2-0-c": {
+    "id": "schematic-trees-enemy-2-0-c",
     "name": "Hatcher Research",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5104657222390659846"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-protein-crab-c"
+    ]
   },
-  "1242599186189744500": {
+  "schematic-trees-enemy-4-0-c": {
+    "id": "schematic-trees-enemy-4-0-c",
     "name": "Spitter Research",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "1242599186189744500"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-protein-spitter-c"
+    ]
   },
-  "-5231341791739631819": {
+  "schematic-trees-enemy-1-1-c": {
+    "id": "schematic-trees-enemy-1-1-c",
     "name": "Hog Research",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5231341791739631819"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-protein-hog-c"
+    ]
   },
-  "-5658970797375431425": {
+  "schematic-trees-enemy-5-1-c": {
+    "id": "schematic-trees-enemy-5-1-c",
     "name": "Stinger Research",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5658970797375431425"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-protein-stinger-c"
+    ]
   },
-  "-3798542879614745185": {
+  "research-aorgans-2-c": {
+    "id": "research-aorgans-2-c",
     "name": "Protein Inhaler",
     "tier": 3,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-3798542879614745185"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-medicinalinhaleralienorgans-c"
+    ]
   },
-  "-1890400772005205377": {
+  "schematic-trees-enemy-3-2-c": {
+    "id": "schematic-trees-enemy-3-2-c",
     "name": "Alien DNA",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-1890400772005205377"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-aliendnacapsule-c"
+    ]
   },
-  "3972292654153853517": {
+  "schematic-trees-enemy-3-3-c": {
+    "id": "schematic-trees-enemy-3-3-c",
     "name": "The Rebar Gun",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "3972292654153853517"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-spikedrebar-c",
+      "recipe-rebargun-c"
+    ]
   },
-  "-6578584046000036097": {
+  "schematic-trees-cryolit-3-1-c": {
+    "id": "schematic-trees-cryolit-3-1-c",
     "name": "Sorting",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6578584046000036097"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sorter-t1-cryolit-c"
+    ]
   },
-  "8068497899449385946": {
+  "schematic-trees-cryolit-2-2-c": {
+    "id": "schematic-trees-cryolit-2-2-c",
     "name": "Explorer",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8068497899449385946"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-explorer-c"
+    ]
   },
-  "-6007645376635854423": {
+  "schematic-trees-cryolit-3-2-c": {
+    "id": "schematic-trees-cryolit-3-2-c",
     "name": "Lime Dust",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6007645376635854423"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-limedustconcrete-c",
+      "recipe-crusher-limedust-cryolite-c"
+    ]
   },
-  "9027775515870936609": {
+  "schematic-trees-cryolit-4-2-c": {
+    "id": "schematic-trees-cryolit-4-2-c",
     "name": "Salty Ingots",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "9027775515870936609"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-crusher-salt-c",
+      "recipe-foundery-saltedcopper-c",
+      "recipe-foundery-saltedtin-c"
+    ]
   },
-  "5469187017420795191": {
+  "schematic-trees-cryolit-3-3-c": {
+    "id": "schematic-trees-cryolit-3-3-c",
     "name": "Diamond Extraction",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5469187017420795191"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sorter-t2-diamond-c"
+    ]
   },
-  "-4212912625919758139": {
+  "schematic-trees-cryolit-4-3-c": {
+    "id": "schematic-trees-cryolit-4-3-c",
     "name": "Communication",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4212912625919758139"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-crystaloscillator-c"
+    ]
   },
-  "2769022677343221108": {
+  "schematic-trees-cryolit-3-4-c": {
+    "id": "schematic-trees-cryolit-3-4-c",
     "name": "Miner Module: Crusher",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2769022677343221108"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-module-crusher-c"
+    ]
   },
-  "-863443834143684911": {
+  "schematic-trees-cryolit-4-4-c": {
+    "id": "schematic-trees-cryolit-4-4-c",
     "name": "Long range Communication",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-863443834143684911"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-radartower-c"
+    ]
   },
-  "8727943395097831725": {
+  "schematic-trees-cryolit-5-4-c": {
+    "id": "schematic-trees-cryolit-5-4-c",
     "name": "Explosive Resonance Application",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8727943395097831725"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-nobelisk-shock-c"
+    ]
   },
-  "2467058737547205117": {
+  "schematic-trees-cryolit-3-5-c": {
+    "id": "schematic-trees-cryolit-3-5-c",
     "name": "Shatter Rebar",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2467058737547205117"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-rebar-scatter-c"
+    ]
   },
-  "-6361460630783948348": {
+  "schematic-trees-evo-mush-2-0-c": {
+    "id": "schematic-trees-evo-mush-2-0-c",
     "name": "Parachute",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6361460630783948348"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-parachute-c"
+    ]
   },
-  "3020255039807770982": {
+  "schematic-trees-evo-mush-3-0-c": {
+    "id": "schematic-trees-evo-mush-3-0-c",
     "name": "Mycelia",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "3020255039807770982"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-weavingmachine-fabric-c",
+      "recipe-weavingmachine-fabric-cotten-c",
+      "recipe-weavingmachine-c"
+    ]
   },
-  "-2820765733692311753": {
+  "schematic-trees-evo-mush-4-0-c": {
+    "id": "schematic-trees-evo-mush-4-0-c",
     "name": "Filter",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-2820765733692311753"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-filtergasmask-c"
+    ]
   },
-  "-2195583636953875074": {
+  "schematic-trees-evo-eat-0-0-c": {
+    "id": "schematic-trees-evo-eat-0-0-c",
     "name": "Medical",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-2195583636953875074"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-medic-c"
+    ]
   },
-  "-8173360977325756752": {
+  "research-mycelia-5-c": {
+    "id": "research-mycelia-5-c",
     "name": "Vitamin Inhaler",
     "tier": 3,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-8173360977325756752"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-medicinalinhaler-c"
+    ]
   },
-  "7531264804379572438": {
+  "schematic-trees-evo-mush-4-1-c": {
+    "id": "schematic-trees-evo-mush-4-1-c",
     "name": "Gas Mask",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "7531264804379572438"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-gasmask-c"
+    ]
   },
-  "-5792833328944984134": {
+  "research-mycelia-6-c": {
+    "id": "research-mycelia-6-c",
     "name": "Therapeutic Inhaler",
     "tier": 3,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5792833328944984134"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-therapeuticinhaler-c"
+    ]
   },
-  "4460253440304778816": {
+  "schematic-trees-evo-flowers-3-2-c": {
+    "id": "schematic-trees-evo-flowers-3-2-c",
     "name": "Synthetic Paint Color",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "4460253440304778816"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-packager-color-c",
+      "recipe-chemreactor-paint-c"
+    ]
   },
-  "-345620295785141494": {
+  "schematic-trees-evo-mushroom-3-3-c": {
+    "id": "schematic-trees-evo-mushroom-3-3-c",
     "name": "Toxic Cellular Modification",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-345620295785141494"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-nobelisk-gas-c"
+    ]
   },
-  "3338221419747811557": {
+  "schematic-tree-farming-seedextracting-c": {
+    "id": "schematic-tree-farming-seedextracting-c",
     "name": "Seed Extracting",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "3338221419747811557"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sf+-seedextractor-c"
+    ]
   },
-  "-4526022044525971713": {
+  "schematic-tree-farming-fertdirtfarming-c": {
+    "id": "schematic-tree-farming-fertdirtfarming-c",
     "name": "Peat Soil Crops",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4526022044525971713"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sf+-crop-banana-c",
+      "recipe-sf+-crop-pumpkin-c",
+      "recipe-ff-treeplot-c",
+      "recipe-sf+-crop-yosseberry-c"
+    ]
   },
-  "2461976280650485061": {
+  "schematic-tree-farming-basicplots-c": {
+    "id": "schematic-tree-farming-basicplots-c",
     "name": "Basic Farming",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2461976280650485061"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-cookinghub-c",
+      "recipe-ff-cropplot-c",
+      "recipe-ff-farmingplatformmk2-c",
+      "recipe-constructor-solidbiomasscapsuse-c"
+    ]
   },
-  "-7277932348953207455": {
+  "schematic-tree-farming-wetdirtfarming-c": {
+    "id": "schematic-tree-farming-wetdirtfarming-c",
     "name": "Bog Earth Crops",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-7277932348953207455"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sf+-crop-apple-c",
+      "recipe-sf+-crop-cotton-c",
+      "recipe-ff-flowerplot-c",
+      "recipe-sf+-alt-crop-mycelia-c",
+      "recipe-ff-myceliaplot-c",
+      "recipe-sf+-flowers-c",
+      "recipe-ff-treeplot-c"
+    ]
   },
-  "7895068711217552319": {
+  "schematic-tree-farming-doggolove-c": {
+    "id": "schematic-tree-farming-doggolove-c",
     "name": "Doggo Love",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "7895068711217552319"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-doggocageempty-c",
+      "recipe-ff-doggochow-c",
+      "recipe-ff-doggohouse-c"
+    ]
   },
-  "2527713295905561097": {
+  "schematic-tree-farming-dirtfarming-c": {
+    "id": "schematic-tree-farming-dirtfarming-c",
     "name": "Dirt Crops",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2527713295905561097"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-sf+-crop-carrot-c",
+      "recipe-sf+-crop-corn-c",
+      "recipe-cooker-snailfoodmk-1-c",
+      "recipe-sf+-crop-potato-c",
+      "recipe-sf+-crop-wheat-c"
+    ]
   },
-  "-6560675834999162115": {
+  "schematic-tree-farming-fabric-c": {
+    "id": "schematic-tree-farming-fabric-c",
     "name": "Cotton Fabric",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6560675834999162115"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-weavingmachine-fabric-cotten-c",
+      "recipe-weavingmachine-c"
+    ]
   },
-  "-5171567845063951495": {
+  "schematic-tree-farming-muffins-c": {
+    "id": "schematic-tree-farming-muffins-c",
     "name": "Muffins",
     "tier": 4,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5171567845063951495"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-cooked-muffin-corn-c",
+      "recipe-ff-cooked-muffin-wheat-c",
+      "recipe-ff-cooked-muffin-yosse-c"
+    ]
   },
-  "-1783640840967838288": {
+  "schematic-tree-farming-plotmodules-c": {
+    "id": "schematic-tree-farming-plotmodules-c",
     "name": "Plot Modules",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-1783640840967838288"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cooker-snailfoodmk-3-c",
+      "recipe-ff-plotmod-greenhouse-c",
+      "recipe-ff-plotmod-harvester-c",
+      "recipe-cooker-snailfoodmk-2-c",
+      "recipe-ff-plotmod-irrigation-c"
+    ]
   },
-  "6953972972271154967": {
+  "schematic-tree-farming-bread-c": {
+    "id": "schematic-tree-farming-bread-c",
     "name": "Bread",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6953972972271154967"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-cooked-bread-banana-c",
+      "recipe-ff-cooked-bread-c"
+    ]
   },
-  "8957340568684845994": {
+  "schematic-tree-farming-pie-c": {
+    "id": "schematic-tree-farming-pie-c",
     "name": "Pie!",
     "tier": 4,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8957340568684845994"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-cooked-pie-apples-c",
+      "recipe-ff-cooked-pie-berry-c"
+    ]
   },
-  "-8959612153120860378": {
+  "schematic-tree-farming-composter-c": {
+    "id": "schematic-tree-farming-composter-c",
     "name": "Composter",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-8959612153120860378"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fsf+composter-c",
+      "recipe-cooker-snailfoodmk-5-c",
+      "recipe-cooker-snailfoodmk-4-c"
+    ]
   },
-  "-1637360137022875257": {
+  "schematic-tree-farming-pie-2-c": {
+    "id": "schematic-tree-farming-pie-2-c",
     "name": "Pie!",
     "tier": 4,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-1637360137022875257"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-cooked-pie-banana-c",
+      "recipe-ff-cooked-pie-pumpkin-c"
+    ]
   },
-  "-7809891759267225294": {
+  "schematic-tree-platform3-c": {
+    "id": "schematic-tree-platform3-c",
     "name": "Expert Farmer",
     "tier": 1,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-7809891759267225294"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-ff-farmingplatformmk3-c",
+      "recipe-cooker-snailfoodmk-7-c",
+      "recipe-cooker-snailfoodmk-6-c"
+    ]
   },
-  "-3670248545434219822": {
+  "schematic-trees-timecrystak-stabilizer-c": {
+    "id": "schematic-trees-timecrystak-stabilizer-c",
     "name": "Crystal Stabilizer",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-3670248545434219822"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-time-case-c",
+      "recipe-time-stabilizer-c"
+    ]
   },
-  "5682331894029706293": {
+  "schematic-trees-timecrystak-researches-c": {
+    "id": "schematic-trees-timecrystak-researches-c",
     "name": "Storage System",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5682331894029706293"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-polewalldouble-c",
+      "recipe-cs-rammodulemk1-input-c",
+      "recipe-cs-rammodulemk1-output-c",
+      "recipe-cs-polestand-c",
+      "recipe-cs-polewall-c",
+      "recipe-cs-cable-c",
+      "recipe-time-cable-c",
+      "recipe-networkstorage-mk1-c",
+      "recipe-cs-core-c"
+    ]
   },
-  "6899836408523574166": {
+  "schematic-trees-timecrystak-transport-out-item-c": {
+    "id": "schematic-trees-timecrystak-transport-out-item-c",
     "name": "Faxit Item Sender",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6899836408523574166"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-output-solid-c"
+    ]
   },
-  "-115145795135760478": {
+  "schematic-trees-timecrystak-itemstorage-1-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-1-c",
     "name": "Item Storage Mk.1",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-115145795135760478"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-1-c",
+      "recipe-networkstorageunit-solid-1-c"
+    ]
   },
-  "-2602026113050414031": {
+  "schematic-trees-timecrystak-transport-in-item-c": {
+    "id": "schematic-trees-timecrystak-transport-in-item-c",
     "name": "Faxit Item Receiver",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-2602026113050414031"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-inputsolid-c"
+    ]
   },
-  "6345692247771794067": {
+  "schematic-trees-timecrystak-transport-terminal-c": {
+    "id": "schematic-trees-timecrystak-transport-terminal-c",
     "name": "Terminal",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6345692247771794067"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-terminal-c",
+      "recipe-time-adapter-c"
+    ]
   },
-  "-6782120501172924964": {
+  "schematic-trees-timecrystak-transport-in-fluid-c": {
+    "id": "schematic-trees-timecrystak-transport-in-fluid-c",
     "name": "Faxit Fluid Receiver",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6782120501172924964"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-input-fluid-c"
+    ]
   },
-  "4187914157421461560": {
+  "schematic-trees-timecrystak-fluidstorage-1-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-1-c",
     "name": "Fluid Storage Mk.1",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "4187914157421461560"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-1-c",
+      "recipe-networkstorageunit-fluid-1-c"
+    ]
   },
-  "4050707640708262495": {
+  "schematic-trees-timecrystak-transport-out-fluid-c": {
+    "id": "schematic-trees-timecrystak-transport-out-fluid-c",
     "name": "Faxit Fluid Sender",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "4050707640708262495"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-output-fluid-c"
+    ]
   },
-  "3513641006749225036": {
+  "schematic-trees-timecrystak-itemstorage-3-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-3-c",
     "name": "Item Storage Mk.3",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "3513641006749225036"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-3-c"
+    ]
   },
-  "8999528459967059545": {
+  "schematic-trees-timecrystak-itemstorage-2-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-2-c",
     "name": "Item Storage Mk.2",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8999528459967059545"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-2-c"
+    ]
   },
-  "8040350688500255207": {
+  "schematic-trees-timecrystak-cable-01-c": {
+    "id": "schematic-trees-timecrystak-cable-01-c",
     "name": "More Network Cables",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8040350688500255207"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-cable-3-c",
+      "recipe-cs-cable-2-c"
+    ]
   },
-  "6528974775989672606": {
+  "schematic-trees-timecrystak-cable-2-c": {
+    "id": "schematic-trees-timecrystak-cable-2-c",
     "name": "More Network Cables",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6528974775989672606"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-cs-cable-4-c",
+      "recipe-cs-cable-5-c"
+    ]
   },
-  "8079894364634493696": {
+  "schematic-trees-timecrystak-fluidstorage-2-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-2-c",
     "name": "Fluid Storage Mk.2",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8079894364634493696"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-2-c"
+    ]
   },
-  "2919463318175615921": {
+  "schematic-trees-timecrystak-fluidstorage-3-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-3-c",
     "name": "Fluid Storage Mk.3",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2919463318175615921"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-3-c"
+    ]
   },
-  "4309930271218937737": {
+  "schematic-trees-timecrystak-itemstorage-4-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-4-c",
     "name": "Item Storage Mk.4",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "4309930271218937737"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-4-c"
+    ]
   },
-  "-4945050650701691178": {
+  "schematic-trees-timecrystak-fluidstorage-4-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-4-c",
     "name": "Fluid Storage Mk.4",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4945050650701691178"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-4-c"
+    ]
   },
-  "-1536401365531412313": {
+  "schematic-trees-timecrystak-itemstorage-5-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-5-c",
     "name": "Item Storage Mk.5",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-1536401365531412313"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-5-c"
+    ]
   },
-  "5290570457829050786": {
+  "schematic-trees-timecrystak-transport-out-teleporter-c": {
+    "id": "schematic-trees-timecrystak-transport-out-teleporter-c",
     "name": "Teleporter Technology",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5290570457829050786"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-teleporter-c"
+    ]
   },
-  "8045556807520939": {
+  "schematic-trees-timecrystak-fluidstorage-5-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-5-c",
     "name": "Fluid Storage Mk.5",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8045556807520939"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-5-c"
+    ]
   },
-  "1352137993814688718": {
+  "schematic-trees-timecrystak-itemstorage-6-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-6-c",
     "name": "Item Storage Mk.6",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "1352137993814688718"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-6-c",
+      "recipe-time-cpu-c"
+    ]
   },
-  "433088440146322553": {
+  "schematic-trees-timecrystak-itemstorage-7-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-7-c",
     "name": "Item Storage Mk.7",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "433088440146322553"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-7-c"
+    ]
   },
-  "1665544579060238032": {
+  "schematic-trees-timecrystak-fluidstorage-7-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-7-c",
     "name": "Fluid Storage Mk.7",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "1665544579060238032"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-7-c"
+    ]
   },
-  "-6163976122920268733": {
+  "schematic-trees-timecrystak-fluidstorage-6-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-6-c",
     "name": "Fluid Storage Mk.6",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6163976122920268733"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-6-c",
+      "recipe-time-cpu-c"
+    ]
   },
-  "5941349798479621016": {
+  "schematic-trees-timecrystak-itemstorage-8-c": {
+    "id": "schematic-trees-timecrystak-itemstorage-8-c",
     "name": "Item Storage Mk.8",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5941349798479621016"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-soliddrive-mk-8-c"
+    ]
   },
-  "6774602117411901918": {
+  "schematic-trees-timecrystak-fluidstorage-8-c": {
+    "id": "schematic-trees-timecrystak-fluidstorage-8-c",
     "name": "Fluid Storage Mk.8",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6774602117411901918"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-fluiddrive-mk-8-c"
+    ]
   },
-  "-5815175485124670851": {
+  "schematic-trees-slugs-2-0-new-c": {
+    "id": "schematic-trees-slugs-2-0-new-c",
     "name": "DNA Reseaching",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5815175485124670851"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-dnatoegg-yellow-c"
+    ]
   },
-  "-126329471087373259": {
+  "schematic-trees-slugs-3-0-new-c": {
+    "id": "schematic-trees-slugs-3-0-new-c",
     "name": "DNA Reseaching",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-126329471087373259"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-dnatoegg-blue-c"
+    ]
   },
-  "-5310709439037026548": {
+  "schematic-trees-slugs-4-0-new-c": {
+    "id": "schematic-trees-slugs-4-0-new-c",
     "name": "DNA Reseaching",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5310709439037026548"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-dnatoegg-purple-c"
+    ]
   },
-  "-6656222620810952982": {
+  "schematic-trees-slugs-3-1-new-c": {
+    "id": "schematic-trees-slugs-3-1-new-c",
     "name": "Slug Hatching",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6656222620810952982"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-slughatchery-mk1-humidity-c",
+      "recipe-slughatchery-mk1-incubator-c",
+      "recipe-slughatchery-c",
+      "recipe-slughatchery-mk1-temerature-c"
+    ]
   },
-  "-3687658854898172664": {
+  "schematic-trees-slugs-2-2-new-c": {
+    "id": "schematic-trees-slugs-2-2-new-c",
     "name": "Good night Slugs!",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-3687658854898172664"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-slughatchery-mk1-night-c"
+    ]
   },
-  "-9085090882306093812": {
+  "schematic-trees-slugs-3-2-new-c": {
+    "id": "schematic-trees-slugs-3-2-new-c",
     "name": "Breeding",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-9085090882306093812"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-slugterrarium-c"
+    ]
   },
-  "-8655288392958542720": {
+  "schematic-trees-slugs-4-2-new-c": {
+    "id": "schematic-trees-slugs-4-2-new-c",
     "name": "Low Slime processing",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-8655288392958542720"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-low-blueslug-c",
+      "recipe-module-energy-c",
+      "recipe-low-purple-c",
+      "recipe-low-yellowslug-c"
+    ]
   },
-  "9223315201761794849": {
+  "schematic-trees-slugs-2-3-new-c": {
+    "id": "schematic-trees-slugs-2-3-new-c",
     "name": "They are thirsty!",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "9223315201761794849"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-slughatchery-mk1-tank-c"
+    ]
   },
-  "1828664314257992245": {
+  "schematic-trees-slugs-2-4-new-c": {
+    "id": "schematic-trees-slugs-2-4-new-c",
     "name": "Basic Power Modules",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "1828664314257992245"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-high-darkblue-c",
+      "recipe-high-darkgreen-c",
+      "recipe-high-pink-c",
+      "recipe-high-red-c",
+      "recipe-high-turquise-c"
+    ]
   },
-  "4341075041260670120": {
+  "schematic-trees-slugs-3-4-new-c": {
+    "id": "schematic-trees-slugs-3-4-new-c",
     "name": "PowerShards",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "4341075041260670120"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-mid-lime-c",
+      "recipe-sac-powershard-c",
+      "recipe-assamble-shardframe-c"
+    ]
   },
-  "-8449868000614702017": {
+  "schematic-trees-slugs-4-4-new-c": {
+    "id": "schematic-trees-slugs-4-4-new-c",
     "name": "Advanced Power Modules",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-8449868000614702017"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-module-energy-mk2-c"
+    ]
   },
-  "538187568853376575": {
+  "schematic-trees-slugs-3-5-new-c": {
+    "id": "schematic-trees-slugs-3-5-new-c",
     "name": "Mineral Slugs",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "538187568853376575"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-mineral-bloodred-c",
+      "recipe-mineral-copper-c",
+      "recipe-mineral-golden-c",
+      "recipe-mineral-iron-c",
+      "recipe-mineral-orange-c"
+    ]
   },
-  "855624541679355822": {
+  "schematic-trees-satmonium-3-0-c": {
+    "id": "schematic-trees-satmonium-3-0-c",
     "name": "Satmonium",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "855624541679355822"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-handcrafter-satmonium-c",
+      "recipe-crusher-satmonium-c"
+    ]
   },
-  "-4534663181259155391": {
+  "schematic-trees-satmonium-3-1-c": {
+    "id": "schematic-trees-satmonium-3-1-c",
     "name": "Caterium Ingots",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4534663181259155391"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-smelter-dirty-cateriumingots-c"
+    ]
   },
-  "2838665536624176992": {
+  "schematic-trees-satmonium-2-2-c": {
+    "id": "schematic-trees-satmonium-2-2-c",
     "name": "Run!",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "2838665536624176992"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-bladerunners-c"
+    ]
   },
-  "3539240703447639027": {
+  "schematic-trees-satmonium-3-2-c": {
+    "id": "schematic-trees-satmonium-3-2-c",
     "name": "Quick Wire",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "3539240703447639027"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-constructor-cateriumrod-c",
+      "recipe-constructor-quickwire-c"
+    ]
   },
-  "-3270438957213137867": {
+  "schematic-trees-satmonium-4-2-c": {
+    "id": "schematic-trees-satmonium-4-2-c",
     "name": "Power Pole Mk.2",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-3270438957213137867"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-powerpolemk2-c"
+    ]
   },
-  "7499272786799543582": {
+  "schematic-trees-satmonium-2-3-c": {
+    "id": "schematic-trees-satmonium-2-3-c",
     "name": "Zip Line",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "7499272786799543582"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-zipline-c"
+    ]
   },
-  "8823292536151524046": {
+  "schematic-trees-satmonium-3-3-c": {
+    "id": "schematic-trees-satmonium-3-3-c",
     "name": "A.I Limiter",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8823292536151524046"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-ailimiter-c",
+      "recipe-constructor-cateriumplate-c",
+      "recipe-constructor-cateriumsheet-c"
+    ]
   },
-  "-6687388672477587834": {
+  "schematic-trees-satmonium-4-3-c": {
+    "id": "schematic-trees-satmonium-4-3-c",
     "name": "Smart Splitter",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6687388672477587834"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-conveyorattachmentsplittersmart-c"
+    ]
   },
-  "-4518811420612658020": {
+  "schematic-trees-satmonium-2-4-u6-c": {
+    "id": "schematic-trees-satmonium-2-4-u6-c",
     "name": "Stun Rebar",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4518811420612658020"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-rebar-stun-c"
+    ]
   },
-  "-5434221006641851420": {
+  "schematic-trees-satmonium-3-4-c": {
+    "id": "schematic-trees-satmonium-3-4-c",
     "name": "Sorting",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5434221006641851420"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-smelter-sorted-cateriumingot-c",
+      "recipe-sorter-t1-satmonium-c"
+    ]
   },
-  "7205970981947776329": {
+  "schematic-trees-satmonium-4-4-u6-c": {
+    "id": "schematic-trees-satmonium-4-4-u6-c",
     "name": "Power Switch",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "7205970981947776329"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-powerswitch-c"
+    ]
   },
-  "-576069974744354040": {
+  "schematic-trees-satmonium-2-5-u6-c": {
+    "id": "schematic-trees-satmonium-2-5-u6-c",
     "name": "Bullet Guidance System",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-576069974744354040"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-rilflemuni-smart-c"
+    ]
   },
-  "5454638282420756981": {
+  "schematic-trees-satmonium-3-5-c": {
+    "id": "schematic-trees-satmonium-3-5-c",
     "name": "Hight Speed",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5454638282420756981"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-highspeedconnector-c"
+    ]
   },
-  "-4107648206058050595": {
+  "schematic-trees-satmonium-4-5-c": {
+    "id": "schematic-trees-satmonium-4-5-c",
     "name": "Power Pole Mk.3",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4107648206058050595"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-powerpolemk3-c"
+    ]
   },
-  "-5855186353173162346": {
+  "schematic-trees-satmonium-2-6-u6-c": {
+    "id": "schematic-trees-satmonium-2-6-u6-c",
     "name": "Geothermal Generator",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5855186353173162346"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-generatorgeothermal-c"
+    ]
   },
-  "-6523084177023405708": {
+  "schematic-trees-satmonium-3-6-u6-c": {
+    "id": "schematic-trees-satmonium-3-6-u6-c",
     "name": "Supercomputer",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-6523084177023405708"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-computer-super-c"
+    ]
   },
-  "-5426166120110380143": {
+  "schematic-trees-satmonium-4-6-u6-c": {
+    "id": "schematic-trees-satmonium-4-6-u6-c",
     "name": "Programmable Splitter",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5426166120110380143"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-conveyorattachmentsplitterprogrammable-c"
+    ]
   },
-  "-7516162089741964548": {
+  "schematic-trees-sulfur-3-1-c": {
+    "id": "schematic-trees-sulfur-3-1-c",
     "name": "Sulfur Extraction",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-7516162089741964548"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-module-fluid-c"
+    ]
   },
-  "7174022213531174253": {
+  "schematic-trees-sulfur-3-2-c": {
+    "id": "schematic-trees-sulfur-3-2-c",
     "name": "Explosive",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "7174022213531174253"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-gunpowder-c",
+      "recipe-crusher-carbondust-c",
+      "recipe-crusher-sulfurpowder-c"
+    ]
   },
-  "-5797485654377412119": {
+  "schematic-trees-sulfur-3-3-c": {
+    "id": "schematic-trees-sulfur-3-3-c",
     "name": "The Nobelisk Detonator",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-5797485654377412119"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-nobelisk-c",
+      "recipe-nobeliskdetonator-c"
+    ]
   },
-  "-4261025124156647740": {
+  "schematic-trees-sulfur-3-4-c": {
+    "id": "schematic-trees-sulfur-3-4-c",
     "name": "Smokeless Powder",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-4261025124156647740"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-gunpowdermk2-c"
+    ]
   },
-  "9093777612742432863": {
+  "schematic-trees-sulfur-1-5-c": {
+    "id": "schematic-trees-sulfur-1-5-c",
     "name": "Rifle",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "9093777612742432863"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-spaceriflemk1-c",
+      "recipe-manu-cartridge-c"
+    ]
   },
-  "-7805436324248817439": {
+  "schematic-trees-sulfur-2-5-c": {
+    "id": "schematic-trees-sulfur-2-5-c",
     "name": "Cluster Nobelisk",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "-7805436324248817439"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-nobelisk-cluster-c"
+    ]
   },
-  "5362869829878067335": {
+  "schematic-trees-sulfur-4-5-c": {
+    "id": "schematic-trees-sulfur-4-5-c",
     "name": "Explosive Rebar",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "5362869829878067335"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-assamble-rebar-explo-c"
+    ]
   },
-  "6371374337450273103": {
+  "schematic-trees-sulfur-5-5-c": {
+    "id": "schematic-trees-sulfur-5-5-c",
     "name": "Turbo Rifle Ammo",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "6371374337450273103"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-rilflemuni-turbo-c"
+    ]
   },
-  "8597803019171658794": {
+  "schematic-trees-sulfur-3-6-c": {
+    "id": "schematic-trees-sulfur-3-6-c",
     "name": "Nuclear Deterrent Development",
     "tier": 0,
-    "type": "MAM",
-    "recipes": [],
-    "schematic_id": "8597803019171658794"
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": [
+      "recipe-manu-nobelisk-nuce-c"
+    ]
   },
-  "6346162229835295202": {
+  "hidden-farming-dirt-fert-c": {
+    "id": "hidden-farming-dirt-fert-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "6346162229835295202"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-compost-carrot-sf+-c",
+      "recipe-compost-corn-sf+-c",
+      "recipe-compost-potato-sf+-c",
+      "recipe-compost-wheat-sf+-c",
+      "recipe-sf+-alt-crop-carrot2-c",
+      "recipe-sf+-alt-crop-corn2-c",
+      "recipe-sf+-alt-crop-potato2-c",
+      "recipe-sf+-alt-crop-wheat2-c"
+    ]
   },
-  "-3210422493329386978": {
+  "hidden-farming-dirt-water-c": {
+    "id": "hidden-farming-dirt-water-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-3210422493329386978"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-sf+-alt-crop-carrot-c",
+      "recipe-sf+-alt-crop-corn-c",
+      "recipe-sf+-alt-crop-potato-c",
+      "recipe-sf+-alt-crop-wheat-c"
+    ]
   },
-  "-1570665329577308607": {
+  "hidden-farming-fertdirt-fert-c": {
+    "id": "hidden-farming-fertdirt-fert-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1570665329577308607"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-compost-apple-sf+-c",
+      "recipe-compost-cotton-sf+-c",
+      "recipe-compost-flower-sf+-c",
+      "recipe-compost-mycelia-sf+-c",
+      "recipe-sf+-alt-crop-apple2-c",
+      "recipe-sf+-alt-crop-cotton2-c",
+      "recipe-sf+-alt-crop-mycelia3-c",
+      "recipe-sf+-alt-flowers3-c"
+    ]
   },
-  "6271286362120312507": {
+  "hidden-farming-fertdirt-water-c": {
+    "id": "hidden-farming-fertdirt-water-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "6271286362120312507"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-sf+-alt-crop-apple-c",
+      "recipe-sf+-alt-crop-cotton-c",
+      "recipe-sf+-alt-crop-mycelia2-c",
+      "recipe-sf+-flowers2-c"
+    ]
   },
-  "-8721159884038023139": {
+  "hidden-farming-othercomposter-c": {
+    "id": "hidden-farming-othercomposter-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-8721159884038023139"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-compost-biofuel-sf+-c",
+      "recipe-compost-biomass-sf+-c",
+      "recipe-compost-leaves-sf+-c"
+    ]
   },
-  "8972679942088244840": {
+  "hidden-farming-wetdirt-fert-c": {
+    "id": "hidden-farming-wetdirt-fert-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8972679942088244840"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-compost-banana-sf+-c",
+      "recipe-compost-pumpkin-sf+-c",
+      "recipe-compost-yosse-sf+-c",
+      "recipe-sf+-alt-crop-banana2-c",
+      "recipe-sf+-alt-crop-pumpkin2-c",
+      "recipe-sf+-alt-crop-yosseberry2-c"
+    ]
   },
-  "-6635379324421438258": {
+  "hidden-farming-wetdirt-water-c": {
+    "id": "hidden-farming-wetdirt-water-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6635379324421438258"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-sf+-alt-crop-banana-c",
+      "recipe-sf+-alt-crop-pumpkin-c",
+      "recipe-sf+-alt-crop-yosseberry-c"
+    ]
   },
-  "-3084675385506081059": {
+  "schematic-trees-slugs-3-4-0-new-c": {
+    "id": "schematic-trees-slugs-3-4-0-new-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-3084675385506081059"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-mid-lime-c",
+      "recipe-sac-powershard-c",
+      "recipe-assamble-shardframe-c",
+      "recipe-mid-violett-c",
+      "recipe-mid-whiteslug-c"
+    ]
   },
-  "-2007354734160203666": {
+  "schematic-sf+-1-0-c": {
+    "id": "schematic-sf+-1-0-c",
     "name": "Simple Logistics",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-2007354734160203666"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-conveyorattachmentmerger-c",
+      "recipe-conveyorattachmentsplitter-c",
+      "recipe-assamble-beltitemmk1-c"
+    ]
   },
-  "1604180368507895066": {
+  "schematic-sf+-1-1-c": {
+    "id": "schematic-sf+-1-1-c",
     "name": "Better Conveyors",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "1604180368507895066"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-conveyorbeltmk2-c",
+      "recipe-conveyorliftmk2-c",
+      "recipe-conveyorpolestackable-c"
+    ]
   },
-  "5697971186576500893": {
+  "schematic-sf+-1-2-c": {
+    "id": "schematic-sf+-1-2-c",
     "name": "Destruction of Nature",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "5697971186576500893"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-chainsaw-c",
+      "recipe-biofuel-c"
+    ]
   },
-  "3721366628675199293": {
+  "schematic-sf+-1-3-c": {
+    "id": "schematic-sf+-1-3-c",
     "name": "Base Building",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "3721366628675199293"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-wall-8x4-02-c",
+      "recipe-wall-8x4-01-c",
+      "recipe-foundation-8x1-01-c",
+      "recipe-foundation-8x2-01-c",
+      "recipe-foundation-8x4-01-c",
+      "recipe-lookouttower-c",
+      "recipe-ramp-8x1-01-c",
+      "recipe-ramp-8x2-01-c",
+      "recipe-ramp-8x4-01-c"
+    ]
   },
-  "7771301017293283927": {
+  "schematic-sf+-1-3-0-c": {
+    "id": "schematic-sf+-1-3-0-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7771301017293283927"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-orange-8x1-c",
+      "recipe-wall-8x4-02-c",
+      "recipe-wall-8x4-01-c",
+      "recipe-foundation-8x1-01-c",
+      "recipe-foundation-8x2-01-c",
+      "recipe-foundation-8x4-01-c",
+      "recipe-lookouttower-c",
+      "recipe-ramp-8x1-01-c",
+      "recipe-ramp-8x2-01-c",
+      "recipe-ramp-8x4-01-c"
+    ]
   },
-  "-447167440610984146": {
+  "schematic-sf+-1-4-c": {
+    "id": "schematic-sf+-1-4-c",
     "name": "Research",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-447167440610984146"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-mam-c",
+      "recipe-objectscanner-c",
+      "recipe-storageplayer-c"
+    ]
   },
-  "2432940223665119329": {
+  "schematic-sf+-1-5-c": {
+    "id": "schematic-sf+-1-5-c",
     "name": "Ore Sorting",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "2432940223665119329"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-smelter-sorted-leadingots-c",
+      "recipe-constructor-leadplates-c",
+      "recipe-sorter-c",
+      "recipe-sorter-t1-rubyte-c",
+      "recipe-smelter-sorted-tiningots-c"
+    ]
   },
-  "3333897273593626633": {
+  "schematic-sf+-1-6-c": {
+    "id": "schematic-sf+-1-6-c",
     "name": "Improved manufacturing",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "3333897273593626633"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assemblermk1-c",
+      "recipe-constructor-leadsheet-c",
+      "recipe-assamble-rotor-c"
+    ]
   },
-  "7603475165690623048": {
+  "schematic-sf+-1-7-c": {
+    "id": "schematic-sf+-1-7-c",
     "name": "Glass Walls",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "7603475165690623048"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-wall-window-8x4-02-c",
+      "recipe-wall-window-8x4-03-c",
+      "recipe-wall-window-8x4-04-c",
+      "recipe-crusher-sand-c",
+      "recipe-wall-window-8x4-01-c",
+      "recipe-smelter-dirty-glass-c"
+    ]
   },
-  "5542419821449382497": {
+  "schematic-sf+-2-0-c": {
+    "id": "schematic-sf+-2-0-c",
     "name": "Alloys",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "5542419821449382497"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-constructor-bronzerrod-c",
+      "recipe-foundery-bronze-c",
+      "recipe-constructor-bronzepipe-c",
+      "recipe-constructor-bronzeplate-c",
+      "recipe-smeltermk1-c",
+      "recipe-assamble-metalframe-c"
+    ]
   },
-  "1431589243320387040": {
+  "schematic-sf+-2-1-c": {
+    "id": "schematic-sf+-2-1-c",
     "name": "Advanced Parts",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "1431589243320387040"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-bronzeframe-c",
+      "recipe-assamble-leadframe-c"
+    ]
   },
-  "-7154719745049320082": {
+  "schematic-sf+-2-2-c": {
+    "id": "schematic-sf+-2-2-c",
     "name": "Advanced Sorting & Alloys",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-7154719745049320082"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-crusher-magnesiumgranulat-c",
+      "recipe-foundery-whitebronze-c",
+      "recipe-crusher-mixture-zinctin-c",
+      "recipe-smelter-sorted-zincingots-c",
+      "recipe-constructor-zincplates-c"
+    ]
   },
-  "-1360789773431691158": {
+  "schematic-sf+-2-2-0-c": {
+    "id": "schematic-sf+-2-2-0-c",
     "name": "",
     "tier": 2,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1360789773431691158"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-smelter-sorted-copperingots-c",
+      "recipe-smelter-sorted-ironingots-c",
+      "recipe-crusher-magnesiumgranulat-c",
+      "recipe-foundery-sulfurfreeiron-c",
+      "recipe-sorter-t1-sapherit-c",
+      "recipe-sorter-t1-stritarit-c"
+    ]
   },
-  "2283708111921066231": {
+  "schematic-sf+-2-3-c": {
+    "id": "schematic-sf+-2-3-c",
     "name": "Rewards",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "2283708111921066231"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-resourcesinkshop-c",
+      "recipe-resourcesink-c",
+      "recipe-sinkstoragemk1-c",
+      "recipe-colorcartridge-c",
+      "recipe-assamble-emptycolor-c"
+    ]
   },
-  "-297158239784458020": {
+  "schematic-sf+-2-3-0-c": {
+    "id": "schematic-sf+-2-3-0-c",
+    "name": "",
+    "tier": 2,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "schematic-sf+-2-4-c": {
+    "id": "schematic-sf+-2-4-c",
     "name": "Smelting Module",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-297158239784458020"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-slagcement-c",
+      "recipe-module-smelter-c"
+    ]
   },
-  "-3073728428196405101": {
+  "schematic-sf+-2-5-c": {
+    "id": "schematic-sf+-2-5-c",
     "name": "FICSIT Inc. Assembly project Part 1",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-3073728428196405101"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-lift-1-c"
+    ]
   },
-  "7372230949095427679": {
+  "schematic-sf+-2-6-c": {
+    "id": "schematic-sf+-2-6-c",
     "name": "FICSIT Blueprints",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "7372230949095427679"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-blueprintdesignermk2-c"
+    ]
   },
-  "-2123994593144125089": {
+  "schematic-sf+-2-7-c": {
+    "id": "schematic-sf+-2-7-c",
     "name": "Jump Pads",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-2123994593144125089"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-jumppadadjustable-c",
+      "recipe-ujellylandingpad-c"
+    ]
   },
-  "-925662371850656189": {
+  "schematic-sf+-2-8-c": {
+    "id": "schematic-sf+-2-8-c",
     "name": "Better Biomass Energy",
     "tier": 2,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-925662371850656189"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-rp-mp-biomassheater-c",
+      "recipe-rp-mp-boilermk1-c",
+      "recipe-constructor-copperpipe-c",
+      "recipe-cleaner-2-c",
+      "recipe-sf+-mp-mvgenerator-c",
+      "recipe-pipeline-c",
+      "recipe-rp-mp-turbinemk1-c",
+      "recipe-waterpump-c"
+    ]
   },
-  "-5515891587848100655": {
+  "schematic-sf+-2-8-0-c": {
+    "id": "schematic-sf+-2-8-0-c",
     "name": "",
     "tier": 2,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-5515891587848100655"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-biowaterextractor-sf+-c",
+      "recipe-rp-mp-boilermk1-c",
+      "recipe-rp-mp-boilerplatform-c",
+      "recipe-rp-mp-co2cooler-c",
+      "recipe-rp-mp-co2cooler-c",
+      "recipe-rp-mp-converterplatform-c",
+      "recipe-rp-mp-coolingplatform-c",
+      "recipe-pipestoragetank-c",
+      "recipe-pipelinejunction-cross-c",
+      "recipe-pipeline-c",
+      "recipe-pipelinepump-c",
+      "recipe-pipesupport-c",
+      "recipe-pipesupportstackable-c",
+      "recipe-rp-mp-steamcooler-c",
+      "recipe-rp-mp-steamcooler-c"
+    ]
   },
-  "3554168676148365259": {
+  "schematic-sf+-3-0-c": {
+    "id": "schematic-sf+-3-0-c",
     "name": "Molten Metals",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "3554168676148365259"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-flexibleblastfurnacesmelter-c",
+      "recipe-fbfs-alloy-bronze-c",
+      "recipe-fbfs-simple-gold-c",
+      "recipe-fbfs-simple-copper-c",
+      "recipe-fbfs-simple-iron-c",
+      "recipe-fbfs-simple-lead-c",
+      "recipe-fbfs-simple-magnesium-c",
+      "recipe-fbfs-simple-tin-c",
+      "recipe-fbfs-simple-zinc-c"
+    ]
   },
-  "-5524324637515783360": {
+  "schematic-sf+-3-1-c": {
+    "id": "schematic-sf+-3-1-c",
     "name": "Metal Casting",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-5524324637515783360"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sac-ingots-bronze-c",
+      "recipe-sac-ingots-gold-c",
+      "recipe-sac-ingots-copper-c",
+      "recipe-sac-ingots-iron-c",
+      "recipe-sac-ingots-lead-c",
+      "recipe-soldifierandcooler-c",
+      "recipe-sac-ingots-tin-c",
+      "recipe-sac-steamwater-c",
+      "recipe-sac-ingots-zinc-c"
+    ]
   },
-  "7502697024481571612": {
+  "schematic-sf+-3-1-1-c": {
+    "id": "schematic-sf+-3-1-1-c",
     "name": "",
     "tier": 3,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7502697024481571612"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-assamble-slagcement-c"
+    ]
   },
-  "-8158646738959068461": {
+  "schematic-sf+-3-2-c": {
+    "id": "schematic-sf+-3-2-c",
     "name": "Brass",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-8158646738959068461"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sac-ingots-brass-c",
+      "recipe-assamble-brasspipe-c",
+      "recipe-constructor-brassplates-c",
+      "recipe-fbfs-alloy-brass-c"
+    ]
   },
-  "6925480125717696078": {
+  "schematic-sf+-3-3-c": {
+    "id": "schematic-sf+-3-3-c",
     "name": "Steel",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "6925480125717696078"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-aircollector-c",
+      "recipe-fbfs-alloy-steel-c",
+      "recipe-constructor-steelbeam-c",
+      "recipe-sac-ingots-steel-c",
+      "recipe-constructor-steelpipe-c",
+      "recipe-sac-parts-steelrods-c",
+      "recipe-constructor-steelscrew-c"
+    ]
   },
-  "-8097479629818661355": {
+  "schematic-sf+-3-5-c": {
+    "id": "schematic-sf+-3-5-c",
     "name": "Basher",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-8097479629818661355"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-xenobasher-c"
+    ]
   },
-  "-2701743036324274538": {
+  "schematic-sf+-3-6-c": {
+    "id": "schematic-sf+-3-6-c",
     "name": "Advanced Logistics",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-2701743036324274538"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-beltitemmk2-c",
+      "recipe-conveyorbeltmk3-c",
+      "recipe-conveyorliftmk3-c"
+    ]
   },
-  "-6231134897675613201": {
+  "schematic-sf+-3-8-c": {
+    "id": "schematic-sf+-3-8-c",
     "name": "Hydroelectric Power",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-6231134897675613201"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-blades-c",
+      "recipe-waterturbine-mk1-c"
+    ]
   },
-  "-3011672621682016425": {
+  "schematic-sf+-3-9-c": {
+    "id": "schematic-sf+-3-9-c",
     "name": "Trucks",
     "tier": 3,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-3011672621682016425"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-tractor-c",
+      "recipe-truckstation-c"
+    ]
   },
-  "-1574229840024583529": {
+  "schematic-sf+-4-0-c": {
+    "id": "schematic-sf+-4-0-c",
     "name": "Coal Power",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-1574229840024583529"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-rp-mp-coalheater-c"
+    ]
   },
-  "-5190755514825549233": {
+  "schematic-sf+-4-1-c": {
+    "id": "schematic-sf+-4-1-c",
     "name": "Advanced Parts",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-5190755514825549233"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-encasedbeam-c",
+      "recipe-manu-heavyframe-c",
+      "recipe-assamble-motor-c"
+    ]
   },
-  "-7959675300191973402": {
+  "schematic-sf+-4-2-c": {
+    "id": "schematic-sf+-4-2-c",
     "name": "HYPER!",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-7959675300191973402"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-pipehyper-c",
+      "recipe-pipehyperstart-c",
+      "recipe-pipehypersupport-c",
+      "recipe-hypertubewallhole-c",
+      "recipe-hypertubewallsupport-c",
+      "recipe-hyperpolestackable-c"
+    ]
   },
-  "1857094090845112536": {
+  "schematic-sf+-4-3-c": {
+    "id": "schematic-sf+-4-3-c",
     "name": "Industrial Storage & Miner Module",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "1857094090845112536"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sinkstoragemk2-c",
+      "recipe-storagecontainermk2-c",
+      "recipe-module-drill-t2-c"
+    ]
   },
-  "660470137012618645": {
+  "schematic-sf+-4-5-c": {
+    "id": "schematic-sf+-4-5-c",
     "name": "FICSIT Inc. Assembly project Part 2",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "660470137012618645"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-lift-3-c",
+      "recipe-assamble-lift-2-c"
+    ]
   },
-  "439457222563391593": {
+  "schematic-sf+-4-6-c": {
+    "id": "schematic-sf+-4-6-c",
     "name": "Solar Power and Storage",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "439457222563391593"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-weavingmachine-carbonmesh-c",
+      "recipe-powerstoragemk1-c",
+      "recipe-crusher-silicasand-c",
+      "recipe-assamble-phcell-c",
+      "recipe-solarpanel-mk1-c",
+      "recipe-assamble-stator-c",
+      "recipe-sorter-t1-cryolit-2-c"
+    ]
   },
-  "8342503499772479218": {
+  "schematic-sf+-4-7-c": {
+    "id": "schematic-sf+-4-7-c",
     "name": "Hovering",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "8342503499772479218"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-hoverpack-c"
+    ]
   },
-  "6203079401981582275": {
+  "schematic-sf+-4-8-c": {
+    "id": "schematic-sf+-4-8-c",
     "name": "FICSIT Blueprints",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "6203079401981582275"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-blueprintdesignermk3-c"
+    ]
   },
-  "6026739223673269567": {
+  "schematic-sf+-4-9-c": {
+    "id": "schematic-sf+-4-9-c",
     "name": "Pipeline Engineering Mk.2",
     "tier": 4,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "6026739223673269567"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-pipelinemk2-c",
+      "recipe-pipelinepumpmk2-c",
+      "recipe-valve-c"
+    ]
   },
-  "-2665662136756979764": {
+  "schematic-sf+-5-0-c": {
+    "id": "schematic-sf+-5-0-c",
     "name": "Oil Refining",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-2665662136756979764"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-c",
+      "recipe-fbfs-oil-purification-c",
+      "recipe-chemreactor-oil-desulfurization-c",
+      "recipe-chemreactor-oil-destila-c",
+      "recipe-oilpump-c",
+      "recipe-chemreactor-oil-petroleum-c",
+      "recipe-sac-oilplasticrubber-c",
+      "recipe-weavingmachine-c"
+    ]
   },
-  "-2274128268176288651": {
+  "schematic-sf+-5-0-1-c": {
+    "id": "schematic-sf+-5-0-1-c",
     "name": "",
     "tier": 5,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-2274128268176288651"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-diesel-c",
+      "recipe-chemreactor-liquidbiofuel-c",
+      "recipe-chemreactor-naturalgas-c",
+      "recipe-chemreactor-oil-destila-2-c",
+      "recipe-weavingmachine-syntheticfabric-c"
+    ]
   },
-  "8793469729492188840": {
+  "schematic-sf+-5-1-c": {
+    "id": "schematic-sf+-5-1-c",
     "name": "Fluid & Gas Energy",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "8793469729492188840"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-rp-mp-boilermk2-c",
+      "recipe-gasheater-c",
+      "recipe-rp-mp-solutionheater-c"
+    ]
   },
-  "-3437731631363640642": {
+  "schematic-sf+-5-2-c": {
+    "id": "schematic-sf+-5-2-c",
     "name": "Trucks",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-3437731631363640642"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-truck-c"
+    ]
   },
-  "-3837924763098352483": {
+  "schematic-sf+-5-3-c": {
+    "id": "schematic-sf+-5-3-c",
     "name": "Industrial Manufacturing",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-3837924763098352483"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-manu-cicuitboard-c",
+      "recipe-manu-computer-c",
+      "recipe-manu-heavyframe-c",
+      "recipe-manufacturermk1-c",
+      "recipe-fbfs-alloy-solder-c",
+      "recipe-sac-parts-solder-c"
+    ]
   },
-  "-1609557661978412631": {
+  "schematic-sf+-5-4-c": {
+    "id": "schematic-sf+-5-4-c",
     "name": "Alternative Fluid Transport",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-1609557661978412631"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-ab-fluidpacker-c",
+      "recipe-assamble-barrel-c",
+      "recipe-assamble-canister-c",
+      "recipe-assamble-cold-c",
+      "recipe-assamble-gastank-c",
+      "recipe-assamble-hot-c",
+      "recipe-industrialtank-c"
+    ]
   },
-  "-5069020426096261431": {
+  "schematic-sf+-5-4-1-c": {
+    "id": "schematic-sf+-5-4-1-c",
     "name": "",
     "tier": 5,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-5069020426096261431"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-packaged-liquidbrass-c",
+      "recipe-packaged-air-c",
+      "recipe-packaged-liquidbiowater-c",
+      "recipe-packaged-liquidbiowater-c",
+      "recipe-packaged-gas-carbondioxide-c",
+      "recipe-packaged-causticsoda-c",
+      "recipe-packaged-gas-chlor-c",
+      "recipe-packaged-coolingwater-c",
+      "recipe-packaged-dieseloil-c",
+      "recipe-packaged-liquiddirtywater-c",
+      "recipe-packaged-slugslime-mid-c",
+      "recipe-fuel-c",
+      "recipe-packagedoilresidue-c",
+      "recipe-packaged-slugslime-high-c",
+      "recipe-packaged-gas-steam-hot-c",
+      "recipe-packaged-liquidhydrocarbons-c",
+      "recipe-packaged-liquidhydrochloricacid-2-c",
+      "recipe-packaged-gas-hydrogen-c",
+      "recipe-packagedbiofuel-c",
+      "recipe-packaged-slugslime-low-c",
+      "recipe-packaged-methane-c",
+      "recipe-packaged-slugslime-mineral-c",
+      "recipe-packaged-liquidaluminum-c",
+      "recipe-packaged-liquidbronze-c",
+      "recipe-packaged-liquidgold-c",
+      "recipe-packaged-liquidcobalt-c",
+      "recipe-packaged-liquidcopper-c",
+      "recipe-packaged-liquidinvar-c",
+      "recipe-packaged-liquidiron-c",
+      "recipe-packaged-liquidlead-c",
+      "recipe-packaged-liquidmagnesium-c",
+      "recipe-packaged-liquidnickle-c",
+      "recipe-packaged-liquidslag-c",
+      "recipe-packaged-liquidsolder-c",
+      "recipe-packaged-liquidsteel-c",
+      "recipe-packaged-liquidtin-c",
+      "recipe-packaged-liquidzinc-c",
+      "recipe-packaged-naturalgas-c",
+      "recipe-packagedcrudeoil-c",
+      "recipe-packaged-gasoxygen-c",
+      "recipe-packaged-gas-oxyhydrogen-c",
+      "recipe-packaged-paint-c",
+      "recipe-packaged-purifiedcrudeoil-c",
+      "recipe-packaged-liquidrawsludge-c",
+      "recipe-packaged-liquidrefinedhydrocarbons-c",
+      "recipe-packaged-gas-steam-c",
+      "recipe-packaged-sulfurtrixid-c",
+      "recipe-packaged-liquidtitan-c",
+      "recipe-packaged-gas-titantetrachlorid-c",
+      "recipe-packaged-toxicair-c",
+      "recipe-packagedwater-c",
+      "recipe-unpackaged-air-c",
+      "recipe-unpackaged-liquidbiowater-c",
+      "recipe-unpackaged-gas-carbondioxide-c",
+      "recipe-unpackaged-causticsoda-c",
+      "recipe-unpackaged-gas-chlor-c",
+      "recipe-unpackaged-dieseloil-c",
+      "recipe-unpackaged-liquiddirtywater-c",
+      "recipe-unpackaged-slugslime-mid-c",
+      "recipe-unpackaged-slugslime-high-c",
+      "recipe-unpackaged-gas-steam-hot-c",
+      "recipe-unpackaged-liquidhydrocarbons-c",
+      "recipe-unpackaged-liquidhydrochloricacid-2-c",
+      "recipe-unpackaged-gas-hydrogen-c",
+      "recipe-unpackaged-slugslime-low-c",
+      "recipe-unpackaged-methane-c",
+      "recipe-unpackaged-slugslime-mineral-c",
+      "recipe-unpackaged-liquidaluminum-c",
+      "recipe-unpackaged-liquidbrass-c",
+      "recipe-unpackaged-liquidbronze-c",
+      "recipe-unpackaged-liquidgold-c",
+      "recipe-unpackaged-liquidcobalt-c",
+      "recipe-unpackaged-liquidcopper-c",
+      "recipe-unpackaged-liquidinvar-c",
+      "recipe-unpackaged-liquidiron-c",
+      "recipe-unpackaged-liquidlead-c",
+      "recipe-unpackaged-liquidmagnesium-c",
+      "recipe-unpackaged-liquidnickle-c",
+      "recipe-unpackaged-liquidslag-c",
+      "recipe-unpackaged-liquidsolder-c",
+      "recipe-unpackaged-liquidsteel-c",
+      "recipe-unpackaged-liquidtin-c",
+      "recipe-unpackaged-liquidzinc-c",
+      "recipe-unpackaged-naturalgas-c",
+      "recipe-unpackaged-gasoxygen-c",
+      "recipe-unpackaged-gas-oxyhydrogen-c",
+      "recipe-unpackaged-paint-c",
+      "recipe-unpackaged-coolingwater-c",
+      "recipe-unpackaged-purifiedcrudeoil-c",
+      "recipe-unpackaged-liquidrawsludge-c",
+      "recipe-unpackaged-liquidrefinedhydrocarbons-c",
+      "recipe-unpackaged-gas-steam-c",
+      "recipe-unpackaged-sulfurtrixid-c",
+      "recipe-unpackaged-liquidtitan-c",
+      "recipe-unpackaged-gas-titantetrachlorid-c",
+      "recipe-unpackaged-toxicair-c",
+      "recipe-unpackagefuel-c",
+      "recipe-unpackageoilresidue-c",
+      "recipe-unpackagebiofuel-c",
+      "recipe-unpackageoil-c",
+      "recipe-unpackageoil-c",
+      "recipe-unpackagewater-c"
+    ]
   },
-  "-3633132230428045231": {
+  "schematic-sf+-5-5-c": {
+    "id": "schematic-sf+-5-5-c",
     "name": "Expert Conveyors",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-3633132230428045231"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-manu-beltitemmk3-c",
+      "recipe-conveyorbeltmk4-c",
+      "recipe-conveyorliftmk4-c"
+    ]
   },
-  "465567480374078015": {
+  "schematic-sf+-5-6-c": {
+    "id": "schematic-sf+-5-6-c",
     "name": "Solar Energy",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "465567480374078015"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-solarpanel-mk2-new-c"
+    ]
   },
-  "-1475582600333755017": {
+  "schematic-sf+-5-7-c": {
+    "id": "schematic-sf+-5-7-c",
     "name": "Monorail Train Technology",
     "tier": 5,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-1475582600333755017"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-railroadblocksignal-c",
+      "recipe-locomotive-c",
+      "recipe-trainplatformempty-c",
+      "recipe-traindockingstationliquid-c",
+      "recipe-freightwagon-c",
+      "recipe-traindockingstation-c",
+      "recipe-railroadpathsignal-c",
+      "recipe-railroadtrack-c",
+      "recipe-trainstation-c"
+    ]
   },
-  "2617577028683181308": {
+  "schematic-sf+-6-1-c": {
+    "id": "schematic-sf+-6-1-c",
     "name": "Jetpack",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "2617577028683181308"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-jetpack-c"
+    ]
   },
-  "-2444783986061816807": {
+  "schematic-sf+-6-2-c": {
+    "id": "schematic-sf+-6-2-c",
     "name": "Advanced Sorting",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-2444783986061816807"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-hydroacid-c",
+      "recipe-chemreactor-sulfuracid-c",
+      "recipe-sorter-t2-cryolit-c",
+      "recipe-sorter-t2-rubyte-c",
+      "recipe-sorter-t2-sapherit-c",
+      "recipe-sorter-t2-satmonium-c",
+      "recipe-sorter-t2-stritarit-c"
+    ]
   },
-  "8822445957593570491": {
+  "schematic-sf+-6-2-0-c": {
+    "id": "schematic-sf+-6-2-0-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8822445957593570491"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-packaged-liquidhydrochloricacid-2-c",
+      "recipe-packaged-sulfurtrixid-c",
+      "recipe-fbfs-oil-sulfurtri-c",
+      "recipe-unpackaged-liquidhydrochloricacid-2-c",
+      "recipe-unpackaged-sulfurtrixid-c"
+    ]
   },
-  "-5969227679307508528": {
+  "schematic-sf+-6-3-c": {
+    "id": "schematic-sf+-6-3-c",
     "name": "Advanced Ore Processing",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-5969227679307508528"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-air-c",
+      "recipe-orewascher-c",
+      "recipe-chemreactor-oxyhdrogen-c",
+      "recipe-wasching-cobalt-c",
+      "recipe-wasching-iron-c",
+      "recipe-wasching-nickle-c",
+      "recipe-chemreactor-toxicair-c"
+    ]
   },
-  "5853857492006733722": {
+  "schematic-sf+-6-3-0-c": {
+    "id": "schematic-sf+-6-3-0-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "5853857492006733722"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-fbfs-advanced-caterium-c",
+      "recipe-fbfs-advanced-copper-c",
+      "recipe-fbfs-advanced-iron-c",
+      "recipe-fbfs-advanced-lead-c",
+      "recipe-fbfs-advanced-magnesium-c",
+      "recipe-fbfs-advanced-tin-c",
+      "recipe-fbfs-advanced-zinc-c",
+      "recipe-wasching-caterium-c",
+      "recipe-wasching-copper-c",
+      "recipe-wasching-lead-c",
+      "recipe-wasching-magn-c",
+      "recipe-wasching-tin-c",
+      "recipe-wasching-zinc-c"
+    ]
   },
-  "1265329620450758529": {
+  "schematic-sf+-6-4-c": {
+    "id": "schematic-sf+-6-4-c",
     "name": "Advanced Alloys",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "1265329620450758529"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sac-ingots-cobalt-c",
+      "recipe-constructor-cobaltplates-c",
+      "recipe-sac-ingots-invar-c",
+      "recipe-assamble-invarpipes-c",
+      "recipe-constructor-invarplates-c",
+      "recipe-fbfs-advanced-cobalt-c",
+      "recipe-fbfs-alloy-invar-c",
+      "recipe-fbfs-advanced-nickle-c"
+    ]
   },
-  "-1069401895601202026": {
+  "schematic-sf+-6-5-c": {
+    "id": "schematic-sf+-6-5-c",
     "name": "High Voltage",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-1069401895601202026"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sf+-mp-hvgenerator-c",
+      "recipe-rp-mp-turbinemk2-c"
+    ]
   },
-  "-634326194676549650": {
+  "schematic-sf+-6-7-c": {
+    "id": "schematic-sf+-6-7-c",
     "name": "FICSIT Inc. Assembly project Part 3",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-634326194676549650"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-manu-lift-5-c",
+      "recipe-manu-lift-4-c"
+    ]
   },
-  "7433838836325485165": {
+  "schematic-sf+-6-8-c": {
+    "id": "schematic-sf+-6-8-c",
     "name": "Pipeline Engineering Mk.3",
     "tier": 6,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "7433838836325485165"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sf+-pipelinemk3-c"
+    ]
   },
-  "9165338886537928987": {
+  "schematic-sf+-7-1-c": {
+    "id": "schematic-sf+-7-1-c",
     "name": "Aluminum Processing",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "9165338886537928987"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-blender-aluminiumoxid-c",
+      "recipe-alucasing-c",
+      "recipe-sac-alumingots-c",
+      "recipe-sac-alumsheets-c",
+      "recipe-blender-c",
+      "recipe-chemreactor-natriumhot-c",
+      "recipe-crusher-crotinium-c",
+      "recipe-fbfs-liquidalum-c",
+      "recipe-chemreactor-nitricacid-c",
+      "recipe-sorter-t3-crotonium-c"
+    ]
   },
-  "2962923059306296910": {
+  "schematic-sf+-7-1-0-c": {
+    "id": "schematic-sf+-7-1-0-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2962923059306296910"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-packagedalumina-c",
+      "recipe-packaged-causticsoda-c",
+      "recipe-unpackaged-causticsoda-c",
+      "recipe-unpackagealumina-c"
+    ]
   },
-  "-371083702562248072": {
+  "schematic-sf+-7-3-c": {
+    "id": "schematic-sf+-7-3-c",
     "name": "Expert Logistics",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-371083702562248072"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-conveyorbeltmk5-c",
+      "recipe-conveyorliftmk5-c",
+      "recipe-blender-beltr-mk4-c"
+    ]
   },
-  "-6742674630032398744": {
+  "schematic-sf+-7-3-0-c": {
+    "id": "schematic-sf+-7-3-0-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6742674630032398744"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-packagednitrogen-c",
+      "recipe-unpackagenitrogen-c"
+    ]
   },
-  "-6900191478253447268": {
+  "schematic-sf+-7-4-c": {
+    "id": "schematic-sf+-7-4-c",
     "name": "Aluminium Products",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-6900191478253447268"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-assamble-alcu-c",
+      "recipe-blender-fusedframe-c",
+      "recipe-heatsink-c"
+    ]
   },
-  "8584472953992770859": {
+  "schematic-sf+-7-5-c": {
+    "id": "schematic-sf+-7-5-c",
     "name": "Fracking",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "8584472953992770859"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-frackingextractor-c",
+      "recipe-frackingsmasher-c"
+    ]
   },
-  "3331628203363028135": {
+  "schematic-sf+-7-6-c": {
+    "id": "schematic-sf+-7-6-c",
     "name": "FICSIT Inc. Assembly project Part 4",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "3331628203363028135"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-manu-lift-7-c",
+      "recipe-manu-lift-6-c"
+    ]
   },
-  "7503889490419186514": {
+  "schematic-sf+-8-1-c": {
+    "id": "schematic-sf+-8-1-c",
     "name": "Titanum Processing",
     "tier": 8,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "7503889490419186514"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-sf+-module-drill-t3-c",
+      "recipe-wasching-rutile-c",
+      "recipe-sorter-t3-stritarit-c",
+      "recipe-sac-titanium-c",
+      "recipe-chemreactor-titan-c",
+      "recipe-chemreactor-titantetrachlorid-c"
+    ]
   },
-  "8810412823634787026": {
+  "schematic-sf+-8-2-c": {
+    "id": "schematic-sf+-8-2-c",
     "name": "Advanced Electronic",
     "tier": 8,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "8810412823634787026"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-colider-c",
+      "recipe-manu-computersuper-c"
+    ]
   },
-  "-4666002660201781081": {
+  "schematic-sf+-8-3-c": {
+    "id": "schematic-sf+-8-3-c",
     "name": "[WIP] Drone Technology",
     "tier": 8,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-4666002660201781081"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-chemreactor-bata-c",
+      "recipe-dronetransport-c",
+      "recipe-dronestation-c",
+      "recipe-manu-titanframe-c"
+    ]
   },
-  "479821141710198792": {
+  "schematic-sf+-8-5-c": {
+    "id": "schematic-sf+-8-5-c",
     "name": "Slug Minerals & Pasta",
     "tier": 8,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "479821141710198792"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-slug-colider-crushedcrono-c",
+      "recipe-slug-colider-crushedrub-c",
+      "recipe-slug-colider-crushedsaph-c",
+      "recipe-slug-colider-crushedsatmo-c",
+      "recipe-slug-colider-crushedstrit-c"
+    ]
   },
-  "3534994398158193802": {
+  "schematic-sf+-8-7-c": {
+    "id": "schematic-sf+-8-7-c",
     "name": "FICSIT Inc. Assembly project Part 5",
     "tier": 7,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "3534994398158193802"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-colider-pasta-c",
+      "recipe-manu-lift-10-c",
+      "recipe-chemreactor-rocketfuel-c",
+      "recipe-chem-lift-8-c"
+    ]
   },
-  "8345517373251620517": {
+  "sf+-customizerunlock-colourswatches-c": {
+    "id": "sf+-customizerunlock-colourswatches-c",
+    "name": "Customizer Colour Swatches",
+    "tier": 0,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "sf+-customizerunlock-pipelineswatch-c": {
+    "id": "sf+-customizerunlock-pipelineswatch-c",
+    "name": "Pipeline Swatch",
+    "tier": 0,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-noindicator-pipelinemk3-c": {
+    "id": "resourcesink-noindicator-pipelinemk3-c",
     "name": "Clean Pipeline Mk.3",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "8345517373251620517"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-sf+-pipelinemk3-noid-c"
+    ]
   },
-  "-8678314264189666547": {
+  "sink-ab-c": {
+    "id": "sink-ab-c",
     "name": "Advanced Pipe Logistic",
     "tier": 3,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-8678314264189666547"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pipejunc-ubend-c",
+      "recipe-pipejunc-halfbend-c",
+      "recipe-pipejunc-bend-c",
+      "recipe-pipejunc-dt-c",
+      "recipe-pipejunc-fork-c",
+      "recipe-pipejunc-l-c",
+      "recipe-pipejunc-t-c",
+      "recipe-pipejunc-tri-c"
+    ]
   },
-  "-3780811443968593155": {
+  "sink-inverhyper-c": {
+    "id": "sink-inverhyper-c",
     "name": "Invert Stackable Hyper Support",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-3780811443968593155"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-ceilingstackablehyperpole-c"
+    ]
   },
-  "5394131057455777264": {
+  "sink-invertpipe-c": {
+    "id": "sink-invertpipe-c",
     "name": "Invert Stackable Pipe Support",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "5394131057455777264"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-ceilingstackablepipepole-c"
+    ]
   },
-  "-3111395689093863141": {
+  "sink-wallbelt-c": {
+    "id": "sink-wallbelt-c",
     "name": "Conveyor Wall Hole",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-3111395689093863141"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wallhole-c"
+    ]
   },
-  "-3167684556185357113": {
+  "resourcesink-beamset-c": {
+    "id": "resourcesink-beamset-c",
     "name": "Structural Beam Pack",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-3167684556185357113"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-beam-connector-c",
+      "recipe-beam-connector-double-c",
+      "recipe-beam-support-c",
+      "recipe-beam-c",
+      "recipe-beam-painted-c"
+    ]
   },
-  "7942808699610271960": {
+  "resourcesink-billboardsigns-c": {
+    "id": "resourcesink-billboardsigns-c",
     "name": "Billboard Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "7942808699610271960"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-standalonewidgetsign-huge-c",
+      "recipe-standalonewidgetsign-large-c"
+    ]
   },
-  "-765951934284338385": {
+  "resourcesink-catwalks-c": {
+    "id": "resourcesink-catwalks-c",
     "name": "Modern Catwalks",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-765951934284338385"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-catwalk-turn-c",
+      "recipe-catwalk-cross-c",
+      "recipe-catwalk-ramp-c",
+      "recipe-catwalk-stairs-c",
+      "recipe-catwalk-straight-c",
+      "recipe-catwalk-t-c"
+    ]
   },
-  "2751866176270034047": {
+  "resourcesink-ceilinglight-c": {
+    "id": "resourcesink-ceilinglight-c",
     "name": "Indoor Lighting",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "2751866176270034047"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-ceilinglight-c"
+    ]
   },
-  "8435698718238186905": {
+  "resourcesink-concretepillarset-c": {
+    "id": "resourcesink-concretepillarset-c",
     "name": "Concrete Pillar Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "8435698718238186905"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pillarmiddle-concrete-c",
+      "recipe-pillarbase-c",
+      "recipe-pillar-small-concrete-c",
+      "recipe-pillarbase-small-c"
+    ]
   },
-  "9120205404337541029": {
+  "resourcesink-converywalls-normal-c": {
+    "id": "resourcesink-converywalls-normal-c",
     "name": "Conveyor Walls",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "9120205404337541029"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-conveyor-8x4-03-c",
+      "recipe-wall-conveyor-8x4-02-c",
+      "recipe-wall-conveyor-8x4-01-c"
+    ]
   },
-  "-5852539973804599291": {
+  "resourcesink-conveyorlifthole-c": {
+    "id": "resourcesink-conveyorlifthole-c",
     "name": "Conveyor Lift Floor Hole",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-5852539973804599291"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-foundationpassthrough-lift-c"
+    ]
   },
-  "-5161760956474745312": {
+  "resourcesink-conveyorwallmount-c": {
+    "id": "resourcesink-conveyorwallmount-c",
     "name": "Conveyor Wall Mount",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-5161760956474745312"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-conveyorpolewall-c"
+    ]
   },
-  "-4461654278083241845": {
+  "resourcesink-curvedfoundationpack-c": {
+    "id": "resourcesink-curvedfoundationpack-c",
     "name": "Quarter Pipes Pack",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-4461654278083241845"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipecorner-01-c",
+      "recipe-quarterpipecorner-02-c",
+      "recipe-quarterpipecorner-04-c",
+      "recipe-quarterpipe-02-c",
+      "recipe-quarterpipecorner-03-c",
+      "recipe-quarterpipe-c"
+    ]
   },
-  "5274103630277564366": {
+  "resourcesink-cyberwagon-c": {
+    "id": "resourcesink-cyberwagon-c",
     "name": "Cyber Wagon",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "5274103630277564366"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-cyberwagon-c"
+    ]
   },
-  "-6137036976305430856": {
+  "resourcesink-diagonalramps-c": {
+    "id": "resourcesink-diagonalramps-c",
     "name": "Corner Ramp Pack",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-6137036976305430856"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-ramp-diagonal-8x1-01-c",
+      "recipe-ramp-diagonal-8x2-01-c",
+      "recipe-ramp-diagonal-8x4-01-c",
+      "recipe-ramp-diagonal-8x1-02-c",
+      "recipe-ramp-diagonal-8x2-02-c",
+      "recipe-ramp-diagonal-8x4-02-c"
+    ]
   },
-  "-486875721411756805": {
+  "resourcesink-diagonal-down-wallset-c": {
+    "id": "resourcesink-diagonal-down-wallset-c",
     "name": "Inverted Ramp Wall Bundle",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-486875721411756805"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-orange-fliptris-8x1-c",
+      "recipe-wall-orange-fliptris-8x2-c",
+      "recipe-wall-orange-fliptris-8x4-c",
+      "recipe-wall-orange-fliptris-8x8-c"
+    ]
   },
-  "-8977665770611116162": {
+  "resourcesink-diagonal-up-wallset-c": {
+    "id": "resourcesink-diagonal-up-wallset-c",
     "name": "Ramp Wall Bundle",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-8977665770611116162"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-orange-tris-8x1-c",
+      "recipe-wall-orange-tris-8x2-c",
+      "recipe-wall-orange-tris-8x4-c",
+      "recipe-wall-orange-tris-8x8-c"
+    ]
   },
-  "3895140152280551650": {
+  "resourcesink-displaysigns-c": {
+    "id": "resourcesink-displaysigns-c",
     "name": "Display Sign Bundle",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "3895140152280551650"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-standalonewidgetsign-medium-c",
+      "recipe-standalonewidgetsign-portrait-c",
+      "recipe-standalonewidgetsign-square-small-c",
+      "recipe-standalonewidgetsign-square-c"
+    ]
   },
-  "4565966127771185779": {
+  "resourcesink-doorwalls-normal-c": {
+    "id": "resourcesink-doorwalls-normal-c",
     "name": "Door Walls",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "4565966127771185779"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-door-8x4-01-c",
+      "recipe-wall-door-8x4-03-c"
+    ]
   },
-  "2024340483563840292": {
+  "resourcesink-factorybarrier-c": {
+    "id": "resourcesink-factorybarrier-c",
     "name": "Road Barrier",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "2024340483563840292"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-concrete-barrier-01-c"
+    ]
   },
-  "1052783382026135816": {
+  "resourcesink-factorycart-c": {
+    "id": "resourcesink-factorycart-c",
     "name": "FICSIT Factory Cart\u00e2\u201e\u00a2",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1052783382026135816"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-factorycart-c"
+    ]
   },
-  "8470465400816167342": {
+  "resourcesink-factoryfence-c": {
+    "id": "resourcesink-factoryfence-c",
     "name": "Modern Railing",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "8470465400816167342"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-railing-01-c"
+    ]
   },
-  "7637939871550524881": {
+  "resourcesink-factoryrailing-c": {
+    "id": "resourcesink-factoryrailing-c",
     "name": "Industrial Railing",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "7637939871550524881"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-fence-01-c"
+    ]
   },
-  "-2219408902425261352": {
+  "resourcesink-foudationpillar-c": {
+    "id": "resourcesink-foudationpillar-c",
     "name": "Metal Pillar Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-2219408902425261352"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pillarmiddle-c",
+      "recipe-pillarbase-c",
+      "recipe-pillar-small-metal-c",
+      "recipe-pillarbase-small-c"
+    ]
   },
-  "1197510956169786700": {
+  "resourcesink-foundationexpansionpack-c": {
+    "id": "resourcesink-foundationexpansionpack-c",
     "name": "Double Ramp Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1197510956169786700"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-rampdouble-8x1-c",
+      "recipe-rampdouble-c",
+      "recipe-ramp-8x8x8-c"
+    ]
   },
-  "7661745294596117006": {
+  "resourcesink-framepillarset-c": {
+    "id": "resourcesink-framepillarset-c",
     "name": "Frame Pillar Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "7661745294596117006"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pillarmiddle-frame-c",
+      "recipe-pillarbase-c",
+      "recipe-pillar-small-frame-c",
+      "recipe-pillarbase-small-c"
+    ]
   },
-  "2986363554428515567": {
+  "resourcesink-framewindows-c": {
+    "id": "resourcesink-framewindows-c",
     "name": "Steel-framed Windows",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "2986363554428515567"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-window-thin-8x4-01-c",
+      "recipe-wall-window-thin-8x4-02-c"
+    ]
   },
-  "3505746398332718887": {
+  "resourcesink-frameworkfoundations-c": {
+    "id": "resourcesink-frameworkfoundations-c",
     "name": "Structural Frame Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "3505746398332718887"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-flat-frame-01-c",
+      "recipe-foundation-frame-01-c",
+      "recipe-ramp-frame-01-c",
+      "recipe-wall-frame-01-c",
+      "recipe-foundationglass-01-c",
+      "recipe-ramp-frame-inverted-01-c"
+    ]
   },
-  "-4910429694117729909": {
+  "resourcesink-gatewalls-c": {
+    "id": "resourcesink-gatewalls-c",
     "name": "Gates",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-4910429694117729909"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-gate-automated-8x4-c",
+      "recipe-wall-gate-8x4-01-c"
+    ]
   },
-  "-7202541685154522785": {
+  "resourcesink-goldencart-c": {
+    "id": "resourcesink-goldencart-c",
     "name": "Golden FICSIT Factory Cart\u00e2\u201e\u00a2",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-7202541685154522785"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-goldencart-c"
+    ]
   },
-  "1765325543114593098": {
+  "resourcesink-halffoundations-c": {
+    "id": "resourcesink-halffoundations-c",
     "name": "Half Foundation Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1765325543114593098"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddle-ficsit-4x1-c",
+      "recipe-quarterpipemiddle-ficsit-4x2-c",
+      "recipe-quarterpipemiddle-ficsit-4x4-c"
+    ]
   },
-  "-2593861507774155110": {
+  "resourcesink-hazardboxskin-c": {
+    "id": "resourcesink-hazardboxskin-c",
     "name": "Hazard Box - Personal Storage Skin",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-2593861507774155110"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-storagehazard-c"
+    ]
   },
-  "8775348609168481822": {
+  "resourcesink-hypertubefloorhole-c": {
+    "id": "resourcesink-hypertubefloorhole-c",
     "name": "Hypertube Floor Hole",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "8775348609168481822"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-foundationpassthrough-hypertube-c"
+    ]
   },
-  "-6509206745675684866": {
+  "resourcesink-hypertubewallattachements-c": {
+    "id": "resourcesink-hypertubewallattachements-c",
     "name": "Hypertube Wall Attachments",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-6509206745675684866"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-hypertubewallhole-c",
+      "recipe-hypertubewallsupport-c"
+    ]
   },
-  "-1728022619238605720": {
+  "resourcesink-invertedcornerramps-c": {
+    "id": "resourcesink-invertedcornerramps-c",
     "name": "Inverted Corner Ramp Pack",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-1728022619238605720"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-rampinverted-8x1-corner-02-c",
+      "recipe-rampinverted-8x2-corner-02-c",
+      "recipe-rampinverted-8x4-corner-02-c",
+      "recipe-rampinverted-8x1-corner-01-c",
+      "recipe-rampinverted-8x2-corner-01-c",
+      "recipe-rampinverted-8x4-corner-01-c"
+    ]
   },
-  "2424790360639339645": {
+  "resourcesink-invertedramppack-c": {
+    "id": "resourcesink-invertedramppack-c",
     "name": "Inverted Ramp Set",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "2424790360639339645"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-rampinverted-8x1-c",
+      "recipe-rampinverted-8x2-01-c",
+      "recipe-ramp-8x4-inverted-01-c"
+    ]
   },
-  "-2681820914992819562": {
+  "resourcesink-labelsigns-c": {
+    "id": "resourcesink-labelsigns-c",
     "name": "Label Sign Bundle",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-2681820914992819562"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-standalonewidgetsign-small-c",
+      "recipe-standalonewidgetsign-smallwide-c",
+      "recipe-standalonewidgetsign-smallverywide-c",
+      "recipe-standalonewidgetsign-square-tiny-c"
+    ]
   },
-  "-9060363759799656565": {
+  "resourcesink-ladders-c": {
+    "id": "resourcesink-ladders-c",
     "name": "Factory Ladder",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-9060363759799656565"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-ladder-c"
+    ]
   },
-  "-8417338039137367649": {
+  "resourcesink-lightcontrolpanel-c": {
+    "id": "resourcesink-lightcontrolpanel-c",
     "name": "Lights Control Panel",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-8417338039137367649"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-lightscontrolpanel-c"
+    ]
   },
-  "1515232543332424252": {
+  "resourcesink-lighttower-c": {
+    "id": "resourcesink-lighttower-c",
     "name": "Flood Lights",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1515232543332424252"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-floodlightpole-c",
+      "recipe-floodlightwall-c"
+    ]
   },
-  "339283155271895540": {
+  "resourcesink-medicalboxskin-c": {
+    "id": "resourcesink-medicalboxskin-c",
     "name": "Medical Box - Personal Storage Skin",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "339283155271895540"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-storagemedkit-c"
+    ]
   },
-  "1607592133218501570": {
+  "resourcesink-noindicator-pipelinemk1-c": {
+    "id": "resourcesink-noindicator-pipelinemk1-c",
     "name": "Clean Pipeline Mk.1",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1607592133218501570"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pipeline-noindicator-c"
+    ]
   },
-  "-1069397016944524920": {
+  "resourcesink-noindicator-pipelinemk2-c": {
+    "id": "resourcesink-noindicator-pipelinemk2-c",
     "name": "Clean Pipeline Mk.2",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-1069397016944524920"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pipelinemk2-noindicator-c"
+    ]
   },
-  "-7985641335972002592": {
+  "resourcesink-pipelinefloorhole-c": {
+    "id": "resourcesink-pipelinefloorhole-c",
     "name": "Pipeline Floor Hole",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-7985641335972002592"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-foundationpassthrough-pipe-c"
+    ]
   },
-  "-1008131852193245101": {
+  "resourcesink-pipelinewallattachments-c": {
+    "id": "resourcesink-pipelinewallattachments-c",
     "name": "Pipeline Wall Attachments",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-1008131852193245101"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-pipesupportwallhole-c",
+      "recipe-pipesupportwall-c"
+    ]
   },
-  "2104336930553828118": {
+  "resourcesink-quarterpipeextensions-c": {
+    "id": "resourcesink-quarterpipeextensions-c",
     "name": "Quarter Pipe Extensions Pack",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "2104336930553828118"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddleincorner-ficsit-8x1-c",
+      "recipe-quarterpipemiddleincorner-ficsit-8x2-c",
+      "recipe-quarterpipemiddleincorner-ficsit-8x4-c",
+      "recipe-quarterpipemiddleoutcorner-ficsit-4x1-c",
+      "recipe-quarterpipemiddleoutcorner-ficsit-4x2-c",
+      "recipe-quarterpipemiddleoutcorner-ficsit-4x4-c"
+    ]
   },
-  "-4339863205466950317": {
+  "resourcesink-roofs-basic-c": {
+    "id": "resourcesink-roofs-basic-c",
     "name": "FICSIT Roofs",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-4339863205466950317"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-roof-orange-02-c",
+      "recipe-roof-orange-03-c",
+      "recipe-roof-orange-04-c",
+      "recipe-roof-orange-01-c"
+    ]
   },
-  "-1172580094838818878": {
+  "resourcesink-roofs-corners-c": {
+    "id": "resourcesink-roofs-corners-c",
     "name": "FICSIT Roofs",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-1172580094838818878"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-roof-orange-incorner-01-c",
+      "recipe-roof-orange-incorner-02-c",
+      "recipe-roof-orange-incorner-03-c",
+      "recipe-roof-orange-outcorner-01-c",
+      "recipe-roof-orange-outcorner-02-c",
+      "recipe-roof-orange-outcorner-03-c"
+    ]
   },
-  "-6450731512218670821": {
+  "resourcesink-stairs-c": {
+    "id": "resourcesink-stairs-c",
     "name": "Stairs",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-6450731512218670821"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-stairs-left-01-c",
+      "recipe-stairs-right-01-c"
+    ]
   },
-  "1345568675447883719": {
+  "resourcesink-streetlight-c": {
+    "id": "resourcesink-streetlight-c",
     "name": "Street Light",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "1345568675447883719"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-streetlight-c"
+    ]
   },
-  "-5539837158482616810": {
+  "resourcesink-tilted-walls-c": {
+    "id": "resourcesink-tilted-walls-c",
     "name": "Tilted Walls",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-5539837158482616810"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-wall-orange-8x4-corner-02-c",
+      "recipe-wall-orange-8x8-corner-02-c",
+      "recipe-wall-orange-8x4-corner-01-c",
+      "recipe-wall-orange-8x8-corner-01-c",
+      "recipe-wall-orange-angular-8x4-c",
+      "recipe-wall-orange-angular-8x8-c"
+    ]
   },
-  "-2753389619517226770": {
+  "resourcesink-walkways-c": {
+    "id": "resourcesink-walkways-c",
     "name": "Industrial Walkways",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-2753389619517226770"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-walkway-cross-c",
+      "recipe-walkway-ramp-c",
+      "recipe-walkway-straight-c",
+      "recipe-walkway-t-c",
+      "recipe-walkway-turn-c"
+    ]
   },
-  "-7095817678416117852": {
+  "resourcesink-wallpowerpoles-c": {
+    "id": "resourcesink-wallpowerpoles-c",
     "name": "Wall Power Outlets Mk.1",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-7095817678416117852"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-powerpolewalldouble-c",
+      "recipe-powerpolewall-c"
+    ]
   },
-  "7625835479071869722": {
+  "resourcesink-wallpowerpolesmk2-c": {
+    "id": "resourcesink-wallpowerpolesmk2-c",
     "name": "Wall Power Outlets Mk.2",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "7625835479071869722"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-powerpolewalldoublemk2-c",
+      "recipe-powerpolewallmk2-c"
+    ]
   },
-  "-240364877222173048": {
+  "resourcesink-wallpowerpolesmk3-c": {
+    "id": "resourcesink-wallpowerpolesmk3-c",
     "name": "Wall Power Outlets Mk.3",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-240364877222173048"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-powerpolewalldoublemk3-c",
+      "recipe-powerpolewallmk3-c"
+    ]
   },
-  "3044263372440724113": {
+  "resourcesink-customizer-asphalt-foundationmaterial-c": {
+    "id": "resourcesink-customizer-asphalt-foundationmaterial-c",
+    "name": "Asphalt Foundation Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-concretewallmaterial-c": {
+    "id": "resourcesink-customizer-concretewallmaterial-c",
+    "name": "Concrete Wall Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-concrete-foundationmaterial-c": {
+    "id": "resourcesink-customizer-concrete-foundationmaterial-c",
+    "name": "Concrete Foundation Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-glassroofmaterial-c": {
+    "id": "resourcesink-customizer-glassroofmaterial-c",
+    "name": "Glass Roof Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-gripmetal-foundationmaterial-c": {
+    "id": "resourcesink-customizer-gripmetal-foundationmaterial-c",
+    "name": "Grip Metal Foundation Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-polishedconcrete-foundationmaterial-c": {
+    "id": "resourcesink-customizer-polishedconcrete-foundationmaterial-c",
+    "name": "Coated Concrete Foundation Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-steelroofmaterial-c": {
+    "id": "resourcesink-customizer-steelroofmaterial-c",
+    "name": "Steel Roof Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-steelwallmaterial-c": {
+    "id": "resourcesink-customizer-steelwallmaterial-c",
+    "name": "Steel Wall Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-customizer-tarroofmaterial-c": {
+    "id": "resourcesink-customizer-tarroofmaterial-c",
+    "name": "Tar Roof Material",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "cbg-colour-concreteswatch-c": {
+    "id": "cbg-colour-concreteswatch-c",
+    "name": "Concrete Color Swatch background unlock",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "cbg-concrete-walls-basic-c": {
+    "id": "cbg-concrete-walls-basic-c",
     "name": "Basic Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "3044263372440724113"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-8x1-c",
+      "recipe-wall-concrete-8x4-c"
+    ]
   },
-  "2820157388559379232": {
+  "cbg-concrete-walls-conveyor-c": {
+    "id": "cbg-concrete-walls-conveyor-c",
     "name": "Conveyor Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2820157388559379232"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-8x4-conveyorhole-01-c",
+      "recipe-wall-concrete-8x4-conveyorhole-02-c",
+      "recipe-wall-concrete-8x4-conveyorhole-03-c"
+    ]
   },
-  "-1043179579243401408": {
+  "cbg-concrete-walls-diagonaldown-c": {
+    "id": "cbg-concrete-walls-diagonaldown-c",
     "name": "Down Diagonal Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1043179579243401408"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-fliptris-8x1-c",
+      "recipe-wall-concrete-fliptris-8x2-c",
+      "recipe-wall-concrete-fliptris-8x4-c",
+      "recipe-wall-concrete-fliptris-8x8-c"
+    ]
   },
-  "4864636898729213259": {
+  "cbg-concrete-walls-diagonalup-c": {
+    "id": "cbg-concrete-walls-diagonalup-c",
     "name": "Up Diagonal Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "4864636898729213259"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-tris-8x1-c",
+      "recipe-wall-concrete-tris-8x2-c",
+      "recipe-wall-concrete-tris-8x4-c",
+      "recipe-wall-concrete-tris-8x8-c"
+    ]
   },
-  "4362626533786843232": {
+  "cbg-concrete-walls-doors-c": {
+    "id": "cbg-concrete-walls-doors-c",
     "name": "Doors Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "4362626533786843232"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-cdoor-8x4-c",
+      "recipe-wall-concrete-sdoor-8x4-c"
+    ]
   },
-  "4981716297795407370": {
+  "cbg-concrete-walls-gates-c": {
+    "id": "cbg-concrete-walls-gates-c",
     "name": "Gates Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "4981716297795407370"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-gate-8x4-c"
+    ]
   },
-  "6245148038954425721": {
+  "cbg-concrete-walls-tilted-c": {
+    "id": "cbg-concrete-walls-tilted-c",
     "name": "Tilted Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "6245148038954425721"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-8x4-corner-2-c",
+      "recipe-wall-concrete-8x8-corner-2-c",
+      "recipe-wall-concrete-8x4-corner-01-c",
+      "recipe-wall-concrete-8x8-corner-01-c",
+      "recipe-wall-concrete-angular-8x4-c",
+      "recipe-wall-concrete-angular-8x8-c"
+    ]
   },
-  "-2733238760949512750": {
+  "cbg-concrete-walls-windows-c": {
+    "id": "cbg-concrete-walls-windows-c",
     "name": "Windows Concrete Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-2733238760949512750"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-concrete-8x4-window-02-c",
+      "recipe-wall-concrete-8x4-window-03-c",
+      "recipe-wall-concrete-8x4-window-04-c",
+      "recipe-wall-concrete-8x4-window-01-c"
+    ]
   },
-  "-225945798925603209": {
+  "cbg-extensionquarterpipes-asphalt-c": {
+    "id": "cbg-extensionquarterpipes-asphalt-c",
     "name": "Asphalt Quarter PIpe Extensions",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-225945798925603209"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddleincorner-asphalt-8x1-c",
+      "recipe-quarterpipemiddleincorner-asphalt-8x2-c",
+      "recipe-quarterpipemiddleincorner-asphalt-8x4-c",
+      "recipe-quarterpipemiddleoutcorner-asphalt-4x1-c",
+      "recipe-quarterpipemiddleoutcorner-asphalt-4x2-c",
+      "recipe-quarterpipemiddleoutcorner-asphalt-4x4-c"
+    ]
   },
-  "7950271307288790329": {
+  "cbg-extensionquarterpipes-concrete-c": {
+    "id": "cbg-extensionquarterpipes-concrete-c",
     "name": "Concrete Quarter PIpe Extensions",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7950271307288790329"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddleincorner-concrete-8x1-c",
+      "recipe-quarterpipemiddleincorner-concrete-8x2-c",
+      "recipe-quarterpipemiddleincorner-concrete-8x4-c",
+      "recipe-quarterpipemiddleoutcorner-concrete-4x1-c",
+      "recipe-quarterpipemiddleoutcorner-concrete-4x2-c",
+      "recipe-quarterpipemiddleoutcorner-concrete-4x4-c"
+    ]
   },
-  "-6588069575824656448": {
+  "cbg-extensionquarterpipes-gripmetal-c": {
+    "id": "cbg-extensionquarterpipes-gripmetal-c",
     "name": "Grip Metal Quarter PIpe Extensions",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6588069575824656448"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddleincorner-grip-8x1-c",
+      "recipe-quarterpipemiddleincorner-grip-8x2-c",
+      "recipe-quarterpipemiddleincorner-grip-8x4-c",
+      "recipe-quarterpipemiddleoutcorner-grip-4x1-c",
+      "recipe-quarterpipemiddleoutcorner-grip-4x2-c",
+      "recipe-quarterpipemiddleoutcorner-grip-4x4-c"
+    ]
   },
-  "-7918554384247475295": {
+  "cbg-extensionquarterpipes-polished-c": {
+    "id": "cbg-extensionquarterpipes-polished-c",
     "name": "Polished Concrete Quarter PIpe Extensions",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7918554384247475295"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddleincorner-polishedconcrete-8x1-c",
+      "recipe-quarterpipemiddleincorner-polishedconcrete-8x2-c",
+      "recipe-quarterpipemiddleincorner-polishedconcrete-8x4-c",
+      "recipe-quarterpipemiddleoutcorner-polishedconcrete-4x1-c",
+      "recipe-quarterpipemiddleoutcorner-polishedconcrete-4x2-c",
+      "recipe-quarterpipemiddleoutcorner-polishedconcrete-4x4-c"
+    ]
   },
-  "5966332143030518586": {
+  "cbg-foundations-asphalt-c": {
+    "id": "cbg-foundations-asphalt-c",
     "name": "Asphalt Foundations & Basic Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "5966332143030518586"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-foundation-asphalt-8x1-c",
+      "recipe-foundation-asphalt-8x2-c",
+      "recipe-foundation-asphalt-8x4-c",
+      "recipe-ramp-asphalt-8x1-c",
+      "recipe-ramp-asphalt-8x2-c",
+      "recipe-ramp-asphalt-8x4-c"
+    ]
   },
-  "1573608474381551002": {
+  "cbg-foundations-coated-c": {
+    "id": "cbg-foundations-coated-c",
     "name": "Coated Concrete Foundations & Basic Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "1573608474381551002"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-foundation-concretepolished-8x1-c",
+      "recipe-foundation-concretepolished-8x2-c",
+      "recipe-foundation-concretepolished-8x4-c",
+      "recipe-ramp-polished-8x1-c",
+      "recipe-ramp-polished-8x2-c",
+      "recipe-ramp-polished-8x4-c"
+    ]
   },
-  "6156013464065136358": {
+  "cbg-foundations-concrete-c": {
+    "id": "cbg-foundations-concrete-c",
     "name": "Concrete Foundations & Basic Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "6156013464065136358"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-foundation-concrete-8x1-c",
+      "recipe-foundation-concrete-8x2-c",
+      "recipe-foundation-concrete-8x4-c",
+      "recipe-ramp-concrete-8x1-c",
+      "recipe-ramp-concrete-8x2-c",
+      "recipe-ramp-concrete-8x4-c"
+    ]
   },
-  "739269901796082590": {
+  "cbg-foundations-metal-c": {
+    "id": "cbg-foundations-metal-c",
     "name": "Metal Foundations & Basic Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "739269901796082590"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-foundation-metal-8x1-c",
+      "recipe-foundation-metal-8x2-c",
+      "recipe-foundation-metal-8x4-c",
+      "recipe-ramp-metal-8x1-c",
+      "recipe-ramp-metal-8x2-c",
+      "recipe-ramp-metal-8x4-c"
+    ]
   },
-  "8847479523951529845": {
+  "cbg-half-foundations-asphalt-c": {
+    "id": "cbg-half-foundations-asphalt-c",
     "name": "Asphalt Half Foundations",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8847479523951529845"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddle-asphalt-8x1-c",
+      "recipe-quarterpipemiddle-asphalt-8x2-c",
+      "recipe-quarterpipemiddle-asphalt-8x4-c"
+    ]
   },
-  "-6579139505534077462": {
+  "cbg-half-foundations-concrete-c": {
+    "id": "cbg-half-foundations-concrete-c",
     "name": "Concrete Half Foundations",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6579139505534077462"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddle-concrete-8x1-c",
+      "recipe-quarterpipemiddle-concrete-8x2-c",
+      "recipe-quarterpipemiddle-concrete-8x4-c"
+    ]
   },
-  "365428417933192578": {
+  "cbg-half-foundations-metal-c": {
+    "id": "cbg-half-foundations-metal-c",
     "name": "Grip Metal Half Foundations",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "365428417933192578"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddle-grip-8x1-c",
+      "recipe-quarterpipemiddle-grip-8x2-c",
+      "recipe-quarterpipemiddle-grip-8x4-c"
+    ]
   },
-  "8894064291163389124": {
+  "cbg-half-foundations-polished-c": {
+    "id": "cbg-half-foundations-polished-c",
     "name": "Polished Concrete Half Foundations",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8894064291163389124"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipemiddle-polishedconcrete-8x1-c",
+      "recipe-quarterpipemiddle-polishedconcrete-8x2-c",
+      "recipe-quarterpipemiddle-polishedconcrete-8x4-c"
+    ]
   },
-  "-3474830338134669893": {
+  "cbg-quarterpipes-asphalt-c": {
+    "id": "cbg-quarterpipes-asphalt-c",
     "name": "Asphalt Quarter PIpes",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-3474830338134669893"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipeincorner-asphalt-8x4-c",
+      "recipe-downquarterpipe-asphaltincorner-8x4-c",
+      "recipe-downquarterpipe-asphaltoutcorner-8x4-c",
+      "recipe-downquarterpipe-asphalt-8x4-c",
+      "recipe-quarterpipeoutcorner-asphalt-8x4-c",
+      "recipe-quarterpipe-asphalt-8x4-c"
+    ]
   },
-  "-668264458319491497": {
+  "cbg-quarterpipes-coated-c": {
+    "id": "cbg-quarterpipes-coated-c",
     "name": "Polished Concrete Quarter PIpes",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-668264458319491497"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipeincorner-concretepolished-8x4-c",
+      "recipe-downquarterpipe-concretepolishedincorner-8x4-c",
+      "recipe-downquarterpipe-concretepolishedoutcorner-8x4-c",
+      "recipe-downquarterpipe-concretepolished-8x4-c",
+      "recipe-quarterpipeoutcorner-concretepolished-8x4-c",
+      "recipe-quarterpipe-concretepolished-8x4-c"
+    ]
   },
-  "7435291277194676001": {
+  "cbg-quarterpipes-concrete-c": {
+    "id": "cbg-quarterpipes-concrete-c",
     "name": "Concrete Quarter PIpes",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7435291277194676001"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipeincorner-concrete-8x4-c",
+      "recipe-downquarterpipe-concreteincorner-8x4-c",
+      "recipe-downquarterpipe-concreteoutcorner-8x4-c",
+      "recipe-downquarterpipe-concrete-8x4-c",
+      "recipe-quarterpipeoutcorner-concrete-8x4-c",
+      "recipe-quarterpipe-concrete-8x4-c"
+    ]
   },
-  "-6084658900897979273": {
+  "cbg-quarterpipes-gripmetal-c": {
+    "id": "cbg-quarterpipes-gripmetal-c",
     "name": "Grip Metal Quarter PIpes",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6084658900897979273"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-quarterpipeincorner-grip-8x4-c",
+      "recipe-downquarterpipe-gripincorner-8x4-c",
+      "recipe-downquarterpipe-gripoutcorner-8x4-c",
+      "recipe-downquarterpipe-grip-8x4-c",
+      "recipe-quarterpipeoutcorner-grip-8x4-c",
+      "recipe-quarterpipe-grip-8x4-c"
+    ]
   },
-  "-7730316384224085823": {
+  "cbg-ramps-corners-asphalt-c": {
+    "id": "cbg-ramps-corners-asphalt-c",
     "name": "Asphalt Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7730316384224085823"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-ramp-downcorner-asphalt-8x1-c",
+      "recipe-ramp-downcorner-asphalt-8x2-c",
+      "recipe-ramp-downcorner-asphalt-8x4-c",
+      "recipe-ramp-upcorner-asphalt-8x1-c",
+      "recipe-ramp-upcorner-asphalt-8x2-c",
+      "recipe-ramp-upcorner-asphalt-8x4-c"
+    ]
   },
-  "5652733429273792987": {
+  "cbg-ramps-corners-coated-c": {
+    "id": "cbg-ramps-corners-coated-c",
     "name": "Coated Concrete Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "5652733429273792987"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-ramp-downcorner-polished-8x1-c",
+      "recipe-ramp-downcorner-polished-8x2-c",
+      "recipe-ramp-downcorner-polished-8x4-c",
+      "recipe-ramp-upcorner-polished-8x1-c",
+      "recipe-ramp-upcorner-polished-8x2-c",
+      "recipe-ramp-upcorner-polished-8x4-c"
+    ]
   },
-  "3807105360285051884": {
+  "cbg-ramps-corners-concrete-c": {
+    "id": "cbg-ramps-corners-concrete-c",
     "name": "Concrete Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "3807105360285051884"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-ramp-downcorner-concrete-8x1-c",
+      "recipe-ramp-downcorner-concrete-8x2-c",
+      "recipe-ramp-downcorner-concrete-8x4-c",
+      "recipe-ramp-upcorner-concrete-8x1-c",
+      "recipe-ramp-upcorner-concrete-8x2-c",
+      "recipe-ramp-upcorner-concrete-8x4-c"
+    ]
   },
-  "-7570927355577607299": {
+  "cbg-ramps-corners-metal-c": {
+    "id": "cbg-ramps-corners-metal-c",
     "name": "Metal Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7570927355577607299"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-ramp-downcorner-metal-8x1-c",
+      "recipe-ramp-downcorner-metal-8x2-c",
+      "recipe-ramp-downcorner-metal-8x4-c",
+      "recipe-ramp-upcorner-metal-8x1-c",
+      "recipe-ramp-upcorner-metal-8x2-c",
+      "recipe-ramp-upcorner-metal-8x4-c"
+    ]
   },
-  "-6662947549920404598": {
+  "cbg-ramps-double-asphalt-c": {
+    "id": "cbg-ramps-double-asphalt-c",
     "name": "Asphalt Double Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6662947549920404598"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-rampdouble-asphalt-8x1-c",
+      "recipe-rampdouble-asphalt-8x2-c",
+      "recipe-rampdouble-asphalt-8x4-c"
+    ]
   },
-  "8840028111512247058": {
+  "cbg-ramps-double-coated-c": {
+    "id": "cbg-ramps-double-coated-c",
     "name": "Coated Concrete Double Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8840028111512247058"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-rampdouble-polished-8x1-c",
+      "recipe-rampdouble-polished-8x2-c",
+      "recipe-rampdouble-polished-8x4-c"
+    ]
   },
-  "2939623457276982136": {
+  "cbg-ramps-double-concrete-c": {
+    "id": "cbg-ramps-double-concrete-c",
     "name": "Concrete Double Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2939623457276982136"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-rampdouble-concrete-8x1-c",
+      "recipe-rampdouble-concrete-8x2-c",
+      "recipe-rampdouble-concrete-8x4-c"
+    ]
   },
-  "7602627108478584935": {
+  "cbg-ramps-double-metal-c": {
+    "id": "cbg-ramps-double-metal-c",
     "name": "Metal Double Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7602627108478584935"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-rampdouble-metal-8x1-c",
+      "recipe-rampdouble-metal-8x2-c",
+      "recipe-rampdouble-metal-8x4-c"
+    ]
   },
-  "-1096813306093577436": {
+  "cbg-ramps-invcorners-asphalt-c": {
+    "id": "cbg-ramps-invcorners-asphalt-c",
     "name": "Asphalt Inverted corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1096813306093577436"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-dcorner-asphalt-8x1-c",
+      "recipe-invertedramp-dcorner-asphalt-8x2-c",
+      "recipe-invertedramp-dcorner-asphalt-8x4-c",
+      "recipe-invertedramp-ucorner-asphalt-8x1-c",
+      "recipe-invertedramp-ucorner-asphalt-8x2-c",
+      "recipe-invertedramp-ucorner-asphalt-8x4-c"
+    ]
   },
-  "7148346756221045558": {
+  "cbg-ramps-invcorners-coated-c": {
+    "id": "cbg-ramps-invcorners-coated-c",
     "name": "Coated Concrete Inverted Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7148346756221045558"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-dcorner-polished-8x1-c",
+      "recipe-invertedramp-dcorner-polished-8x2-c",
+      "recipe-invertedramp-dcorner-polished-8x4-c",
+      "recipe-invertedramp-ucorner-polished-8x1-c",
+      "recipe-invertedramp-ucorner-polished-8x2-c",
+      "recipe-invertedramp-ucorner-polished-8x4-c"
+    ]
   },
-  "-9220450878580281460": {
+  "cbg-ramps-invcorners-concrete-c": {
+    "id": "cbg-ramps-invcorners-concrete-c",
     "name": "Concrete Inverted corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-9220450878580281460"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-dcorner-concrete-8x1-c",
+      "recipe-invertedramp-dcorner-concrete-8x2-c",
+      "recipe-invertedramp-dcorner-concrete-8x4-c",
+      "recipe-invertedramp-ucorner-concrete-8x1-c",
+      "recipe-invertedramp-ucorner-concrete-8x2-c",
+      "recipe-invertedramp-ucorner-concrete-8x4-c"
+    ]
   },
-  "-4630678338246822238": {
+  "cbg-ramps-invcorners-metal-c": {
+    "id": "cbg-ramps-invcorners-metal-c",
     "name": "Metal Inverted Corner Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-4630678338246822238"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-dcorner-metal-8x1-c",
+      "recipe-invertedramp-dcorner-metal-8x2-c",
+      "recipe-invertedramp-dcorner-metal-8x4-c",
+      "recipe-invertedramp-ucorner-metal-8x1-c",
+      "recipe-invertedramp-ucorner-metal-8x2-c",
+      "recipe-invertedramp-ucorner-metal-8x4-c"
+    ]
   },
-  "8497616623221750572": {
+  "cbg-ramps-inverted-asphalt-c": {
+    "id": "cbg-ramps-inverted-asphalt-c",
     "name": "Asphalt Inverted Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8497616623221750572"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-asphalt-8x1-c",
+      "recipe-invertedramp-asphalt-8x2-c",
+      "recipe-invertedramp-asphalt-8x4-c"
+    ]
   },
-  "-1110375945910905343": {
+  "cbg-ramps-inverted-coated-c": {
+    "id": "cbg-ramps-inverted-coated-c",
     "name": "Coated Concrete Inverted Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1110375945910905343"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-polished-8x1-c",
+      "recipe-invertedramp-polished-8x2-c",
+      "recipe-invertedramp-polished-8x4-c"
+    ]
   },
-  "-9081297821049906242": {
+  "cbg-ramps-inverted-concrete-c": {
+    "id": "cbg-ramps-inverted-concrete-c",
     "name": "Concrete Inverted Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-9081297821049906242"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-concrete-8x1-c",
+      "recipe-invertedramp-concrete-8x2-c",
+      "recipe-invertedramp-concrete-8x4-c"
+    ]
   },
-  "8850902882242669343": {
+  "cbg-ramps-inverted-metal-c": {
+    "id": "cbg-ramps-inverted-metal-c",
     "name": "Metal Inverted Ramps",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "8850902882242669343"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-invertedramp-metal-8x1-c",
+      "recipe-invertedramp-metal-8x2-c",
+      "recipe-invertedramp-metal-8x4-c"
+    ]
   },
-  "-6956276102645831170": {
+  "cbg-roofs-basic-glass-c": {
+    "id": "cbg-roofs-basic-glass-c",
     "name": "Glass Roofs Basic",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-6956276102645831170"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-window-02-c",
+      "recipe-roof-window-03-c",
+      "recipe-roof-window-04-c",
+      "recipe-roof-window-01-c"
+    ]
   },
-  "-7963986752451390213": {
+  "cbg-roofs-basic-steel-c": {
+    "id": "cbg-roofs-basic-steel-c",
     "name": "Metal Roofs Basic",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7963986752451390213"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-a-02-c",
+      "recipe-roof-a-03-c",
+      "recipe-roof-a-04-c",
+      "recipe-roof-a-01-c"
+    ]
   },
-  "-1134517540268177848": {
+  "cbg-roofs-basic-tar-c": {
+    "id": "cbg-roofs-basic-tar-c",
     "name": "Tar Roofs Basic",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-1134517540268177848"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-tar-02-c",
+      "recipe-roof-tar-03-c",
+      "recipe-roof-tar-04-c",
+      "recipe-roof-tar-01-c"
+    ]
   },
-  "-198998594177440191": {
+  "cbg-roofs-corners-glass-c": {
+    "id": "cbg-roofs-corners-glass-c",
     "name": "Glass Roof Corners",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-198998594177440191"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-window-incorner-01-c",
+      "recipe-roof-window-incorner-02-c",
+      "recipe-roof-window-incorner-03-c",
+      "recipe-roof-window-outcorner-01-c",
+      "recipe-roof-window-outcorner-02-c",
+      "recipe-roof-window-outcorner-03-c"
+    ]
   },
-  "2413960408632995410": {
+  "cbg-roofs-corners-steel-c": {
+    "id": "cbg-roofs-corners-steel-c",
     "name": "Metal Roof Corners",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2413960408632995410"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-metal-incorner-01-c",
+      "recipe-roof-metal-incorner-02-c",
+      "recipe-roof-metal-incorner-03-c",
+      "recipe-roof-metal-outcorner-01-c",
+      "recipe-roof-metal-outcorner-02-c",
+      "recipe-roof-metal-outcorner-03-c"
+    ]
   },
-  "2356199701935505444": {
+  "cbg-roofs-corners-tar-c": {
+    "id": "cbg-roofs-corners-tar-c",
     "name": "Tar Roof Corners",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2356199701935505444"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-roof-tar-incorner-01-c",
+      "recipe-roof-tar-incorner-02-c",
+      "recipe-roof-tar-incorner-03-c",
+      "recipe-roof-tar-outcorner-01-c",
+      "recipe-roof-tar-outcorner-02-c",
+      "recipe-roof-tar-outcorner-03-c"
+    ]
   },
-  "-2907738232730603353": {
+  "cbg-steel-walls-basic-c": {
+    "id": "cbg-steel-walls-basic-c",
     "name": "Basic Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-2907738232730603353"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-steelwall-8x1-c",
+      "recipe-wall-8x4-02-c"
+    ]
   },
-  "3741548932178584168": {
+  "cbg-steel-walls-conveyor-c": {
+    "id": "cbg-steel-walls-conveyor-c",
     "name": "Conveyor Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "3741548932178584168"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-conveyor-8x4-03-steel-c",
+      "recipe-wall-conveyor-8x4-02-steel-c",
+      "recipe-wall-conveyor-8x4-01-steel-c"
+    ]
   },
-  "6055083650462808826": {
+  "cbg-steel-walls-diagonaldown-c": {
+    "id": "cbg-steel-walls-diagonaldown-c",
     "name": "Down Diagonal Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "6055083650462808826"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-steelwall-fliptris-8x1-c",
+      "recipe-steelwall-fliptris-8x2-c",
+      "recipe-steelwall-fliptris-8x4-c",
+      "recipe-steelwall-fliptris-8x8-c"
+    ]
   },
-  "-785052210188401594": {
+  "cbg-steel-walls-diagonalup-c": {
+    "id": "cbg-steel-walls-diagonalup-c",
     "name": "Up Diagonal Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-785052210188401594"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-steelwall-tris-8x1-c",
+      "recipe-steelwall-tris-8x2-c",
+      "recipe-steelwall-tris-8x4-c",
+      "recipe-steelwall-tris-8x8-c"
+    ]
   },
-  "7181569528562913688": {
+  "cbg-steel-walls-doors-c": {
+    "id": "cbg-steel-walls-doors-c",
     "name": "Doors Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "7181569528562913688"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-door-8x4-01-steel-c",
+      "recipe-wall-door-8x4-03-steel-c"
+    ]
   },
-  "3138004370014392476": {
+  "cbg-steel-walls-gates-c": {
+    "id": "cbg-steel-walls-gates-c",
     "name": "Gates Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "3138004370014392476"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-steelwall-8x4-gate-01-c"
+    ]
   },
-  "-4872793712887158405": {
+  "cbg-steel-walls-tilted-c": {
+    "id": "cbg-steel-walls-tilted-c",
     "name": "Tilted Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-4872793712887158405"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-wall-steel-8x4-corner-2-c",
+      "recipe-wall-steel-8x8-corner-2-c",
+      "recipe-wall-steel-8x4-corner-01-c",
+      "recipe-wall-steel-8x8-corner-01-c",
+      "recipe-wallset-steel-angular-8x4-c",
+      "recipe-wallset-steel-angular-8x8-c"
+    ]
   },
-  "-3762027599975712346": {
+  "cbg-steel-walls-windows-c": {
+    "id": "cbg-steel-walls-windows-c",
     "name": "Windows Steel Walls",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-3762027599975712346"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-steelwall-8x4-window-03-c",
+      "recipe-steelwall-8x4-window-04-c",
+      "recipe-steelwall-8x4-window-02-c",
+      "recipe-steelwall-8x4-window-01-c"
+    ]
   },
-  "-6995638083954500124": {
+  "cbg-patternremoval-c": {
+    "id": "cbg-patternremoval-c",
+    "name": "Pattern Removal",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-arrows-foundationpatterns-c": {
+    "id": "resourcesink-arrows-foundationpatterns-c",
+    "name": "Arrow Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-dotlines-foundationpatterns-c": {
+    "id": "resourcesink-dotlines-foundationpatterns-c",
+    "name": "Dotted Line Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-fulllines-foundationpatterns-c": {
+    "id": "resourcesink-fulllines-foundationpatterns-c",
+    "name": "Solid Line Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-iconsfactory-foundationpatterns-c": {
+    "id": "resourcesink-iconsfactory-foundationpatterns-c",
+    "name": "Factory Icon Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-iconstransport-foundationpatterns-c": {
+    "id": "resourcesink-iconstransport-foundationpatterns-c",
+    "name": "Transportation Icon Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-number-foundationpatterns-c": {
+    "id": "resourcesink-number-foundationpatterns-c",
+    "name": "Number Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-pathways-foundationpatterns-c": {
+    "id": "resourcesink-pathways-foundationpatterns-c",
+    "name": "Pathway Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "resourcesink-zones-foundationpatterns-c": {
+    "id": "resourcesink-zones-foundationpatterns-c",
+    "name": "Factory Zone Patterns",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": []
+  },
+  "sf+-schematic-tutorial1-c": {
+    "id": "sf+-schematic-tutorial1-c",
     "name": "Hub Upgrade 1",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "-6995638083954500124"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-workshop-c",
+      "recipe-constructor-ironwire-c",
+      "recipe-portableminer-c"
+    ]
   },
-  "5959591742896043905": {
+  "sf+-schematic-tutorial1-5-c": {
+    "id": "sf+-schematic-tutorial1-5-c",
     "name": "Hub Upgrade 2",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "5959591742896043905"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-constructor-coppercable-c",
+      "recipe-constructor-copperrod-c",
+      "recipe-handcrafter-sapherit-c",
+      "recipe-powerline-c",
+      "recipe-smelter-dirty-copperingot-c",
+      "recipe-smelterbasicmk1-c",
+      "recipe-constructor-copperwire-c"
+    ]
   },
-  "3807381203833752788": {
+  "sf+-schematic-tutorial2-c": {
+    "id": "sf+-schematic-tutorial2-c",
     "name": "Hub Upgrade 3",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "3807381203833752788"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-constructor-cement-c",
+      "recipe-constructormk1-c",
+      "recipe-handcrafter-limestone-c",
+      "recipe-powerpolemk1-c",
+      "recipe-assamble-rironplates-c",
+      "recipe-constructor-ironscrew-c"
+    ]
   },
-  "7419437855284872069": {
+  "sf+-schematic-tutorial3-c": {
+    "id": "sf+-schematic-tutorial3-c",
     "name": "Hub Upgrade 4",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "7419437855284872069"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-conveyorbeltmk1-c",
+      "recipe-conveyorliftmk1-c",
+      "recipe-conveyorpole-c",
+      "recipe-crusher-rubyte-c",
+      "recipe-crusher-c",
+      "recipe-smelter-dirty-tiningots-c",
+      "recipe-constructor-tinplates-c"
+    ]
   },
-  "-4823964056517129536": {
+  "sf+-schematic-tutorial3-0-c": {
+    "id": "sf+-schematic-tutorial3-0-c",
     "name": "",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-4823964056517129536"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-handcrafter-rubyte-c",
+      "recipe-crusher-sapherit-c",
+      "recipe-crusher-stritarit-c"
+    ]
   },
-  "4868330512211185963": {
+  "sf+-schematic-tutorial4-c": {
+    "id": "sf+-schematic-tutorial4-c",
     "name": "Hub Upgrade 5",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "4868330512211185963"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-module-drill-t1-c",
+      "recipe-modularminer-c",
+      "recipe-storagecontainermk1-c",
+      "recipe-constructor-tinrod-c",
+      "recipe-constructor-tinwire-c"
+    ]
   },
-  "4158739057673104295": {
+  "sf+-schematic-tutorial5-c": {
+    "id": "sf+-schematic-tutorial5-c",
     "name": "Hub Upgrade 6",
     "tier": 0,
-    "type": "Tutorial",
-    "recipes": [],
-    "schematic_id": "4158739057673104295"
+    "categories": {
+      "0": "schematic",
+      "1": "tutorial"
+    },
+    "recipes_ids": [
+      "recipe-automatedbiomassgen-c",
+      "recipe-biomass-leaves-c",
+      "recipe-constructor-woodbio-c",
+      "recipe-constructor-copperplate-c",
+      "recipe-constructor-coppersheet-c",
+      "recipe-constructor-ironsheet-c",
+      "recipe-spaceelevator-c",
+      "recipe-constructor-tinsheet-c"
+    ]
   },
-  "4200563517265458985": {
+  "alternative-automaticminer-c": {
+    "id": "alternative-automaticminer-c",
     "name": "Automatic Miner",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4200563517265458985"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-automaticminer-c"
+    ]
   },
-  "7814378769909582870": {
+  "alternative-compactbiomass-c": {
+    "id": "alternative-compactbiomass-c",
     "name": "Compact Biomass",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "7814378769909582870"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-compactbiomass-c"
+    ]
   },
-  "-3325531743677239858": {
+  "alternative-galvanizedsheet-c": {
+    "id": "alternative-galvanizedsheet-c",
     "name": "Galvanized Sheet",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-3325531743677239858"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-galvanizedsheet-c"
+    ]
   },
-  "17602311160636857": {
+  "alternative-rezincplates-c": {
+    "id": "alternative-rezincplates-c",
     "name": "Reinforced Zinc Plates",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "17602311160636857"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-rezincplates-c"
+    ]
   },
-  "-3934170354310726184": {
+  "alternative-cuttedcopperwire-c": {
+    "id": "alternative-cuttedcopperwire-c",
     "name": "Cutted Copper Wire",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-3934170354310726184"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-cuttedcopperwire-c"
+    ]
   },
-  "2539611220023188947": {
+  "alternative-flatcoppercable-c": {
+    "id": "alternative-flatcoppercable-c",
     "name": "Flat Copper Cable",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "2539611220023188947"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-cuttedflatcoppercable-c"
+    ]
   },
-  "2080026591986284060": {
+  "alternative-instandwire-c": {
+    "id": "alternative-instandwire-c",
     "name": "Instant Wires",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "2080026591986284060"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-instandwire-copper-c",
+      "recipe-instandwire-iron-c",
+      "recipe-instandwire-tin-c"
+    ]
   },
-  "4897210904351183296": {
+  "alternative-stunnedscrew-c": {
+    "id": "alternative-stunnedscrew-c",
     "name": "Stamped Iron Screws",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4897210904351183296"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-stunnedscrew-c"
+    ]
   },
-  "2535547694998799340": {
+  "alternative-crushedlimedust-c": {
+    "id": "alternative-crushedlimedust-c",
     "name": "Crushed Stone Dust",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "2535547694998799340"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-crushedlimedust-c"
+    ]
   },
-  "6329769900330927114": {
+  "alternative-crushedslag-c": {
+    "id": "alternative-crushedslag-c",
     "name": "Crushed Lime Dust",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "6329769900330927114"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-crushedslag-c"
+    ]
   },
-  "-2264057208537965553": {
+  "alternative-mixedcrushing-rubyte-c": {
+    "id": "alternative-mixedcrushing-rubyte-c",
     "name": "Mixed Rubyte",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-2264057208537965553"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-mixc-rubyte-c"
+    ]
   },
-  "666663510008224038": {
+  "alternative-mixedcrushing-saperite-c": {
+    "id": "alternative-mixedcrushing-saperite-c",
     "name": "Mixed Saperite",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "666663510008224038"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-mixc-saperite-c"
+    ]
   },
-  "481994036685002935": {
+  "alternative-mixedcrushing-satmonium-c": {
+    "id": "alternative-mixedcrushing-satmonium-c",
     "name": "Mixed Satmonium",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "481994036685002935"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-mixc-satmonium-c"
+    ]
   },
-  "-5663320960832809193": {
+  "alternative-mixedcrushing-stritarite-c": {
+    "id": "alternative-mixedcrushing-stritarite-c",
     "name": "Mixed Stritarite",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-5663320960832809193"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-mixc-stritarite-c"
+    ]
   },
-  "1686114376937413180": {
+  "alternative-heavycopper-c": {
+    "id": "alternative-heavycopper-c",
     "name": "Heavy Copper",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "1686114376937413180"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-heavycopper-c"
+    ]
   },
-  "4945008863424417654": {
+  "alternative-conductiveiron-c": {
+    "id": "alternative-conductiveiron-c",
     "name": "Conductive Iron",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4945008863424417654"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-conductiveiron-c"
+    ]
   },
-  "1267312178632230285": {
+  "alternative-limesteel-c": {
+    "id": "alternative-limesteel-c",
     "name": "Lime Steel",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "1267312178632230285"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-limesteel-2-c",
+      "recipe-alternative-limesteel-c"
+    ]
   },
-  "-467952563287238458": {
+  "alternative-conductivecopper-c": {
+    "id": "alternative-conductivecopper-c",
     "name": "Conductive Copper",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-467952563287238458"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-conductivecopper-c"
+    ]
   },
-  "-870203874815698477": {
+  "alternative-dirtybrass-c": {
+    "id": "alternative-dirtybrass-c",
     "name": "Sloppy Brass",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-870203874815698477"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-dirtybrass-c"
+    ]
   },
-  "1414372823297641499": {
+  "alternative-tinnediron-c": {
+    "id": "alternative-tinnediron-c",
     "name": "Tinned Iron",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "1414372823297641499"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-tinnediron-c"
+    ]
   },
-  "4376533959984046138": {
+  "alternative-turbofuel-0-c": {
+    "id": "alternative-turbofuel-0-c",
     "name": "Turbo Fuel",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4376533959984046138"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-turbofuel-c"
+    ]
   },
-  "2923315117260376731": {
+  "alternative-turbofuel-1-c": {
+    "id": "alternative-turbofuel-1-c",
     "name": "Turbo Fuel",
     "tier": 0,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "2923315117260376731"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-packagedturbofuel-c",
+      "recipe-unpackageturbofuel-c"
+    ]
   },
-  "3408107591690614902": {
+  "alternative-ahp-c": {
+    "id": "alternative-ahp-c",
     "name": "Conductive Iron",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "3408107591690614902"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-ahp-c"
+    ]
   },
-  "1036174932644918676": {
+  "alternative-castedcopperparts-c": {
+    "id": "alternative-castedcopperparts-c",
     "name": "Casted Copper Parts",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "1036174932644918676"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-castedcoppperplates-c",
+      "recipe-alternative-castedcopperpipes-c",
+      "recipe-alternative-castedcopperscrew-c"
+    ]
   },
-  "3920189016294803441": {
+  "alternative-castedironparts-c": {
+    "id": "alternative-castedironparts-c",
     "name": "Casted Iron Parts",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "3920189016294803441"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-castedironplates-c",
+      "recipe-alternative-castedironrods-c",
+      "recipe-alternative-castedironscrew-c"
+    ]
   },
-  "4549783486789956790": {
+  "alternative-castedtinparts-c": {
+    "id": "alternative-castedtinparts-c",
     "name": "Casted Tin Parts",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4549783486789956790"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-castedtinplates-c",
+      "recipe-alternative-castedtinrods-c",
+      "recipe-alternative-castedtinwire-c"
+    ]
   },
-  "-6508489075899022738": {
+  "alternative-puresortedcopper-c": {
+    "id": "alternative-puresortedcopper-c",
     "name": "Pure Sorted Copper",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-6508489075899022738"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-puresortedcopper-c"
+    ]
   },
-  "4425505145848699878": {
+  "alternative-puresortedcaterium-c": {
+    "id": "alternative-puresortedcaterium-c",
     "name": "Pure Sorted Caterium",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "4425505145848699878"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-puresortedcaterium-c"
+    ]
   },
-  "-994679208001500306": {
+  "alternative-puresortediron-c": {
+    "id": "alternative-puresortediron-c",
     "name": "Pure Sorted Iron",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-994679208001500306"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-puresortediron-c"
+    ]
   },
-  "-1142348248686705208": {
+  "alternative-puresortedtin-c": {
+    "id": "alternative-puresortedtin-c",
     "name": "Pure Sorted Tin",
     "tier": 0,
-    "type": "Alternate",
-    "recipes": [],
-    "schematic_id": "-1142348248686705208"
+    "categories": {
+      "0": "schematic",
+      "1": "alternate"
+    },
+    "recipes_ids": [
+      "recipe-alternative-puresortedtin-c"
+    ]
   },
-  "-72809691842749936": {
+  "customizerunlock-colourswatches-c": {
+    "id": "customizerunlock-colourswatches-c",
+    "name": "Customizer Colour Swatches",
+    "tier": 0,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "customizerunlock-pipelineswatch-c": {
+    "id": "customizerunlock-pipelineswatch-c",
+    "name": "Pipeline Swatch",
+    "tier": 0,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "schematic-2-5-c": {
+    "id": "schematic-2-5-c",
     "name": "",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-72809691842749936"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-resourcesinkshop-c",
+      "recipe-resourcesink-c",
+      "recipe-colorcartridge-c"
+    ]
   },
-  "-2598885348994825337": {
+  "resourcesink-conveyorceilingmount-c": {
+    "id": "resourcesink-conveyorceilingmount-c",
     "name": "Conveyor Ceiling Mount",
     "tier": 1,
-    "type": "Resource Sink",
-    "recipes": [],
-    "schematic_id": "-2598885348994825337"
+    "categories": {
+      "0": "schematic",
+      "1": "resource-sink"
+    },
+    "recipes_ids": [
+      "recipe-conveyorceilingattachment-c"
+    ]
   },
-  "-6713553780620366081": {
+  "schematic-4-5-c": {
+    "id": "schematic-4-5-c",
     "name": "FICSIT Blueprints",
     "tier": 1,
-    "type": "Milestone",
-    "recipes": [],
-    "schematic_id": "-6713553780620366081"
+    "categories": {
+      "0": "schematic",
+      "1": "milestone"
+    },
+    "recipes_ids": [
+      "recipe-blueprintdesigner-c"
+    ]
   },
-  "-7398688707274792268": {
+  "ficsmas-schematic-fireworks-c": {
+    "id": "ficsmas-schematic-fireworks-c",
     "name": "Equipment: Fireworks",
     "tier": 1,
-    "type": "Custom",
-    "recipes": [],
-    "schematic_id": "-7398688707274792268"
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": [
+      "recipe-fireworks-02-c",
+      "recipe-fireworks-03-c",
+      "recipe-fireworks-01-c"
+    ]
+  },
+  "ficsmas-schematic-skinbundle-1-c": {
+    "id": "ficsmas-schematic-skinbundle-1-c",
+    "name": "Customizer: Basic FICSMAS Skin",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "ficsmas-schematic-skinbundle-2-c": {
+    "id": "ficsmas-schematic-skinbundle-2-c",
+    "name": "Customizer: Premium FICSMAS Skin",
+    "tier": 1,
+    "categories": {
+      "0": "schematic",
+      "1": "custom"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-2-c": {
+    "id": "research-xmas-2-c",
+    "name": "Giant FICSMAS Tree: Upgrade 1",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-1-2-c": {
+    "id": "research-xmas-1-2-c",
+    "name": "Candy Cane Decor",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-4-2-c": {
+    "id": "research-xmas-4-2-c",
+    "name": "Snowfight!",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-4-1-c": {
+    "id": "research-xmas-4-1-c",
+    "name": "FICSMAS Wreath",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-1-c": {
+    "id": "research-xmas-1-c",
+    "name": "FICSMAS Tree Base",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-1-1-c": {
+    "id": "research-xmas-1-1-c",
+    "name": "Candy Cane Basher",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-2-2-c": {
+    "id": "research-xmas-2-2-c",
+    "name": "FICSMAS Gift Tree",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-3-2-c": {
+    "id": "research-xmas-3-2-c",
+    "name": "It's snowing!",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-2-1-c": {
+    "id": "research-xmas-2-1-c",
+    "name": "A friend",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
+  },
+  "research-xmas-3-1-c": {
+    "id": "research-xmas-3-1-c",
+    "name": "FICSMAS Lights",
+    "tier": 3,
+    "categories": {
+      "0": "schematic",
+      "1": "mam"
+    },
+    "recipes_ids": []
   }
 }
