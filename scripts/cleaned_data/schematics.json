@@ -1,0 +1,2333 @@
+{
+  "-7541520753912268093": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7541520753912268093"
+  },
+  "5104657222390659846": {
+    "name": "Hatcher Research",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5104657222390659846"
+  },
+  "1242599186189744500": {
+    "name": "Spitter Research",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "1242599186189744500"
+  },
+  "-5231341791739631819": {
+    "name": "Hog Research",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5231341791739631819"
+  },
+  "-5658970797375431425": {
+    "name": "Stinger Research",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5658970797375431425"
+  },
+  "-3798542879614745185": {
+    "name": "Protein Inhaler",
+    "tier": 3,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-3798542879614745185"
+  },
+  "-1890400772005205377": {
+    "name": "Alien DNA",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-1890400772005205377"
+  },
+  "3972292654153853517": {
+    "name": "The Rebar Gun",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "3972292654153853517"
+  },
+  "-6578584046000036097": {
+    "name": "Sorting",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6578584046000036097"
+  },
+  "8068497899449385946": {
+    "name": "Explorer",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8068497899449385946"
+  },
+  "-6007645376635854423": {
+    "name": "Lime Dust",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6007645376635854423"
+  },
+  "9027775515870936609": {
+    "name": "Salty Ingots",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "9027775515870936609"
+  },
+  "5469187017420795191": {
+    "name": "Diamond Extraction",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5469187017420795191"
+  },
+  "-4212912625919758139": {
+    "name": "Communication",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4212912625919758139"
+  },
+  "2769022677343221108": {
+    "name": "Miner Module: Crusher",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2769022677343221108"
+  },
+  "-863443834143684911": {
+    "name": "Long range Communication",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-863443834143684911"
+  },
+  "8727943395097831725": {
+    "name": "Explosive Resonance Application",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8727943395097831725"
+  },
+  "2467058737547205117": {
+    "name": "Shatter Rebar",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2467058737547205117"
+  },
+  "-6361460630783948348": {
+    "name": "Parachute",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6361460630783948348"
+  },
+  "3020255039807770982": {
+    "name": "Mycelia",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "3020255039807770982"
+  },
+  "-2820765733692311753": {
+    "name": "Filter",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-2820765733692311753"
+  },
+  "-2195583636953875074": {
+    "name": "Medical",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-2195583636953875074"
+  },
+  "-8173360977325756752": {
+    "name": "Vitamin Inhaler",
+    "tier": 3,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-8173360977325756752"
+  },
+  "7531264804379572438": {
+    "name": "Gas Mask",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "7531264804379572438"
+  },
+  "-5792833328944984134": {
+    "name": "Therapeutic Inhaler",
+    "tier": 3,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5792833328944984134"
+  },
+  "4460253440304778816": {
+    "name": "Synthetic Paint Color",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "4460253440304778816"
+  },
+  "-345620295785141494": {
+    "name": "Toxic Cellular Modification",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-345620295785141494"
+  },
+  "3338221419747811557": {
+    "name": "Seed Extracting",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "3338221419747811557"
+  },
+  "-4526022044525971713": {
+    "name": "Peat Soil Crops",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4526022044525971713"
+  },
+  "2461976280650485061": {
+    "name": "Basic Farming",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2461976280650485061"
+  },
+  "-7277932348953207455": {
+    "name": "Bog Earth Crops",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-7277932348953207455"
+  },
+  "7895068711217552319": {
+    "name": "Doggo Love",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "7895068711217552319"
+  },
+  "2527713295905561097": {
+    "name": "Dirt Crops",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2527713295905561097"
+  },
+  "-6560675834999162115": {
+    "name": "Cotton Fabric",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6560675834999162115"
+  },
+  "-5171567845063951495": {
+    "name": "Muffins",
+    "tier": 4,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5171567845063951495"
+  },
+  "-1783640840967838288": {
+    "name": "Plot Modules",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-1783640840967838288"
+  },
+  "6953972972271154967": {
+    "name": "Bread",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6953972972271154967"
+  },
+  "8957340568684845994": {
+    "name": "Pie!",
+    "tier": 4,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8957340568684845994"
+  },
+  "-8959612153120860378": {
+    "name": "Composter",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-8959612153120860378"
+  },
+  "-1637360137022875257": {
+    "name": "Pie!",
+    "tier": 4,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-1637360137022875257"
+  },
+  "-7809891759267225294": {
+    "name": "Expert Farmer",
+    "tier": 1,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-7809891759267225294"
+  },
+  "-3670248545434219822": {
+    "name": "Crystal Stabilizer",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-3670248545434219822"
+  },
+  "5682331894029706293": {
+    "name": "Storage System",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5682331894029706293"
+  },
+  "6899836408523574166": {
+    "name": "Faxit Item Sender",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6899836408523574166"
+  },
+  "-115145795135760478": {
+    "name": "Item Storage Mk.1",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-115145795135760478"
+  },
+  "-2602026113050414031": {
+    "name": "Faxit Item Receiver",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-2602026113050414031"
+  },
+  "6345692247771794067": {
+    "name": "Terminal",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6345692247771794067"
+  },
+  "-6782120501172924964": {
+    "name": "Faxit Fluid Receiver",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6782120501172924964"
+  },
+  "4187914157421461560": {
+    "name": "Fluid Storage Mk.1",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "4187914157421461560"
+  },
+  "4050707640708262495": {
+    "name": "Faxit Fluid Sender",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "4050707640708262495"
+  },
+  "3513641006749225036": {
+    "name": "Item Storage Mk.3",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "3513641006749225036"
+  },
+  "8999528459967059545": {
+    "name": "Item Storage Mk.2",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8999528459967059545"
+  },
+  "8040350688500255207": {
+    "name": "More Network Cables",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8040350688500255207"
+  },
+  "6528974775989672606": {
+    "name": "More Network Cables",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6528974775989672606"
+  },
+  "8079894364634493696": {
+    "name": "Fluid Storage Mk.2",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8079894364634493696"
+  },
+  "2919463318175615921": {
+    "name": "Fluid Storage Mk.3",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2919463318175615921"
+  },
+  "4309930271218937737": {
+    "name": "Item Storage Mk.4",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "4309930271218937737"
+  },
+  "-4945050650701691178": {
+    "name": "Fluid Storage Mk.4",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4945050650701691178"
+  },
+  "-1536401365531412313": {
+    "name": "Item Storage Mk.5",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-1536401365531412313"
+  },
+  "5290570457829050786": {
+    "name": "Teleporter Technology",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5290570457829050786"
+  },
+  "8045556807520939": {
+    "name": "Fluid Storage Mk.5",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8045556807520939"
+  },
+  "1352137993814688718": {
+    "name": "Item Storage Mk.6",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "1352137993814688718"
+  },
+  "433088440146322553": {
+    "name": "Item Storage Mk.7",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "433088440146322553"
+  },
+  "1665544579060238032": {
+    "name": "Fluid Storage Mk.7",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "1665544579060238032"
+  },
+  "-6163976122920268733": {
+    "name": "Fluid Storage Mk.6",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6163976122920268733"
+  },
+  "5941349798479621016": {
+    "name": "Item Storage Mk.8",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5941349798479621016"
+  },
+  "6774602117411901918": {
+    "name": "Fluid Storage Mk.8",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6774602117411901918"
+  },
+  "-5815175485124670851": {
+    "name": "DNA Reseaching",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5815175485124670851"
+  },
+  "-126329471087373259": {
+    "name": "DNA Reseaching",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-126329471087373259"
+  },
+  "-5310709439037026548": {
+    "name": "DNA Reseaching",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5310709439037026548"
+  },
+  "-6656222620810952982": {
+    "name": "Slug Hatching",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6656222620810952982"
+  },
+  "-3687658854898172664": {
+    "name": "Good night Slugs!",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-3687658854898172664"
+  },
+  "-9085090882306093812": {
+    "name": "Breeding",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-9085090882306093812"
+  },
+  "-8655288392958542720": {
+    "name": "Low Slime processing",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-8655288392958542720"
+  },
+  "9223315201761794849": {
+    "name": "They are thirsty!",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "9223315201761794849"
+  },
+  "1828664314257992245": {
+    "name": "Basic Power Modules",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "1828664314257992245"
+  },
+  "4341075041260670120": {
+    "name": "PowerShards",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "4341075041260670120"
+  },
+  "-8449868000614702017": {
+    "name": "Advanced Power Modules",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-8449868000614702017"
+  },
+  "538187568853376575": {
+    "name": "Mineral Slugs",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "538187568853376575"
+  },
+  "855624541679355822": {
+    "name": "Satmonium",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "855624541679355822"
+  },
+  "-4534663181259155391": {
+    "name": "Caterium Ingots",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4534663181259155391"
+  },
+  "2838665536624176992": {
+    "name": "Run!",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "2838665536624176992"
+  },
+  "3539240703447639027": {
+    "name": "Quick Wire",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "3539240703447639027"
+  },
+  "-3270438957213137867": {
+    "name": "Power Pole Mk.2",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-3270438957213137867"
+  },
+  "7499272786799543582": {
+    "name": "Zip Line",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "7499272786799543582"
+  },
+  "8823292536151524046": {
+    "name": "A.I Limiter",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8823292536151524046"
+  },
+  "-6687388672477587834": {
+    "name": "Smart Splitter",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6687388672477587834"
+  },
+  "-4518811420612658020": {
+    "name": "Stun Rebar",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4518811420612658020"
+  },
+  "-5434221006641851420": {
+    "name": "Sorting",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5434221006641851420"
+  },
+  "7205970981947776329": {
+    "name": "Power Switch",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "7205970981947776329"
+  },
+  "-576069974744354040": {
+    "name": "Bullet Guidance System",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-576069974744354040"
+  },
+  "5454638282420756981": {
+    "name": "Hight Speed",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5454638282420756981"
+  },
+  "-4107648206058050595": {
+    "name": "Power Pole Mk.3",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4107648206058050595"
+  },
+  "-5855186353173162346": {
+    "name": "Geothermal Generator",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5855186353173162346"
+  },
+  "-6523084177023405708": {
+    "name": "Supercomputer",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-6523084177023405708"
+  },
+  "-5426166120110380143": {
+    "name": "Programmable Splitter",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5426166120110380143"
+  },
+  "-7516162089741964548": {
+    "name": "Sulfur Extraction",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-7516162089741964548"
+  },
+  "7174022213531174253": {
+    "name": "Explosive",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "7174022213531174253"
+  },
+  "-5797485654377412119": {
+    "name": "The Nobelisk Detonator",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-5797485654377412119"
+  },
+  "-4261025124156647740": {
+    "name": "Smokeless Powder",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-4261025124156647740"
+  },
+  "9093777612742432863": {
+    "name": "Rifle",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "9093777612742432863"
+  },
+  "-7805436324248817439": {
+    "name": "Cluster Nobelisk",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "-7805436324248817439"
+  },
+  "5362869829878067335": {
+    "name": "Explosive Rebar",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "5362869829878067335"
+  },
+  "6371374337450273103": {
+    "name": "Turbo Rifle Ammo",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "6371374337450273103"
+  },
+  "8597803019171658794": {
+    "name": "Nuclear Deterrent Development",
+    "tier": 0,
+    "type": "MAM",
+    "recipes": [],
+    "schematic_id": "8597803019171658794"
+  },
+  "6346162229835295202": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "6346162229835295202"
+  },
+  "-3210422493329386978": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-3210422493329386978"
+  },
+  "-1570665329577308607": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1570665329577308607"
+  },
+  "6271286362120312507": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "6271286362120312507"
+  },
+  "-8721159884038023139": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-8721159884038023139"
+  },
+  "8972679942088244840": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8972679942088244840"
+  },
+  "-6635379324421438258": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6635379324421438258"
+  },
+  "-3084675385506081059": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-3084675385506081059"
+  },
+  "-2007354734160203666": {
+    "name": "Simple Logistics",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-2007354734160203666"
+  },
+  "1604180368507895066": {
+    "name": "Better Conveyors",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "1604180368507895066"
+  },
+  "5697971186576500893": {
+    "name": "Destruction of Nature",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "5697971186576500893"
+  },
+  "3721366628675199293": {
+    "name": "Base Building",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "3721366628675199293"
+  },
+  "7771301017293283927": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7771301017293283927"
+  },
+  "-447167440610984146": {
+    "name": "Research",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-447167440610984146"
+  },
+  "2432940223665119329": {
+    "name": "Ore Sorting",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "2432940223665119329"
+  },
+  "3333897273593626633": {
+    "name": "Improved manufacturing",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "3333897273593626633"
+  },
+  "7603475165690623048": {
+    "name": "Glass Walls",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "7603475165690623048"
+  },
+  "5542419821449382497": {
+    "name": "Alloys",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "5542419821449382497"
+  },
+  "1431589243320387040": {
+    "name": "Advanced Parts",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "1431589243320387040"
+  },
+  "-7154719745049320082": {
+    "name": "Advanced Sorting & Alloys",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-7154719745049320082"
+  },
+  "-1360789773431691158": {
+    "name": "",
+    "tier": 2,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1360789773431691158"
+  },
+  "2283708111921066231": {
+    "name": "Rewards",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "2283708111921066231"
+  },
+  "-297158239784458020": {
+    "name": "Smelting Module",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-297158239784458020"
+  },
+  "-3073728428196405101": {
+    "name": "FICSIT Inc. Assembly project Part 1",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-3073728428196405101"
+  },
+  "7372230949095427679": {
+    "name": "FICSIT Blueprints",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "7372230949095427679"
+  },
+  "-2123994593144125089": {
+    "name": "Jump Pads",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-2123994593144125089"
+  },
+  "-925662371850656189": {
+    "name": "Better Biomass Energy",
+    "tier": 2,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-925662371850656189"
+  },
+  "-5515891587848100655": {
+    "name": "",
+    "tier": 2,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-5515891587848100655"
+  },
+  "3554168676148365259": {
+    "name": "Molten Metals",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "3554168676148365259"
+  },
+  "-5524324637515783360": {
+    "name": "Metal Casting",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-5524324637515783360"
+  },
+  "7502697024481571612": {
+    "name": "",
+    "tier": 3,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7502697024481571612"
+  },
+  "-8158646738959068461": {
+    "name": "Brass",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-8158646738959068461"
+  },
+  "6925480125717696078": {
+    "name": "Steel",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "6925480125717696078"
+  },
+  "-8097479629818661355": {
+    "name": "Basher",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-8097479629818661355"
+  },
+  "-2701743036324274538": {
+    "name": "Advanced Logistics",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-2701743036324274538"
+  },
+  "-6231134897675613201": {
+    "name": "Hydroelectric Power",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-6231134897675613201"
+  },
+  "-3011672621682016425": {
+    "name": "Trucks",
+    "tier": 3,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-3011672621682016425"
+  },
+  "-1574229840024583529": {
+    "name": "Coal Power",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-1574229840024583529"
+  },
+  "-5190755514825549233": {
+    "name": "Advanced Parts",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-5190755514825549233"
+  },
+  "-7959675300191973402": {
+    "name": "HYPER!",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-7959675300191973402"
+  },
+  "1857094090845112536": {
+    "name": "Industrial Storage & Miner Module",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "1857094090845112536"
+  },
+  "660470137012618645": {
+    "name": "FICSIT Inc. Assembly project Part 2",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "660470137012618645"
+  },
+  "439457222563391593": {
+    "name": "Solar Power and Storage",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "439457222563391593"
+  },
+  "8342503499772479218": {
+    "name": "Hovering",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "8342503499772479218"
+  },
+  "6203079401981582275": {
+    "name": "FICSIT Blueprints",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "6203079401981582275"
+  },
+  "6026739223673269567": {
+    "name": "Pipeline Engineering Mk.2",
+    "tier": 4,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "6026739223673269567"
+  },
+  "-2665662136756979764": {
+    "name": "Oil Refining",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-2665662136756979764"
+  },
+  "-2274128268176288651": {
+    "name": "",
+    "tier": 5,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-2274128268176288651"
+  },
+  "8793469729492188840": {
+    "name": "Fluid & Gas Energy",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "8793469729492188840"
+  },
+  "-3437731631363640642": {
+    "name": "Trucks",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-3437731631363640642"
+  },
+  "-3837924763098352483": {
+    "name": "Industrial Manufacturing",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-3837924763098352483"
+  },
+  "-1609557661978412631": {
+    "name": "Alternative Fluid Transport",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-1609557661978412631"
+  },
+  "-5069020426096261431": {
+    "name": "",
+    "tier": 5,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-5069020426096261431"
+  },
+  "-3633132230428045231": {
+    "name": "Expert Conveyors",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-3633132230428045231"
+  },
+  "465567480374078015": {
+    "name": "Solar Energy",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "465567480374078015"
+  },
+  "-1475582600333755017": {
+    "name": "Monorail Train Technology",
+    "tier": 5,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-1475582600333755017"
+  },
+  "2617577028683181308": {
+    "name": "Jetpack",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "2617577028683181308"
+  },
+  "-2444783986061816807": {
+    "name": "Advanced Sorting",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-2444783986061816807"
+  },
+  "8822445957593570491": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8822445957593570491"
+  },
+  "-5969227679307508528": {
+    "name": "Advanced Ore Processing",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-5969227679307508528"
+  },
+  "5853857492006733722": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "5853857492006733722"
+  },
+  "1265329620450758529": {
+    "name": "Advanced Alloys",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "1265329620450758529"
+  },
+  "-1069401895601202026": {
+    "name": "High Voltage",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-1069401895601202026"
+  },
+  "-634326194676549650": {
+    "name": "FICSIT Inc. Assembly project Part 3",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-634326194676549650"
+  },
+  "7433838836325485165": {
+    "name": "Pipeline Engineering Mk.3",
+    "tier": 6,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "7433838836325485165"
+  },
+  "9165338886537928987": {
+    "name": "Aluminum Processing",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "9165338886537928987"
+  },
+  "2962923059306296910": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2962923059306296910"
+  },
+  "-371083702562248072": {
+    "name": "Expert Logistics",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-371083702562248072"
+  },
+  "-6742674630032398744": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6742674630032398744"
+  },
+  "-6900191478253447268": {
+    "name": "Aluminium Products",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-6900191478253447268"
+  },
+  "8584472953992770859": {
+    "name": "Fracking",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "8584472953992770859"
+  },
+  "3331628203363028135": {
+    "name": "FICSIT Inc. Assembly project Part 4",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "3331628203363028135"
+  },
+  "7503889490419186514": {
+    "name": "Titanum Processing",
+    "tier": 8,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "7503889490419186514"
+  },
+  "8810412823634787026": {
+    "name": "Advanced Electronic",
+    "tier": 8,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "8810412823634787026"
+  },
+  "-4666002660201781081": {
+    "name": "[WIP] Drone Technology",
+    "tier": 8,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-4666002660201781081"
+  },
+  "479821141710198792": {
+    "name": "Slug Minerals & Pasta",
+    "tier": 8,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "479821141710198792"
+  },
+  "3534994398158193802": {
+    "name": "FICSIT Inc. Assembly project Part 5",
+    "tier": 7,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "3534994398158193802"
+  },
+  "8345517373251620517": {
+    "name": "Clean Pipeline Mk.3",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "8345517373251620517"
+  },
+  "-8678314264189666547": {
+    "name": "Advanced Pipe Logistic",
+    "tier": 3,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-8678314264189666547"
+  },
+  "-3780811443968593155": {
+    "name": "Invert Stackable Hyper Support",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-3780811443968593155"
+  },
+  "5394131057455777264": {
+    "name": "Invert Stackable Pipe Support",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "5394131057455777264"
+  },
+  "-3111395689093863141": {
+    "name": "Conveyor Wall Hole",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-3111395689093863141"
+  },
+  "-3167684556185357113": {
+    "name": "Structural Beam Pack",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-3167684556185357113"
+  },
+  "7942808699610271960": {
+    "name": "Billboard Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "7942808699610271960"
+  },
+  "-765951934284338385": {
+    "name": "Modern Catwalks",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-765951934284338385"
+  },
+  "2751866176270034047": {
+    "name": "Indoor Lighting",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "2751866176270034047"
+  },
+  "8435698718238186905": {
+    "name": "Concrete Pillar Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "8435698718238186905"
+  },
+  "9120205404337541029": {
+    "name": "Conveyor Walls",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "9120205404337541029"
+  },
+  "-5852539973804599291": {
+    "name": "Conveyor Lift Floor Hole",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-5852539973804599291"
+  },
+  "-5161760956474745312": {
+    "name": "Conveyor Wall Mount",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-5161760956474745312"
+  },
+  "-4461654278083241845": {
+    "name": "Quarter Pipes Pack",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-4461654278083241845"
+  },
+  "5274103630277564366": {
+    "name": "Cyber Wagon",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "5274103630277564366"
+  },
+  "-6137036976305430856": {
+    "name": "Corner Ramp Pack",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-6137036976305430856"
+  },
+  "-486875721411756805": {
+    "name": "Inverted Ramp Wall Bundle",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-486875721411756805"
+  },
+  "-8977665770611116162": {
+    "name": "Ramp Wall Bundle",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-8977665770611116162"
+  },
+  "3895140152280551650": {
+    "name": "Display Sign Bundle",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "3895140152280551650"
+  },
+  "4565966127771185779": {
+    "name": "Door Walls",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "4565966127771185779"
+  },
+  "2024340483563840292": {
+    "name": "Road Barrier",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "2024340483563840292"
+  },
+  "1052783382026135816": {
+    "name": "FICSIT Factory Cart\u00e2\u201e\u00a2",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1052783382026135816"
+  },
+  "8470465400816167342": {
+    "name": "Modern Railing",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "8470465400816167342"
+  },
+  "7637939871550524881": {
+    "name": "Industrial Railing",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "7637939871550524881"
+  },
+  "-2219408902425261352": {
+    "name": "Metal Pillar Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-2219408902425261352"
+  },
+  "1197510956169786700": {
+    "name": "Double Ramp Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1197510956169786700"
+  },
+  "7661745294596117006": {
+    "name": "Frame Pillar Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "7661745294596117006"
+  },
+  "2986363554428515567": {
+    "name": "Steel-framed Windows",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "2986363554428515567"
+  },
+  "3505746398332718887": {
+    "name": "Structural Frame Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "3505746398332718887"
+  },
+  "-4910429694117729909": {
+    "name": "Gates",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-4910429694117729909"
+  },
+  "-7202541685154522785": {
+    "name": "Golden FICSIT Factory Cart\u00e2\u201e\u00a2",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-7202541685154522785"
+  },
+  "1765325543114593098": {
+    "name": "Half Foundation Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1765325543114593098"
+  },
+  "-2593861507774155110": {
+    "name": "Hazard Box - Personal Storage Skin",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-2593861507774155110"
+  },
+  "8775348609168481822": {
+    "name": "Hypertube Floor Hole",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "8775348609168481822"
+  },
+  "-6509206745675684866": {
+    "name": "Hypertube Wall Attachments",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-6509206745675684866"
+  },
+  "-1728022619238605720": {
+    "name": "Inverted Corner Ramp Pack",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-1728022619238605720"
+  },
+  "2424790360639339645": {
+    "name": "Inverted Ramp Set",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "2424790360639339645"
+  },
+  "-2681820914992819562": {
+    "name": "Label Sign Bundle",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-2681820914992819562"
+  },
+  "-9060363759799656565": {
+    "name": "Factory Ladder",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-9060363759799656565"
+  },
+  "-8417338039137367649": {
+    "name": "Lights Control Panel",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-8417338039137367649"
+  },
+  "1515232543332424252": {
+    "name": "Flood Lights",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1515232543332424252"
+  },
+  "339283155271895540": {
+    "name": "Medical Box - Personal Storage Skin",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "339283155271895540"
+  },
+  "1607592133218501570": {
+    "name": "Clean Pipeline Mk.1",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1607592133218501570"
+  },
+  "-1069397016944524920": {
+    "name": "Clean Pipeline Mk.2",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-1069397016944524920"
+  },
+  "-7985641335972002592": {
+    "name": "Pipeline Floor Hole",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-7985641335972002592"
+  },
+  "-1008131852193245101": {
+    "name": "Pipeline Wall Attachments",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-1008131852193245101"
+  },
+  "2104336930553828118": {
+    "name": "Quarter Pipe Extensions Pack",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "2104336930553828118"
+  },
+  "-4339863205466950317": {
+    "name": "FICSIT Roofs",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-4339863205466950317"
+  },
+  "-1172580094838818878": {
+    "name": "FICSIT Roofs",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-1172580094838818878"
+  },
+  "-6450731512218670821": {
+    "name": "Stairs",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-6450731512218670821"
+  },
+  "1345568675447883719": {
+    "name": "Street Light",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "1345568675447883719"
+  },
+  "-5539837158482616810": {
+    "name": "Tilted Walls",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-5539837158482616810"
+  },
+  "-2753389619517226770": {
+    "name": "Industrial Walkways",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-2753389619517226770"
+  },
+  "-7095817678416117852": {
+    "name": "Wall Power Outlets Mk.1",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-7095817678416117852"
+  },
+  "7625835479071869722": {
+    "name": "Wall Power Outlets Mk.2",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "7625835479071869722"
+  },
+  "-240364877222173048": {
+    "name": "Wall Power Outlets Mk.3",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-240364877222173048"
+  },
+  "3044263372440724113": {
+    "name": "Basic Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "3044263372440724113"
+  },
+  "2820157388559379232": {
+    "name": "Conveyor Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2820157388559379232"
+  },
+  "-1043179579243401408": {
+    "name": "Down Diagonal Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1043179579243401408"
+  },
+  "4864636898729213259": {
+    "name": "Up Diagonal Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "4864636898729213259"
+  },
+  "4362626533786843232": {
+    "name": "Doors Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "4362626533786843232"
+  },
+  "4981716297795407370": {
+    "name": "Gates Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "4981716297795407370"
+  },
+  "6245148038954425721": {
+    "name": "Tilted Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "6245148038954425721"
+  },
+  "-2733238760949512750": {
+    "name": "Windows Concrete Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-2733238760949512750"
+  },
+  "-225945798925603209": {
+    "name": "Asphalt Quarter PIpe Extensions",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-225945798925603209"
+  },
+  "7950271307288790329": {
+    "name": "Concrete Quarter PIpe Extensions",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7950271307288790329"
+  },
+  "-6588069575824656448": {
+    "name": "Grip Metal Quarter PIpe Extensions",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6588069575824656448"
+  },
+  "-7918554384247475295": {
+    "name": "Polished Concrete Quarter PIpe Extensions",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7918554384247475295"
+  },
+  "5966332143030518586": {
+    "name": "Asphalt Foundations & Basic Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "5966332143030518586"
+  },
+  "1573608474381551002": {
+    "name": "Coated Concrete Foundations & Basic Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "1573608474381551002"
+  },
+  "6156013464065136358": {
+    "name": "Concrete Foundations & Basic Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "6156013464065136358"
+  },
+  "739269901796082590": {
+    "name": "Metal Foundations & Basic Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "739269901796082590"
+  },
+  "8847479523951529845": {
+    "name": "Asphalt Half Foundations",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8847479523951529845"
+  },
+  "-6579139505534077462": {
+    "name": "Concrete Half Foundations",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6579139505534077462"
+  },
+  "365428417933192578": {
+    "name": "Grip Metal Half Foundations",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "365428417933192578"
+  },
+  "8894064291163389124": {
+    "name": "Polished Concrete Half Foundations",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8894064291163389124"
+  },
+  "-3474830338134669893": {
+    "name": "Asphalt Quarter PIpes",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-3474830338134669893"
+  },
+  "-668264458319491497": {
+    "name": "Polished Concrete Quarter PIpes",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-668264458319491497"
+  },
+  "7435291277194676001": {
+    "name": "Concrete Quarter PIpes",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7435291277194676001"
+  },
+  "-6084658900897979273": {
+    "name": "Grip Metal Quarter PIpes",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6084658900897979273"
+  },
+  "-7730316384224085823": {
+    "name": "Asphalt Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7730316384224085823"
+  },
+  "5652733429273792987": {
+    "name": "Coated Concrete Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "5652733429273792987"
+  },
+  "3807105360285051884": {
+    "name": "Concrete Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "3807105360285051884"
+  },
+  "-7570927355577607299": {
+    "name": "Metal Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7570927355577607299"
+  },
+  "-6662947549920404598": {
+    "name": "Asphalt Double Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6662947549920404598"
+  },
+  "8840028111512247058": {
+    "name": "Coated Concrete Double Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8840028111512247058"
+  },
+  "2939623457276982136": {
+    "name": "Concrete Double Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2939623457276982136"
+  },
+  "7602627108478584935": {
+    "name": "Metal Double Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7602627108478584935"
+  },
+  "-1096813306093577436": {
+    "name": "Asphalt Inverted corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1096813306093577436"
+  },
+  "7148346756221045558": {
+    "name": "Coated Concrete Inverted Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7148346756221045558"
+  },
+  "-9220450878580281460": {
+    "name": "Concrete Inverted corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-9220450878580281460"
+  },
+  "-4630678338246822238": {
+    "name": "Metal Inverted Corner Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-4630678338246822238"
+  },
+  "8497616623221750572": {
+    "name": "Asphalt Inverted Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8497616623221750572"
+  },
+  "-1110375945910905343": {
+    "name": "Coated Concrete Inverted Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1110375945910905343"
+  },
+  "-9081297821049906242": {
+    "name": "Concrete Inverted Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-9081297821049906242"
+  },
+  "8850902882242669343": {
+    "name": "Metal Inverted Ramps",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "8850902882242669343"
+  },
+  "-6956276102645831170": {
+    "name": "Glass Roofs Basic",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-6956276102645831170"
+  },
+  "-7963986752451390213": {
+    "name": "Metal Roofs Basic",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7963986752451390213"
+  },
+  "-1134517540268177848": {
+    "name": "Tar Roofs Basic",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-1134517540268177848"
+  },
+  "-198998594177440191": {
+    "name": "Glass Roof Corners",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-198998594177440191"
+  },
+  "2413960408632995410": {
+    "name": "Metal Roof Corners",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2413960408632995410"
+  },
+  "2356199701935505444": {
+    "name": "Tar Roof Corners",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2356199701935505444"
+  },
+  "-2907738232730603353": {
+    "name": "Basic Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-2907738232730603353"
+  },
+  "3741548932178584168": {
+    "name": "Conveyor Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "3741548932178584168"
+  },
+  "6055083650462808826": {
+    "name": "Down Diagonal Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "6055083650462808826"
+  },
+  "-785052210188401594": {
+    "name": "Up Diagonal Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-785052210188401594"
+  },
+  "7181569528562913688": {
+    "name": "Doors Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "7181569528562913688"
+  },
+  "3138004370014392476": {
+    "name": "Gates Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "3138004370014392476"
+  },
+  "-4872793712887158405": {
+    "name": "Tilted Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-4872793712887158405"
+  },
+  "-3762027599975712346": {
+    "name": "Windows Steel Walls",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-3762027599975712346"
+  },
+  "-6995638083954500124": {
+    "name": "Hub Upgrade 1",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "-6995638083954500124"
+  },
+  "5959591742896043905": {
+    "name": "Hub Upgrade 2",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "5959591742896043905"
+  },
+  "3807381203833752788": {
+    "name": "Hub Upgrade 3",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "3807381203833752788"
+  },
+  "7419437855284872069": {
+    "name": "Hub Upgrade 4",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "7419437855284872069"
+  },
+  "-4823964056517129536": {
+    "name": "",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-4823964056517129536"
+  },
+  "4868330512211185963": {
+    "name": "Hub Upgrade 5",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "4868330512211185963"
+  },
+  "4158739057673104295": {
+    "name": "Hub Upgrade 6",
+    "tier": 0,
+    "type": "Tutorial",
+    "recipes": [],
+    "schematic_id": "4158739057673104295"
+  },
+  "4200563517265458985": {
+    "name": "Automatic Miner",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4200563517265458985"
+  },
+  "7814378769909582870": {
+    "name": "Compact Biomass",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "7814378769909582870"
+  },
+  "-3325531743677239858": {
+    "name": "Galvanized Sheet",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-3325531743677239858"
+  },
+  "17602311160636857": {
+    "name": "Reinforced Zinc Plates",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "17602311160636857"
+  },
+  "-3934170354310726184": {
+    "name": "Cutted Copper Wire",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-3934170354310726184"
+  },
+  "2539611220023188947": {
+    "name": "Flat Copper Cable",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "2539611220023188947"
+  },
+  "2080026591986284060": {
+    "name": "Instant Wires",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "2080026591986284060"
+  },
+  "4897210904351183296": {
+    "name": "Stamped Iron Screws",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4897210904351183296"
+  },
+  "2535547694998799340": {
+    "name": "Crushed Stone Dust",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "2535547694998799340"
+  },
+  "6329769900330927114": {
+    "name": "Crushed Lime Dust",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "6329769900330927114"
+  },
+  "-2264057208537965553": {
+    "name": "Mixed Rubyte",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-2264057208537965553"
+  },
+  "666663510008224038": {
+    "name": "Mixed Saperite",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "666663510008224038"
+  },
+  "481994036685002935": {
+    "name": "Mixed Satmonium",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "481994036685002935"
+  },
+  "-5663320960832809193": {
+    "name": "Mixed Stritarite",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-5663320960832809193"
+  },
+  "1686114376937413180": {
+    "name": "Heavy Copper",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "1686114376937413180"
+  },
+  "4945008863424417654": {
+    "name": "Conductive Iron",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4945008863424417654"
+  },
+  "1267312178632230285": {
+    "name": "Lime Steel",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "1267312178632230285"
+  },
+  "-467952563287238458": {
+    "name": "Conductive Copper",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-467952563287238458"
+  },
+  "-870203874815698477": {
+    "name": "Sloppy Brass",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-870203874815698477"
+  },
+  "1414372823297641499": {
+    "name": "Tinned Iron",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "1414372823297641499"
+  },
+  "4376533959984046138": {
+    "name": "Turbo Fuel",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4376533959984046138"
+  },
+  "2923315117260376731": {
+    "name": "Turbo Fuel",
+    "tier": 0,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "2923315117260376731"
+  },
+  "3408107591690614902": {
+    "name": "Conductive Iron",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "3408107591690614902"
+  },
+  "1036174932644918676": {
+    "name": "Casted Copper Parts",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "1036174932644918676"
+  },
+  "3920189016294803441": {
+    "name": "Casted Iron Parts",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "3920189016294803441"
+  },
+  "4549783486789956790": {
+    "name": "Casted Tin Parts",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4549783486789956790"
+  },
+  "-6508489075899022738": {
+    "name": "Pure Sorted Copper",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-6508489075899022738"
+  },
+  "4425505145848699878": {
+    "name": "Pure Sorted Caterium",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "4425505145848699878"
+  },
+  "-994679208001500306": {
+    "name": "Pure Sorted Iron",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-994679208001500306"
+  },
+  "-1142348248686705208": {
+    "name": "Pure Sorted Tin",
+    "tier": 0,
+    "type": "Alternate",
+    "recipes": [],
+    "schematic_id": "-1142348248686705208"
+  },
+  "-72809691842749936": {
+    "name": "",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-72809691842749936"
+  },
+  "-2598885348994825337": {
+    "name": "Conveyor Ceiling Mount",
+    "tier": 1,
+    "type": "Resource Sink",
+    "recipes": [],
+    "schematic_id": "-2598885348994825337"
+  },
+  "-6713553780620366081": {
+    "name": "FICSIT Blueprints",
+    "tier": 1,
+    "type": "Milestone",
+    "recipes": [],
+    "schematic_id": "-6713553780620366081"
+  },
+  "-7398688707274792268": {
+    "name": "Equipment: Fireworks",
+    "tier": 1,
+    "type": "Custom",
+    "recipes": [],
+    "schematic_id": "-7398688707274792268"
+  }
+}
