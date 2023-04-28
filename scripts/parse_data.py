@@ -62,7 +62,7 @@ def extract_data_from_schematics_json_file():
     recipes = []
     items = []
 
-    with open('../data/schematics.json', 'r') as f:
+    with open('dirty_data/schematics.json', 'r') as f:
         data = json.load(f)
 
         for data_schematic in data:
