@@ -7,7 +7,7 @@ def kebab_case_string(s):
 
 # because sometime buildings are duplicated, we need to remove duplicates
 def format_produced_in(produced_in):
-    return list(set([kebab_case_string(o["ProducedIn"].strip()) for o in produced_in]))
+    return sorted(list(set([kebab_case_string(o["ProducedIn"].strip()) for o in produced_in])))
 
 
 def format_schematic(data_schematic):
@@ -49,8 +49,8 @@ def merge_item(a, b):
     return {
         "id": a["id"],
         "name": a["name"],
-        "produced_in": list(set(a["produced_in"] + b["produced_in"])),
-        "consumed_in": list(set(a["consumed_in"] + b["consumed_in"])),
+        "produced_in": sorted(list(set(a["produced_in"] + b["produced_in"]))),
+        "consumed_in": sorted(list(set(a["consumed_in"] + b["consumed_in"]))),
     }
 
 
@@ -118,6 +118,9 @@ def extract_data():
 
                 if recipe["id"] in recipes:
                     print("Duplicate recipe: " + recipe["id"])
+
+                recipe["ingredients"] = sorted(recipe["ingredients"], key=lambda i: i["item_id"])
+                recipe["products"] = sorted(recipe["products"], key=lambda i: i["item_id"])
 
                 recipes[recipe["id"]] = recipe
 
