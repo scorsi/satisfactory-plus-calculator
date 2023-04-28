@@ -184,15 +184,13 @@ def process_data(list_schematics, list_recipes, list_items):
     return schematics, recipes, items
 
 
-(schematics, recipes, items) = extract_data_from_schematics_json_file()
-(schematics, recipes, items) = process_data(schematics, recipes, items)
+if __name__ == '__main__':
+    (schematics, recipes, items) = extract_data_from_schematics_json_file()
+    (schematics, recipes, items) = process_data(schematics, recipes, items)
 
-# print(schematics)
-# print("")
-# print(recipes)
-# print("")
-
-item = items["crushed-stiratite"]
-print(item)
-print([recipes[r]["name"] for r in item["produced_in"]])
-print([recipes[r]["name"] for r in item["consumed_in"]])
+    with open('cleaned_data/schematics.json', 'w') as schematics_file, \
+            open('cleaned_data/recipes.json', 'w') as recipes_file, \
+            open('cleaned_data/items.json', 'w') as items_file:
+        json.dump(schematics, schematics_file, indent=2)
+        json.dump(recipes, recipes_file, indent=2)
+        json.dump(items, items_file, indent=2)
