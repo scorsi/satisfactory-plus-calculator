@@ -6,6 +6,7 @@ type ToastProps = {
 }
 
 export const Toast = ({ toast: t }: ToastProps) => {
+  console.log("Toast", t)
   return (
     <Transition
       appear

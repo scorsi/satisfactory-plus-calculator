@@ -6,6 +6,10 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+
+  images: {
+    domains: ["www.gravatar.com"],
+  }
 };
 
 export default config;
