@@ -8,10 +8,12 @@ import { Layout } from "~/components/layout";
 import { Toast } from "~/components/ui/toast";
 import { Banner } from "~/components/ui/banner";
 import { Provider as JotaiProvider } from "jotai";
+import { Analytics } from "@vercel/analytics/react";
 
 const MyApp: AppType = ({ Component, pageProps }) => {
   return (
     <ClerkProvider {...pageProps}>
+      <Analytics />
       <JotaiProvider>
         <Head>
           <title>Satisfactory Plus Calculator</title>
