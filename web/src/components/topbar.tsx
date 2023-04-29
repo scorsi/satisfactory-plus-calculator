@@ -2,9 +2,10 @@ import { Popover, Transition } from "@headlessui/react";
 import { Fragment } from "react";
 import { Searchbar } from "~/components/searchbar";
 import { XMarkIcon } from "@heroicons/react/20/solid";
-import { Bars3Icon } from "@heroicons/react/24/outline";
+import { Bars3Icon, MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import { Navbar } from "~/components/navbar";
 import { AuthMenu } from "~/components/auth/auth-menu";
+import { SearchButton } from "~/components/search/search-button";
 
 const user = {
   name: "Tom Cook",
@@ -46,11 +47,14 @@ export const Topbar = () => {
               </div>
             </div>
             <div className="hidden border-t border-white border-opacity-20 py-5 lg:block">
-              <div className="flex items-center gap-24">
+              <div className="flex items-center justify-between">
                 <Navbar />
-                <div className="flex-grow">
-                  <Searchbar />
+                <div>
+                  <SearchButton />
                 </div>
+                {/*<div className="flex-grow">*/}
+                {/*  <Searchbar />*/}
+                {/*</div>*/}
               </div>
             </div>
           </div>
@@ -104,18 +108,6 @@ export const Topbar = () => {
                     </div>
                     <div className="pb-2 pt-4">
                       <AuthMenu />
-                      {/*<div className="flex items-center px-5">*/}
-                      {/*  <div className="flex-shrink-0">*/}
-                      {/*    <img className="h-10 w-10 rounded-full" src={user.imageUrl} alt="" />*/}
-                      {/*  </div>*/}
-                      {/*  <div className="ml-3 min-w-0 flex-1">*/}
-                      {/*    <div className="truncate text-base font-medium text-gray-800">{user.name}</div>*/}
-                      {/*    <div className="truncate text-sm font-medium text-gray-500">{user.email}</div>*/}
-                      {/*  </div>*/}
-                      {/*</div>*/}
-                      {/*<div className="mt-3 space-y-1 px-2">*/}
-                      {/*  /!* user navigation *!/*/}
-                      {/*</div>*/}
                     </div>
                   </div>
                 </Popover.Panel>

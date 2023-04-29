@@ -5,7 +5,7 @@ const Home: NextPage = () => {
   return (
     <>
       <main className="">
-        <h1 className="">Hello World</h1>
+        <p>Under construction...</p>
       </main>
     </>
   );

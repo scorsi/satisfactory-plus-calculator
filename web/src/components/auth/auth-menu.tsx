@@ -4,6 +4,8 @@ import { Fragment, useState } from "react";
 import { AuthModal } from "~/components/auth/auth-modal";
 import { Menu, Transition } from "@headlessui/react";
 import Image from "next/image";
+import Link from "next/link";
+import { UserIcon } from "@heroicons/react/24/outline";
 
 export const AuthMenu = () => {
   const { user, isSignedIn } = useUser();
@@ -38,7 +40,20 @@ export const AuthMenu = () => {
           leaveTo="transform opacity-0 scale-95"
         >
           <Menu.Items
-            className="absolute -right-2 z-10 mt-2 w-48 origin-top-right rounded-md bg-white p-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
+            className="absolute -right-2 z-10 mt-2 w-48 origin-top-right rounded-md bg-white p-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+          >
+            <Menu.Item>
+              <Link
+                className="w-full text-slate-700 hover:text-indigo-700 hover:bg-gray-100 group flex gap-x-2 rounded-md py-2 px-3 text-xs leading-6 font-semibold items-center"
+                href="/profile"
+              >
+                <UserIcon
+                  className={"text-slate-600 group-hover:text-indigo-700 h-4 w-4 shrink-0"}
+                  aria-hidden="true"
+                />
+                Profile
+              </Link>
+            </Menu.Item>
             <Menu.Item>
               <button
                 className="w-full text-slate-700 hover:text-indigo-700 hover:bg-gray-100 group flex gap-x-2 rounded-md py-2 px-3 text-xs leading-6 font-semibold items-center"

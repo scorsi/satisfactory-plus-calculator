@@ -9,11 +9,11 @@ import {
 } from "@heroicons/react/24/outline";
 
 export const mainNavigation = [
-  { name: "Home", href: "#", icon: HomeIcon, current: true },
-  { name: "Wiki", href: "#", icon: CircleStackIcon, current: false },
-  { name: "Map", href: "#", icon: MapIcon, current: false },
-  { name: "Planner", href: "#", icon: Cog8ToothIcon, current: false },
-  { name: "Guides", href: "#", icon: FolderIcon, current: false }
+  { name: "Home", href: "/", icon: HomeIcon },
+  { name: "Wiki", href: "/wiki", icon: CircleStackIcon },
+  { name: "Map", href: "/map", icon: MapIcon },
+  // { name: "Planner", href: "#", icon: Cog8ToothIcon },
+  // { name: "Guides", href: "#", icon: FolderIcon }
 ];
 
 export const userNavigation = [
