@@ -8,7 +8,7 @@ const config = {
   },
 
   images: {
-    domains: ["www.gravatar.com"],
+    domains: ["www.gravatar.com", "firebasestorage.googleapis.com"],
   }
 };
 
