@@ -2,7 +2,6 @@ import { useForm } from "react-hook-form";
 import { classNames } from "~/utils/classNames";
 import { SIMPLE_EMAIL_REGEX_PATTERN } from "~/utils/regex";
 import { Loader2 } from "lucide-react";
-import { CheckIcon } from "@heroicons/react/20/solid";
 import { PaperAirplaneIcon, WrenchScrewdriverIcon } from "@heroicons/react/24/outline";
 
 

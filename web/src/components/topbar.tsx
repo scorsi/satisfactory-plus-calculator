@@ -2,17 +2,10 @@ import { Popover, Transition } from "@headlessui/react";
 import { Fragment } from "react";
 import { Searchbar } from "~/components/searchbar";
 import { XMarkIcon } from "@heroicons/react/20/solid";
-import { Bars3Icon, MagnifyingGlassIcon } from "@heroicons/react/24/outline";
+import { Bars3Icon } from "@heroicons/react/24/outline";
 import { Navbar } from "~/components/navbar";
 import { AuthMenu } from "~/components/auth/auth-menu";
 import { SearchButton } from "~/components/search/search-button";
-
-const user = {
-  name: "Tom Cook",
-  email: "tom@example.com",
-  imageUrl:
-    "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-};
 
 export const Topbar = () => {
   return (

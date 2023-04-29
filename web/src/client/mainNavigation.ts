@@ -1,8 +1,8 @@
 import {
   AdjustmentsVerticalIcon,
   CircleStackIcon,
-  Cog8ToothIcon,
-  FolderIcon,
+  // Cog8ToothIcon,
+  // FolderIcon,
   HomeIcon,
   IdentificationIcon,
   MapIcon

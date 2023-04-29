@@ -8,5 +8,6 @@ export const useLazyRef = <T>(init: () => T): (() => T) => {
       value.current = init();
     }
     return value.current;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 };

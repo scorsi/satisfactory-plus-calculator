@@ -8,6 +8,7 @@ export function useStorage<T>(key: string, defaultValue?: T | undefined): [T | u
     localforage.getItem<T>(key)
       .then((saved) => setValue(saved ?? defaultValue))
       .catch(console.error);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [key]);
 
   useEffect(() => {

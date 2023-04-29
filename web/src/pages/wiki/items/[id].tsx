@@ -1,5 +1,5 @@
 import { generateServerSideHelper } from "~/server/helpers/generateServerSideHelper";
-import { NextPage, GetServerSideProps } from "next";
+import { type NextPage, type GetServerSideProps } from "next";
 import Head from "next/head";
 import { api } from "~/server/api";
 
@@ -19,7 +19,7 @@ const ItemView: NextPage<ItemViewProps> = (props: ItemViewProps) => {
       <Head>
         <title>SF+ Calculator :: Item :: {item.name}</title>
       </Head>
-      <h1>{item.name}</h1>
+      <h1>{item.name} : {id}</h1>
       <p>Main categorie: {item.categories["0"]}</p>
 
       <p>Produced In</p>
