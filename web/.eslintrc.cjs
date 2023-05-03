@@ -1,38 +1,57 @@
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const path = require("path");
-
-/** @type {import("eslint").Linter.Config} */
-const config = {
-  overrides: [
-    {
-      extends: [
-        "plugin:@typescript-eslint/recommended-requiring-type-checking",
-      ],
-      files: ["*.ts", "*.tsx"],
-      parserOptions: {
-        project: path.join(__dirname, "tsconfig.json"),
-      },
-    },
-  ],
-  parser: "@typescript-eslint/parser",
-  parserOptions: {
-    project: path.join(__dirname, "tsconfig.json"),
-  },
-  plugins: ["@typescript-eslint"],
-  extends: ["next/core-web-vitals", "plugin:@typescript-eslint/recommended"],
-  rules: {
-    "@typescript-eslint/consistent-type-imports": [
-      "warn",
-      {
-        prefer: "type-imports",
-        fixStyle: "inline-type-imports",
-      },
-    ],
-    "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
-    // "@typescript-eslint/no-unsafe-call": "off",
-    // "@typescript-eslint/no-unsafe-member-access": "off",
-    // "@typescript-eslint/no-unsafe-assignment": "off",
-  },
+module.exports = {
+	root: true,
+	parser: "@typescript-eslint/parser",
+	extends: [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended",
+		"prettier",
+		"plugin:import/recommended",
+		"plugin:import/typescript",
+		"plugin:unicorn/all",
+		"plugin:promise/recommended",
+		"plugin:sonarjs/recommended",
+		"plugin:eslint-comments/recommended",
+	],
+	plugins: ["svelte3", "@typescript-eslint"],
+	ignorePatterns: ["*.cjs"],
+	overrides: [{ files: ["*.svelte"], processor: "svelte3/svelte3" }],
+	settings: {
+		"svelte3/typescript": () => require("typescript"),
+		// "import/resolver": {
+		// 	typescript: {
+		// 		project: ["./tsconfig.json", "./.svelte-kit/tsconfig.json"],
+		// 	},
+		// 	node: {},
+		// },
+	},
+	rules: {
+		"import/no-unresolved": "off",
+		"import/order": [
+			"error",
+			{
+				groups: [
+					"builtin",
+					"external",
+					"internal",
+					["sibling", "parent"],
+					"index",
+					"unknown",
+				],
+				"newlines-between": "always",
+				alphabetize: {
+					order: "asc",
+					caseInsensitive: true,
+				},
+			},
+		],
+	},
+	parserOptions: {
+		sourceType: "module",
+		ecmaVersion: 2020,
+	},
+	env: {
+		browser: true,
+		es2017: true,
+		node: true,
+	},
 };
-
-module.exports = config;
